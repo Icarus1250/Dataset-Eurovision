@@ -1,0 +1,53 @@
+country;country.name;fyrst.year;most.recent.year;country.iso2;voting.block;land
+Albania;Albania;2004;2018;;east;Albanía
+Andorra;Andorra;2004;2009;;west;Andorra
+Armenia;Armenia;2006;2018;;east;Armenía
+Australia;Australia;2015;2018;AU;independent;Ástralía
+Austria;Austria;1957;2018;AT;west;Austurríki
+Azerbaijan;Azerbaijan;2008;2018;;east;Azerbaijan
+Belarus;Belarus;2004;2018;;east;Hvíta Rúsland
+Belgium;Belgium;1957;2018;BE;west;Belgía
+Bosnia Herzegovina;Bosnia-Herzegovina;1993;2016;;balkan;Bosnia-Herzegovina
+Bulgaria;Bulgaria;2005;2018;;east;Búlgaría
+Croatia;Croatia;1993;2018;HR;balkan;Króatía
+Cyprus;Cyprus;1981;2018;;west;Kýpur
+Czech Republic;Czech Republic;2007;2018;;east;Tékkland
+Denmark;Denmark;1957;2018;DK;west;Danmörk
+Estonia;Estonia;1994;2018;;baltic;Eistland
+Finland;Finland;1961;2018;FI;west;Finnland
+France;France;1957;2018;FR;west;Frakkland
+Fyr Macedonia;Former Yugoslavian republic of Macedonia;1998;2018;;balkan;Fyrrum Júgóslavía
+Georgia;Georgia;2007;2018;;east;Georgía
+Germany;Germany;1957;2018;DE;west;Þýskaland
+Greece;Greece;1974;2018;;west;Grikkland
+Hungary;Hungary;1994;2018;HU;east;Ungverjaland
+Iceland;Iceland;1986;2018;IS;west;Ísland
+Ireland;Ireland;1965;2018;IR;west;Írland
+Israel;Israel;1973;2018;;independent;Ísrael
+Italy;Italy;1957;2018;IT;west;Ítalía
+Latvia;Latvia;2000;2018;LV;baltic;Lettland
+Lithuania;Lithuania;1994;2018;LU;baltic;Litháen
+Luxembourg;Luxembourg;1957;1993;;west;Lúxemborg
+Malta;Malta;1971;2018;;west;Malta
+Moldova;Moldova;2005;2018;;east;Moldóva
+Monaco;Monaco;1959;2006;;west;Mónakkó
+Montenegro;Montenegro;2007;2018;;balkan;Svartfjallaland
+Morocco;Morocco;1980;1980;;west;Marokkó
+Norway;Norway;1960;2018;NO;west;Noregur
+Poland;Poland;1994;2018;PO;east;Pólland
+Portugal;Portugal;1965;2018;PT;west;Portúgal
+Romania;Romania;1994;2018;RO;east;Rúmenía
+Russia;Russia;1994;2018;RU;east;Rússland
+San Marino;San Marino;2008;2018;SM;west;San Marinó
+Serbia;Serbia;2007;2018;;balkan;Serbía
+Serbia Montenegro;Serbia-Montenegro;2004;2006;;balkan;Serbia-Montenegro
+Slovakia;Slovakia;1994;2012;;east;Slóvakía
+Slovenia;Slovenia;1993;2018;;east;Slóvenía
+Spain;Spain;1961;2018;ES;west;Spánn
+Sweden;Sweden;1958;2018;SE;west;Svíþjóð
+Switzerland;Switzerland;1957;2018;SU;west;Sviss
+The Netherlands;The Netherlands;1957;2018;NL;west;Holland
+Turkey;Turkey;1975;2012;TU;independent;Tyrkland
+Ukraine;Ukraine;2003;2018;;east;Úkraína
+United Kingdom;United Kingdom;1957;2018;GB;west;Bretland
+Yugoslavia;Yugoslavia;1961;1992;YU;east;Júgóslavía

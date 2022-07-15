@@ -1,0 +1,588 @@
+---
+title: "Analisi dei dati relativi ai risultati dell' Eurovision song contest"
+author: "Campo Lorenzo"
+date: '2022-07-01'
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Cos'è l'Eurovision song contest?
+
+L'eurovision song copntest è un concorso musicale a livello internazionale che si svolge ogni anno nel mese di Maggio.
+
+Fondato dai Big 5 nel 1956, è il concorso musicale piu longevo al mondo
+
+I Big 5 o grandi 5 sono i 5 stati fondatori degli eurovision e sono Regno Unito, Spagna, Francia, Germania e Italia. Lo status di Big 5 garantisce la qualifica istantanea alle finali. Per questo motivo le nostre analisi si concentrerenno principalmente sui risultati delle finali poiche in caso contrario, stati che hanno partecipato alle semifinali si ritroverebbero con piu punti di quanti gli spetterebbero
+
+Lo stato ospitante è lo stato che ha ottenuto la vittoria l'anno precedente
+
+### Come avviene la votazione?
+La valutazione delle canzoni viene divisa tra giuria e televoto. Ogni stato assegna voti alle 10 canzoni piu piaciute in base alla classifica stillata dal televoto e dalla giuria della propria nazione in modo separato.
+Ogni nazione NON può votare per se stessa
+I punti assegnati a ogni canzone sono assegnati in questo modo
+
+- primo posto:12 punti
+- secondo posto 10 punti
+- terzo posto in poi: da 8 a 1 punto
+
+Il massimo punteggio complessivo è di 24 per ogni stato votante meno il proprio
+
+Si noti che questo sistema di votazione è relativa mente recente (introdotto nel 2016). Eurovision ha cambiato molto spesso i suoi sistemi di votazione e, come vedremo in seguito, ciò influirà sull'analisi dei dati.
+
+Ora che abbiamo capito di cosa stiamo parlando possiamo cominciare l'analisi
+\newpage
+
+# Librerie e importazione del dataset
+
+Cominciamo con l'importare le librerie che ci serviranno per la nostra analisi
+
+```{r Importazione librerie, message=FALSE, warning=FALSE}
+#http://www.escstats.com/ fonte dei dati
+#https://data.world/rhubarbarosa/eurovisionvotingstats Download dataset
+
+library("dplyr")
+library("readr")
+library(tidyr)
+library(ggplot2)
+library(purrr)
+library(broom)
+library(stringr)
+library(modelr)
+
+options(scipen = 999) #ci serve ad eliminare la notazione scientifica
+```
+
+
+Importiamo ora 2 dei dataset che useremo durante la nostra analisi
+- events_data: contiene i dati generali dell'evento e sarà la base della maggior parte dei nostri data frame.
+- event_televote: contiene dati dettagliati delle votazioni dal 2016 al 2018 con i dettagli della votazione di giuria e televoto e relativi piazzamenti in classifica
+-event_country_votes: mostra stati votanti e stati riceventi per ogni votazione della giuria
+
+Il nostro dataset contiene dati a partire dalla prima edizione del 1956 fino al 2019 ma la prima edizione, poiché in quell'occasione il sistema di votazione non dichiarava il punteggio finale, verrà ignorato in quanto non contiene dati utili ai nostri scopi e potrebbe influire sui risultati di certi grafici
+
+Inoltre il 2019 è presente solo in un dataset ma, poiche non cotiene dati che possono gravemente influenzare gli esiti dei nostri esami, ho ritenuto opportuno tenerlo in quanto idoneo nel contesto preso in considerazione
+
+```{r Importazione dataset, message=FALSE, warning=FALSE}
+events_data <- read_delim("E:/dataset eurovision/EventParticipantsAndPlace.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+events_data=events_data%>%
+  mutate(Country=replace(Country,Country=="Itali","Italy"))%>%
+  mutate(Country=replace(Country,Country=="Sqitzerland","Switzerland"))%>%
+  arrange(event.year)%>%
+  filter(event.year>1956)
+
+event_televote<-read_delim("E:/dataset eurovision/VotingDetails.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+
+
+event_country_vote<-read_delim("E:/dataset eurovision/CountryVotes.csv", delim = ";", escape_double = FALSE, trim_ws = TRUE)
+
+state_votes<-event_country_vote%>%
+  filter(event.type=="final" | event.type=="grand-final")%>%
+  select(event.year,awarding.country,recipient.country,pts)
+```
+
+\newpage
+
+# Tabelle di supporto
+Creiamo ora 2 tabelle che ci serviranno piu avanti
+Queste tabelle sono:
+- edition_max_votes: fornisce il massimo punteggio attribuito da uno stato a un altro in base all'edizione
+- support:contiene il numero di partecipanti in ogni edizione.
+
+
+```{r}
+
+event.year=c(1957:2018)
+i=0
+max_points=rep(0,length(event.year))
+for (var in event.year) {
+  i=i+1
+  x=0
+  if(var<=1961)
+  {
+    x=10
+  }
+  else
+  if(var==1962)
+  {
+    x=3
+  }
+  else
+  if(var>=1963 & var<=1966)
+  {
+    x=5
+  }
+  else
+  if(var>=1967 & var<=1973)
+  {
+    x=10
+  }
+  else
+  if(var==1974)
+  {
+    x=10
+  }
+  else
+  if(var>=1975 & var<=2015)
+  {
+    x=12
+  }
+  else
+  if(var>=2016 & var<=2022)
+  {
+    x=24
+  }
+  max_points[i]=x
+}
+
+edition_max_votes<-data.frame(event.year,max_points)
+support=events_data%>%
+  filter(event.year>1956)%>%
+  group_by(event.year)%>%
+  summarize(partecipanti=n_distinct(Country))
+```
+
+\newpage
+
+# statistiche interessanti
+
+Possiamo ora cominciare a rispondere ad alcune delle nostre domande
+
+### Quali canzoni hanno ricevuto piu voti?
+
+Quali sono state le canzoni piu votate nella storia del festival?
+Ci limitiamo ad analizzare i dati a partire dal 2016 poiché, come spiegato in precedenza, coincide con l'entrata in vigore del nuovo sistema di punteggio e i dati delle edizioni precedenti non sono sufficienti a elaborare una conversione accurata.
+
+```{r}
+most_voted_songs<-events_data%>%
+  filter(event.type=="final" | event.type=="grand-final",event.year>=2016)%>%
+  mutate(Entry=paste(event.year,Song))%>%
+  select(Entry,Country,pts)%>%arrange(-pts)
+
+
+
+ggplot(head(most_voted_songs,10),mapping=aes(y=reorder(str_replace(string=Entry,pattern="[^[:graph:]]",replacement = "-"),pts), x=pts,fill=Country))+
+  geom_col()+
+  labs(title="Canzoni con piu voti",
+        x="Voti", y= "anno-canzone")+
+  geom_text(aes(label = pts),nudge_x = -40, color="white")
+
+```
+
+
+Congratulazioni a Amar Pelos Dois, canzone del portogallo del 2017, per essere la canzone piu apprezzata nella storia recente degli eurovision
+
+"Perche non valutare la percentuale di punti ricevuti sul totale possibile? In questo modo si potrebbero valutare anche le edizioni precedenti" 
+
+Semplice, perche non conosciamo quanti hanno votato e quanti di questi voti siano leggittimi(sono sorti spesso casi di voti concordati, 5 solo quest anno), ma solo il totale.
+
+\newpage
+
+### Quale nazione Ha totalizzato piu vittorie?
+
+Un conto è ricevere un buon punteggio, ma un altro è ottenere l'agoniato premio.
+Vediamo ora chi è stato lo stato biu abile
+
+```{r}
+
+most_victory<-events_data%>%filter(event.type=="final" | event.type=="grand-final",Place==1)%>%group_by(Country)%>%summarise(vittorie=n())%>%arrange(-vittorie)
+most_victory
+
+ggplot(data=most_victory ,mapping=aes(y= reorder(Country,vittorie),x=vittorie))+
+  geom_col(fill="#ffd700")+
+  labs(title="Nazioni con più vittorie",
+        x="vittorie", y= "Stato")
+```
+
+
+Congratulazioni all'irlanda per aver totalizzato ben 7 vittorie seguita da Svezia e Regno unito
+
+\newpage
+
+### Quale nazione ha totalizzato piu ultime posizioni?
+
+Passiamo ora dalla parte opposta della classifica
+
+Chi ha totalizzato piu ultime posizioni?
+
+```{r}
+
+Finalists<-events_data%>%
+  filter(event.type=="final" | event.type=="grand-final")%>%
+  select(event.year,Place)%>%group_by(event.year)%>%summarise(finalisti=max(Place))
+
+most_last<- inner_join(events_data,Finalists)%>%filter(event.type=="final" | event.type=="grand-final",Place==finalisti)%>%group_by(Country)%>%summarise(ultimi=n())%>%arrange(-ultimi)
+
+sum(most_last[2])
+
+ggplot(data=most_last ,mapping=aes(y= reorder(Country,ultimi),x=ultimi))+
+  geom_col()+
+  labs(title="Nazioni con più sconfitte",
+        x="Sconfitte", y= "Stato")
+```
+
+
+Purtoppo questo triste encomio viene guadagnato dalla Norvegia che totalizza un totale di 11 sconfitte totali
+Seguono Belgio con 10 e Germania a parimerito con la Finlandia con 9 ultime posizioni
+
+
+\newpage
+
+### Quale la nazione ha collezionato piu seconde posizioni?
+
+Non sempre il primo classificato ottiene tutta la gloria
+Spesso i "runner up" o secondi classificati acquisiscono piu successo dei loro colleghi al primo posto e spesso appaiono nuovamente in edizioni successive del festival stesso.
+
+Vediamo chi è quasi arrivato alla vetta
+```{r}
+
+most_second<-events_data%>%filter(event.type=="final" | event.type=="grand-final",Place==2)%>%arrange(Country)%>%group_by(Country)%>%summarise(runner_up=n())%>%arrange(-runner_up)
+most_second
+
+ggplot(data=most_second ,mapping=aes(y= reorder(Country,runner_up),x=runner_up))+
+  geom_col(fill="#c0c0c0")+
+  labs(title="Nazioni con più secondi posti",
+        x="Secondi posti", y= "Stato")
+```
+
+
+Con un enorme distacco il Regno Unito si guadagna il premio di eterno secondo con un totale di 15 secondi posti
+Seguono Germania,Russia,Irlanda,Germania e Francia con 4 secondi posti l'uno
+
+\newpage
+
+### Quali sono gli stati che hanno guadagnato piu punti, quanti di questi sono stati attribuiti dal televoto e quanti dalla giuria?
+
+Ora facciamo un piccolo confronto
+vediamo ora rappresentato quanto hanno contribuito televoto e giuria nelle votazioni dei vari stati.
+
+```{r}
+
+piramid_j<-event_televote%>%filter(event.type=="final" | event.type=="grand-final")                                     %>%select(event.year,Receiving.country,Jury.points,Total.pts)%>%mutate(type="Jury")
+names(piramid_j)[names(piramid_j) == 'Jury.points'] <- 'pts'
+
+piramid_t<-event_televote%>%filter(event.type=="final" | event.type=="grand-final")                                     %>%select(event.year,Receiving.country,Televoting.points,Total.pts)%>%mutate(type="Televote",)
+names(piramid_t)[names(piramid_t) == 'Televoting.points'] <- 'pts'
+              
+piramid_jt<-full_join(piramid_j,piramid_t)%>%
+  group_by(Receiving.country,type)%>%
+  summarise(pts=sum(pts,na.rm = TRUE),Total.pts=sum(Total.pts,na.rm = TRUE))%>%
+  mutate(pts=ifelse(type=="Jury", pts*(-1), pts*1))%>%arrange(-Total.pts)
+
+
+    ggplot(piramid_jt,aes(x =  reorder(Receiving.country,Total.pts),y = pts,fill=type)) + 
+    geom_col() +
+    coord_flip()+
+    labs(title="Nazioni con più punti",
+        x="Punti", y= "Stato")+
+    geom_text(size=2,aes(label = abs(pts)),nudge_x = 0.2, color="black")
+
+```
+
+
+Vediamo che esistono alcuni casi poco bilanciati come la Polonia e Regno Unito
+
+La polonia deve il suo successo al televoto mentre, al contrario, il regno unito lo deve alla giuria
+
+\newpage
+
+### Qual'è la posizione media ottenuta da ogni stato?
+
+Vediamo infine la media complessiva dei piazzamenti dei vari stati
+```{r}
+media_pos<-events_data%>%filter(event.type=="final" | event.type=="grand-final")%>%group_by(Country)%>%summarise(media.Place=mean(Place,na.rm=TRUE))%>%arrange(media.Place)
+knitr::kable(media_pos, 
+ caption = "Media posizione in classifica")
+```
+
+Possiamo notare che al primo posto abbiamo Serbia & Montenegro. 
+Sebbene non siano uno stato a se, il regolamento non vieta a 2 stati di unirsi in un unica esibizione.
+
+\newpage
+
+### Quante partecipazioni alla finale dell'eurovision ha guadagnato ogni stato?
+
+Vediamo ora quante volte ogni stato ha partecipato alla finale
+```{r}
+
+most_partecipation<-events_data%>%filter(event.type=="final" | event.type=="grand-final")%>%
+  group_by(Country)%>%summarise(partecipazioni=n())%>%arrange(-partecipazioni)%>%mutate(Big_5=ifelse(Country %in% c("Italy","Germany","United Kingdom","Spain","France"),"è parte dei Big 5","non è parte dei big 5"))
+
+
+ggplot(data=most_partecipation ,mapping=aes(y= reorder(Country,partecipazioni),x=partecipazioni,fill=Big_5))+
+  geom_col()+
+  labs(title="Partecipazioni di ogni Stato",
+        x="Partecipazioni", y= "Stato")+
+  geom_text(size=2,aes(label = partecipazioni),nudge_y = 0.3, nudge_x = 1, color="black")
+
+
+```
+
+
+Senza troppe sorprese vediamo 4 dei Big 5 in cima alla classifica(Regno unito,Germania,Francia,Spagna) poichè sono automaticamente inclusi alle finali.
+
+L'italia però fa eccezione
+
+### Perche l'italia non ha partecipato in quantità equivalente?
+
+Troviamo il periodo d'attività dell'Italia
+```{r}
+italy_partecipation<-events_data%>%filter(event.type=="final" | event.type=="grand-final",Country=="Italy")%>%
+  select(event.year,Country)
+italy_partecipation
+
+ggplot(data=italy_partecipation ,mapping=aes(x=event.year,y=Country))+
+  geom_point()+
+  scale_x_continuous(breaks = scales::extended_breaks(n=12))+
+  labs(title="Partecipazione italiana agli Eurovision",
+        x="Anno partecipazione", y= "Stato")
+  
+```
+
+
+Vediamo chiaramente un periodo relativamente esteso di tempo in cui l'italia si è astenuta dal partecipare.
+
+Il motivo è che a quel tempo l'Eurovision non era abbastanza conosciuto e la RAI, emittente che paga i diritti televisivi all'EBU(European Broadcasting Union, prima conosciuta come eurovision, da cui il nome del concorso), non riteneva questo investimento fruttuoso. 
+
+l'Italia è tornata nel 2011 dopo continue richieste da parte degli artisti. Da allora gli ascolti dell'eurovision in Italia sono ai massimi storici, specie dopo la vittoria del 2021.
+
+
+\newpage
+
+### I Big 5 meritano il loro posto in finale?
+
+Vediamo se il loro risultato medio merita il posto permanente in finale
+
+```{r}
+Big_5.pos=media_pos%>%filter(Country %in% c("Italy","Germany","United Kingdom","Spain","France"))
+
+knitr::kable(Big_5.pos, 
+ caption = "Media posizione in classifica dei Big 5")
+
+```
+
+
+Possiamo constatare che mediamente la loro posizione è superiore alla metà dei finalisti (25 minimi in base al regolamento)
+
+Considero l'accesso diretto alla finale come guadagnato.
+
+\newpage
+
+### Quali stati hanno preferenze nel dare i loro 12 punti?
+
+```{r}
+most_voted_country<-event_country_vote%>%filter(event.type=="final" | event.type=="grand-final",pts==12)%>%
+  group_by(awarding.country,recipient.country)%>%summarise(count=n())%>%arrange(-count)%>%
+  mutate(votante_votato=paste(awarding.country,"-",recipient.country))
+most_voted_country
+
+ggplot(data=head(most_voted_country,25) ,mapping=aes(y= reorder(votante_votato,count),x=count))+
+  geom_col(fill="#00bfc4")+
+  labs(title="Voto massimo assegnato da ogni stato",
+        x="Quantità 12 punti assegnati", y= "Donatore-Ricevente")+
+  geom_text(aes(label = count),nudge_y = 0.1 , nudge_x = -0.5, color="white")
+
+```
+
+
+Interessante notare come Grecia e Cipro si siano assegnati a vicenda 12 punti quasi costantemente
+
+Ormai è diventata battuta ricorrente i 12 punti di Cipro e Grecia assegnati sempre l'uno all'altro ogni edizione
+
+
+### Perche cipro ha ricevuto meno voti da parte della grecia?
+Vediamo quante volte hanno partecipato rispettivamente Cipro e Grecia
+
+```{r}
+
+
+greece_cyprus<-events_data%>%filter(event.type=="final" | event.type=="grand-final",Country=="Greece" | Country=="Cyprus")%>%
+  select(Country)%>%
+  arrange(Country)%>%
+  group_by(Country)%>%summarise(count=n())
+
+greece_cyprus
+
+ggplot(data=greece_cyprus ,mapping=aes(x=Country, y=count))+
+  geom_col(fill="dark blue")+
+  labs(title="Partecipazione alla finale di Cipro e Grecia",
+        x="Stati", y= "Partecipazioni alla finale")+
+  geom_text(aes(label = count),nudge_y = -1 ,  color="white")
+
+```
+
+
+Cipro si è qualificato per le finali meno volte della grecia e, poiché uno stato partecipante può ancora votare, da il suo voto alla grecia mentre, la giuria greca, non può fare altrettanto in quanto cipro non è piu parte del concorso.
+
+\newpage
+
+# Analisi di correlazione tra punti ottenuti e ordine di apparizione
+
+è ora di passare a qualcosa di piu serio, un analisi sulla correttezza dei voti emessi
+
+Spesso sorge spontaneo chiedersi quanto i voti vengano influenzati da fattori esterni e spesso ciò accade dopo che il proprio paese non ha guadagnato l'ambito trofeo
+
+Ma perche analizzare l'ordine di apparizione?
+Un utente sul social network Reddit ha condiviso questa domanda con la sua opinione:
+
+- Il voto viene influenzato poichè molti telespettatori assistono solo alle esibizioni successive a quella del prorpio rappresentante e non a quelle precedenti. Lo spettatore quindi si fa un idea solo sulle esibizioni che avvengono dopo quella della propria nazione e tende a votarle dando un punteggio maggiore ad esse rispetto alle precedenti.
+
+Ipotesi legittima che adesso andremo a verificare
+
+### L'ordine di esibizione influenza i punti ottenuti totali?
+
+```{r}
+global_votes<-events_data%>%filter(event.type=="final" | event.type=="grand-final",event.year>1956)%>%select(event.year,Country,order.of.appearance,Place,pts)
+
+support=events_data%>%filter(event.year>1956)%>%group_by(event.year)%>%summarize(partecipanti=n_distinct(Country))
+
+global_votes=inner_join(x=global_votes ,y=support)%>%mutate(percent.appearance=100*order.of.appearance/partecipanti)
+
+global_votes=inner_join(global_votes,edition_max_votes)%>%mutate(percent.pts=100*pts/(max_points*(partecipanti-1)))
+
+ggplot(global_votes,aes(percent.appearance,percent.pts))+
+  geom_point()+
+  labs(title="Analisi globale",x="Ordine di apparizione(%)", y= "Punti ottenuti(%)")
+```
+Da una prima occhiata non sembra eserci una correlazione tra voti e ordine di apparizione, ma per esserne sicuri guardiamo i dati matematici
+
+```{r}
+mod1 = lm(percent.pts ~ percent.appearance, data = global_votes)
+summary(mod1)
+```
+```{r}
+mod1$coefficients
+```
+
+```{r}
+ggplot(global_votes, aes(percent.appearance,percent.pts)) + 
+  geom_point() + 
+  geom_abline(intercept = mod1$coefficients[1], 
+              slope = mod1$coefficients[2], 
+              color = "red")+
+  labs(title="Analisi globale",x="Ordine di apparizione(%)", y= "Punti ottenuti(%)")
+```
+La retta che mostra la previsione tende ad aumentare leggermente, ma non possiamo parlare ancora di correlazione
+
+Cerchiamo ora R e R^2
+
+
+```{r}
+r_global = cor(global_votes$percent.appearance, global_votes$percent.pts,use= "complete.obs")
+r_global
+r_global^2
+
+```
+
+
+Poiché r^2 è molto vicino a 0, una correlazione tra l'ordine di apparizione e i punti ottenuti sembra quindi non esserci. 
+
+Considero le due variabili indipendenti
+
+
+### Ma varrà la stessa cosa per il voto degli spettatori?
+
+ripetiamo lo stesso procedimento ma sta volta usando i dati del televoto
+```{r}
+#punti_televoto--------------------------------------------
+tele_votes<-event_televote%>%
+                         filter(event.type=="grand-final")%>%
+                         group_by(event.year,Receiving.country)%>%
+                         summarise(pts=sum(Televoting.points,na.rm = TRUE))
+
+tele_votes=inner_join(x=tele_votes , y=global_votes, by=c("event.year"="event.year","Receiving.country"="Country") )
+
+tele_votes=inner_join(x=tele_votes ,y=support)%>%
+  mutate(percent.appearance=100*order.of.appearance/partecipanti, percent.voti=100*pts.x/(12*nrow(event_televote%>%select(Awarding.country)%>%group_by(Awarding.country)%>%summarise())))
+
+ggplot(tele_votes,aes(percent.appearance,percent.voti))+geom_point()+
+  labs(title="Analisi solo televoto", x="Ordine di apparizione(%)", y= "Punti ottenuti(%)")
+```
+
+Il grafico sembra già mostrare un certo andamento.
+Piu ci si sposta a destra piu la percentuale dei voti sale
+
+```{r}
+
+mod2 = lm(percent.voti ~ percent.appearance, data = tele_votes)
+summary(mod2)
+```
+
+```{r}
+mod2$coefficients
+```
+
+```{r}
+
+ggplot(tele_votes, aes(percent.appearance,percent.voti)) + 
+  geom_point() + 
+  geom_abline(intercept = mod2$coefficients[1], 
+              slope = mod2$coefficients[2], 
+              color = "red")+
+  labs(title="Analisi solo televoto",x="Ordine di apparizione(%)", y= "Punti ottenuti(%)")
+```
+La retta ci mostra quello che sospettavamo ma anche in questo caso è un aumento lieve
+```{r}
+r_tele = cor(tele_votes$percent.appearance, tele_votes$percent.voti,use= "complete.obs")
+r_tele
+r_tele^2
+
+```
+Possiamo vedere che, sebbene il televoto sia leggermente piu correlato all'ordine di apparizione rispetto al voto globale, siamo ancora lontani dal considerare voti e ordine di apparizione correlati.
+
+
+### Vale anche per i singoli stati?
+
+Valutiamo la correlazione dei voti emessi dalle giurie dei singoli stati e l'ordine di comparsa dello stato votato
+
+Uniamo ora i nostri dati con le tabelle di supporto al fine di ottenere una tabella utile ai nostri scopi
+
+```{r}
+state_votes=inner_join(state_votes,edition_max_votes)
+
+temp=events_data%>%filter(event.type=="final" | event.type=="grand-final",event.year>1956)%>%
+                select(event.year,Country,order.of.appearance)
+
+state_votes=inner_join(state_votes,temp,by=c("event.year"="event.year","recipient.country"="Country"))%>%mutate(max_points=replace(max_points,event.year>=2016,12), pts.percent=100*pts/max_points)
+
+state_votes
+```
+Ora raggruppiamo i dati in base allo stato votante cosi da avere i dati che ci servono su un unica riga
+
+```{r}
+grouped_states=state_votes%>%group_by(awarding.country)%>%nest()
+grouped_states[1]
+grouped_states[[2]][1]
+```
+Ora che abbiamo reso il nostro dataframe piu ordinato possiamo agire su di esso e calcolare la correlazione tra voti e apparizione per ogni singolo stato con la funzione map()
+
+```{r}
+states_model=function(df)
+{
+  lm(order.of.appearance ~ pts.percent, data=df)
+}
+
+grouped_states=grouped_states%>%mutate(model=map(data,states_model))
+
+grouped_states
+```
+
+Decomprimiamo la tabella ed estrapoliamo R^2 per verificare se esistono stati influenzati nel loro voto
+
+```{r}
+grouped_states=grouped_states %>% mutate(data = map2(data, model, add_residuals))
+
+grouped_states = grouped_states %>% mutate(glance = map(model, broom::glance))
+
+states_dipendence=unnest(grouped_states,glance)
+states_dipendence=states_dipendence%>%arrange(-r.squared)%>%select(awarding.country,r.squared)
+
+states_dipendence
+```
+Come visto in precedenza siamo ancora lontani dal definire una correlazione tra voti e ordine di apparizione
+
+Possiamo però notare che Marocco e Republica Ceca hanno valori nettamente piu alti rispetto agli altri stati
+
+Cio è dovuto al basso numero di partecipazioni(visibile nelle tabelle mostrate all'inizio). Hanno rispettivamente partecipato 1 e 3 volte alla finale degli eurovision quindi non si hanno sufficienti dati per esprimere una correlazione.
+
+In conlusione possiamo dire che l'ordine di apparizione non influenza gli esiti finali, quindi il sistema di voto attuale giusto e imparziale.

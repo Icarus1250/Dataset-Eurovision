@@ -1,0 +1,1846 @@
+event.year;event.city;event.type;order.of.appearance;Country;Artist;Song;pts;Place;event.id;page
+1956;Lugano;final;1;The Netherlands;Jetty Paerl;De Vogels Van Holland;;2;lugano-1956;participants
+1956;Lugano;final;2;Switzerland;Lys Assia;Das Alte Karussell;;2;lugano-1956;participants
+1956;Lugano;final;3;Belgium;Fud Leclerc;Messieurs Les Noyés De La Seine;;2;lugano-1956;participants
+1956;Lugano;final;4;Germany;Walter Andreas Schwarz;Im Wartesaal Zum Großen Glück;;2;lugano-1956;participants
+1956;Lugano;final;5;France;Mathé Altéry;Le Temps Perdu;;2;lugano-1956;participants
+1956;Lugano;final;6;Luxembourg;Michèle Arnaud;Ne Crois Pas;;2;lugano-1956;participants
+1956;Lugano;final;7;Italy;Franca Raimondi;Aprite Le Finestre;;2;lugano-1956;participants
+1956;Lugano;final;8;The Netherlands;Corry Brokken;Voorgoed Voorbij;;2;lugano-1956;participants
+1956;Lugano;final;9;Switzerland;Lys Assia;Refrain;;1;lugano-1956;participants
+1956;Lugano;final;10;Belgium;Mony Marc;Le Plus Beau Jour De Ma Vie;;2;lugano-1956;participants
+1956;Lugano;final;11;Germany;Freddy Quinn;So Geht Das Jede Nacht;;2;lugano-1956;participants
+1956;Lugano;final;12;France;Dany Dauberson;Il Est Là;;2;lugano-1956;participants
+1956;Lugano;final;13;Luxembourg;Michèle Arnaud;Les Amants De Minuit;;2;lugano-1956;participants
+1956;Lugano;final;14;Italy;Tonina Torielli;Amami Se Vuoi;;2;lugano-1956;participants
+1957;Frankfurt;final;1;Belgium;Bobbejaan Schoepen;Straatdeuntje;5;8;frankfurt-1957;participants
+1957;Frankfurt;final;2;Luxembourg;Danièle Dupré;Tant De Peine;8;4;frankfurt-1957;participants
+1957;Frankfurt;final;3;United Kingdom;Patricia Bredin;All;6;7;frankfurt-1957;participants
+1957;Frankfurt;final;4;Italy;Nunzio Gallo;Corde Della Mia Chitarra;7;6;frankfurt-1957;participants
+1957;Frankfurt;final;5;Austria;Bob Martin;Wohin, Kleines Pony;3;10;frankfurt-1957;participants
+1957;Frankfurt;final;6;The Netherlands;Corry Brokken;Net Als Toen;31;1;frankfurt-1957;participants
+1957;Frankfurt;final;7;Germany;Margot Hielscher;Telefon, Telefon;8;4;frankfurt-1957;participants
+1957;Frankfurt;final;8;France;Paule Desjardins;La Belle Amour;17;2;frankfurt-1957;participants
+1957;Frankfurt;final;9;Denmark;Birthe Wilke and Gustav Winckler;Skibet Skal Sejle I Nat;10;3;frankfurt-1957;participants
+1957;Frankfurt;final;10;Switzerland;Lys Assia;L'enfant Que J'étais;5;8;frankfurt-1957;participants
+1958;Hilversum;final;1;Italy;Domenico Modugno;Nel Blu Dipinto Di Blu;13;3;hilversum-1958;participants
+1958;Hilversum;final;2;The Netherlands;Corry Brokken;Heel De Wereld;1;9;hilversum-1958;participants
+1958;Hilversum;final;3;France;André Claveau;Dors Mon Amour;27;1;hilversum-1958;participants
+1958;Hilversum;final;4;Luxembourg;Solange Berry;Un Grand Amour;1;9;hilversum-1958;participants
+1958;Hilversum;final;5;Sweden;Alice Babs;Lilla Stjärna;10;4;hilversum-1958;participants
+1958;Hilversum;final;6;Denmark;Raquel Rastenni;Jeg Rev Et Blad Ud Af Min Dagbog;3;8;hilversum-1958;participants
+1958;Hilversum;final;7;Belgium;Fud Leclerc;Ma Petite Chatte;8;5;hilversum-1958;participants
+1958;Hilversum;final;8;Germany;Margot Hielscher;Für Zwei Groschen Musik;5;7;hilversum-1958;participants
+1958;Hilversum;final;9;Austria;Liane Augustin;Die Ganze Welt Braucht Liebe;8;5;hilversum-1958;participants
+1958;Hilversum;final;10;Switzerland;Lys Assia;Giorgio;24;2;hilversum-1958;participants
+1959;Cannes;final;1;France;Jean Philippe;Oui, Oui, Oui, Oui;15;3;cannes-1959;participants
+1959;Cannes;final;2;Denmark;Birthe Wilke;Uh-jeg Ville Ønske Jeg Var Dig;12;5;cannes-1959;participants
+1959;Cannes;final;3;Italy;Domenico Modugno;Piove;9;6;cannes-1959;participants
+1959;Cannes;final;4;Monaco;Jacques Pills;Mon Ami Pierrot;1;11;cannes-1959;participants
+1959;Cannes;final;5;The Netherlands;Teddy Scholten;Een Beetje;21;1;cannes-1959;participants
+1959;Cannes;final;6;Germany;Alice and Ellen Kessler;Heut' Woll'n Wir Tanzen Geh'n;5;8;cannes-1959;participants
+1959;Cannes;final;7;Sweden;Brita Borg;Augustin;4;9;cannes-1959;participants
+1959;Cannes;final;8;Switzerland;Christa Williams;Irgendwoher;14;4;cannes-1959;participants
+1959;Cannes;final;9;Austria;Ferry Graf;Der K. Und K. Kalypso Aus Wien;4;9;cannes-1959;participants
+1959;Cannes;final;10;United Kingdom;Pearl Carr and Teddy Johnson;Sing Little Birdie;16;2;cannes-1959;participants
+1959;Cannes;final;11;Belgium;Bob Benny;Hou Toch Van Mij;9;6;cannes-1959;participants
+1960;London;final;1;United Kingdom;Bryan Johnson;Looking High, High, High;25;2;london-1960;participants
+1960;London;final;2;Sweden;Siw Malmkvist;Alla Andra Får Varann;4;10;london-1960;participants
+1960;London;final;3;Luxembourg;Camillo Felgen;So Laang We's Du Do Bast;1;13;london-1960;participants
+1960;London;final;4;Denmark;Katy Bødtger;Det Var En Yndig Tid;4;10;london-1960;participants
+1960;London;final;5;Belgium;Fud Leclerc;Mon Amour Pour Toi;9;6;london-1960;participants
+1960;London;final;6;Norway;Nora Brockstedt;Voi-voi;11;4;london-1960;participants
+1960;London;final;7;Austria;Harry Winter;Du Hast Mich So Fasziniert;6;7;london-1960;participants
+1960;London;final;8;Monaco;François Deguelt;Ce Soir-là;15;3;london-1960;participants
+1960;London;final;9;Switzerland;Anita Traversi;Cielo E Terra;5;8;london-1960;participants
+1960;London;final;10;The Netherlands;Rudi Carrell;Wat Een Geluk;2;12;london-1960;participants
+1960;London;final;11;Germany;Wyn Hoop;Bonne Nuit, Ma Chérie!;11;4;london-1960;participants
+1960;London;final;12;Italy;Renato Rascel;Romantica;5;8;london-1960;participants
+1960;London;final;13;France;Jacqueline Boyer;Tom Pillibi;32;1;london-1960;participants
+1961;Cannes;final;1;Spain;Conchita Bautista;Estando Contigo;8;9;cannes-1961;participants
+1961;Cannes;final;2;Monaco;Colette Deréal;Allons, Allons Les Enfants;6;10;cannes-1961;participants
+1961;Cannes;final;3;Austria;Jimmy Makulis;Sehnsucht;1;15;cannes-1961;participants
+1961;Cannes;final;4;Finland;Laila Kinnunen;Valoa Ikkunassa;6;10;cannes-1961;participants
+1961;Cannes;final;5;Yugoslavia;Ljiljana Petrovic;Neke Davne Zvezde;9;8;cannes-1961;participants
+1961;Cannes;final;6;The Netherlands;Greetje Kauffeld;Wat Een Dag;6;10;cannes-1961;participants
+1961;Cannes;final;7;Sweden;Lill-Babs;April, April;2;14;cannes-1961;participants
+1961;Cannes;final;8;Germany;Lale Andersen;Einmal Sehen Wir Uns Wieder;3;13;cannes-1961;participants
+1961;Cannes;final;9;France;Jean-Paul Mauric;Printemps (avril Carillonne);13;4;cannes-1961;participants
+1961;Cannes;final;10;Switzerland;Franca di Rienzo;Nous Aurons Demain;16;3;cannes-1961;participants
+1961;Cannes;final;11;Belgium;Bob Benny;September, Gouden Roos;1;15;cannes-1961;participants
+1961;Cannes;final;12;Norway;Nora Brockstedt;Sommer I Palma;10;7;cannes-1961;participants
+1961;Cannes;final;13;Denmark;Dario Campeotto;Angelique;12;5;cannes-1961;participants
+1961;Cannes;final;14;Luxembourg;Jean-Claude Pascal;Nous Les Amoureux;31;1;cannes-1961;participants
+1961;Cannes;final;15;United Kingdom;The Allisons;Are You Sure?;24;2;cannes-1961;participants
+1961;Cannes;final;16;Italy;Betty Curtis;Al Di Là;12;5;cannes-1961;participants
+1965;Naples;final;1;The Netherlands;Conny Van den bos;Het Is Genoeg;5;11;naples-1965;participants
+1965;Naples;final;2;United Kingdom;Kathy Kirby;I Belong;26;2;naples-1965;participants
+1965;Naples;final;3;Spain;Conchita Bautista;Qué Bueno, Qué Bueno;;15;naples-1965;participants
+1965;Naples;final;4;Ireland;Butch Moore;I'm Walking The Streets In The Rain;11;6;naples-1965;participants
+1965;Naples;final;5;Germany;Ulla Wiesner;Paradies, Wo Bist Du?;;15;naples-1965;participants
+1965;Naples;final;6;Austria;Udo Jürgens;Sag Ihr, Ich Lass' Sie Grüßen;16;4;naples-1965;participants
+1965;Naples;final;7;Norway;Kirsti Sparboe;Karusell;1;13;naples-1965;participants
+1965;Naples;final;8;Belgium;Lize Marke;Als Het Weer Lente Is;;15;naples-1965;participants
+1965;Naples;final;9;Monaco;Marjorie Noël;Va Dire à L'amour;7;9;naples-1965;participants
+1965;Naples;final;10;Sweden;Ingvar Wixell;Absent Friend;6;10;naples-1965;participants
+1965;Naples;final;11;France;Guy Mardel;N'avoue Jamais;22;3;naples-1965;participants
+1965;Naples;final;12;Portugal;Simone de Oliviera;Sol De Inverno;1;13;naples-1965;participants
+1965;Naples;final;13;Italy;Bobby Solo;Se Piangi, Se Ridi;15;5;naples-1965;participants
+1965;Naples;final;14;Denmark;Birgit Brüel;For Din Skyld;10;7;naples-1965;participants
+1965;Naples;final;15;Luxembourg;France Gall;Poupée De Cire, Poupée De Son;32;1;naples-1965;participants
+1965;Naples;final;16;Finland;Viktor Klimenko;Aurinko Laskee Länteen;;15;naples-1965;participants
+1965;Naples;final;17;Yugoslavia;Vice Vukov;Ceznja;2;12;naples-1965;participants
+1965;Naples;final;18;Switzerland;Yovanna;Non à Jamais Sans Toi;8;8;naples-1965;participants
+1966;Luxembourg;final;1;Germany;Margot Eskens;Die Zeiger Der Uhr;7;10;luxembourg-1966;participants
+1966;Luxembourg;final;2;Denmark;Ulla Pia;Stop, Ja Stop - Ja Stop, Mens Legen Er Go;4;14;luxembourg-1966;participants
+1966;Luxembourg;final;3;Belgium;Tonia;Un Peu De Poivre, Un Peu De Sel;14;4;luxembourg-1966;participants
+1966;Luxembourg;final;4;Luxembourg;Michèle Torr;Ce Soir Je T'attendais;7;10;luxembourg-1966;participants
+1966;Luxembourg;final;5;Yugoslavia;Berta Ambroz;Brez Besed;9;7;luxembourg-1966;participants
+1966;Luxembourg;final;6;Norway;Åse Kleveland;Intet Er Nytt Under Solen;15;3;luxembourg-1966;participants
+1966;Luxembourg;final;7;Finland;Ann-Christine Nyström;Play-boy;7;10;luxembourg-1966;participants
+1966;Luxembourg;final;8;Portugal;Madalena Iglesias;Ele E Ela;6;13;luxembourg-1966;participants
+1966;Luxembourg;final;9;Austria;Udo Jürgens;Merci Chérie;31;1;luxembourg-1966;participants
+1966;Luxembourg;final;10;Sweden;Lill Lindfors and  Svante Thuresson;Nygammal Vals Eller Hip Man Svinaherde;16;2;luxembourg-1966;participants
+1966;Luxembourg;final;11;Spain;Raphael;Yo Soy Aquél;9;7;luxembourg-1966;participants
+1966;Luxembourg;final;12;Switzerland;Madeleine Pascal;Ne Vois-tu Pas?;12;6;luxembourg-1966;participants
+1966;Luxembourg;final;13;Monaco;Tereza;Bien Plus Fort;;17;luxembourg-1966;participants
+1966;Luxembourg;final;14;Italy;Domenico Modugno;Dio Come Ti Amo;;17;luxembourg-1966;participants
+1966;Luxembourg;final;15;France;Dominique Walter;Chez Nous;1;16;luxembourg-1966;participants
+1966;Luxembourg;final;16;The Netherlands;Milly Scott;Fernando En Philippo;2;15;luxembourg-1966;participants
+1966;Luxembourg;final;17;Ireland;Dickie Rock;Come Back To Stay;14;4;luxembourg-1966;participants
+1966;Luxembourg;final;18;United Kingdom;Kenneth McKellar;A Man Without Love;8;9;luxembourg-1966;participants
+1967;Vienna;final;1;The Netherlands;Thérèse Steinmetz;Ring-dinge;2;14;vienna-1967;participants
+1967;Vienna;final;2;Luxembourg;Vicky;L'amour Est Bleu;17;4;vienna-1967;participants
+1967;Vienna;final;3;Austria;Peter Horten;Warum Es Hunderttausend Sterne Gibt;2;14;vienna-1967;participants
+1967;Vienna;final;4;France;Noëlle Cordier;Il Doit Faire Beau Là-bas;20;3;vienna-1967;participants
+1967;Vienna;final;5;Portugal;Eduardo Nascimento;O Vento Mudou;3;12;vienna-1967;participants
+1967;Vienna;final;6;Switzerland;Géraldine;Quel Coeur Vas-tu Briser?;;17;vienna-1967;participants
+1967;Vienna;final;7;Sweden;Östen Warnebring;Som En Dröm;7;8;vienna-1967;participants
+1967;Vienna;final;8;Finland;Fredi;Varjoon-suojaan;3;12;vienna-1967;participants
+1967;Vienna;final;9;Germany;Inge Brück;Anouschka;7;8;vienna-1967;participants
+1967;Vienna;final;10;Belgium;Louis Neefs;Ik Heb Zorgen;8;7;vienna-1967;participants
+1967;Vienna;final;11;United Kingdom;Sandie Shaw;Puppet On A String;47;1;vienna-1967;participants
+1967;Vienna;final;12;Spain;Raphael;Hablemos Del Amor;9;6;vienna-1967;participants
+1967;Vienna;final;13;Norway;Kirsti Sparboe;Dukkemann;2;14;vienna-1967;participants
+1967;Vienna;final;14;Monaco;Minouche Barelli;Boum-badaboum;10;5;vienna-1967;participants
+1967;Vienna;final;15;Yugoslavia;Lado Leskovar;Vse Roze Sveta;7;8;vienna-1967;participants
+1967;Vienna;final;16;Italy;Claudio Villa;Non Andare Più Lontano;4;11;vienna-1967;participants
+1967;Vienna;final;17;Ireland;Sean Dunphy;If I Could Choose;22;2;vienna-1967;participants
+1968;London;final;1;Portugal;Carlos Mendes;Verão;5;11;london-1968;participants
+1968;London;final;2;The Netherlands;Ronnie Tober;Morgen;1;16;london-1968;participants
+1968;London;final;3;Belgium;Claude Lombard;Quand Tu Reviendras;8;7;london-1968;participants
+1968;London;final;4;Austria;Karel Gott;Tausend Fenster;2;13;london-1968;participants
+1968;London;final;5;Luxembourg;Chris Baldo and Sophie Garel;Nous Vivrons D'amour;5;11;london-1968;participants
+1968;London;final;6;Switzerland;Gianni Mascolo;Guardando Il Sole;2;13;london-1968;participants
+1968;London;final;7;Monaco;Line and Willy;A Chacun Sa Chanson;8;7;london-1968;participants
+1968;London;final;8;Sweden;Claes-Göran Hederström;Det Börjar Verka Kärlek, Banne Mej;15;5;london-1968;participants
+1968;London;final;9;Finland;Kristina Hautala;Kun Kello Käy;1;16;london-1968;participants
+1968;London;final;10;France;Isabelle Aubret;La Source;20;3;london-1968;participants
+1968;London;final;11;Italy;Sergio Endrigo;Marianne;7;10;london-1968;participants
+1968;London;final;12;United Kingdom;Cliff Richard;Congratulations;28;2;london-1968;participants
+1968;London;final;13;Norway;Odd Børre;Stress;2;13;london-1968;participants
+1968;London;final;14;Ireland;Pat McGeegan;Chance Of A Lifetime;18;4;london-1968;participants
+1968;London;final;15;Spain;Massiel;La, La, La...;29;1;london-1968;participants
+1968;London;final;16;Germany;Wencke Myhre;Ein Hoch Der Liebe;11;6;london-1968;participants
+1968;London;final;17;Yugoslavia;Luci Kapurso and Hamo Hajdarhodzic;Jedan Dan;8;7;london-1968;participants
+1969;Madrid;final;1;Yugoslavia;Ivan;Pozdrav Svijetu;5;13;madrid-1969;participants
+1969;Madrid;final;2;Luxembourg;Romuald;Cathérine;7;11;madrid-1969;participants
+1969;Madrid;final;3;Spain;Salomé;Vivo Cantando;18;1;madrid-1969;participants
+1969;Madrid;final;4;Monaco;Jean-Jacques;Maman, Maman;11;6;madrid-1969;participants
+1969;Madrid;final;5;Ireland;Muriel Day and the Lindsays;The Wages Of Love;10;7;madrid-1969;participants
+1969;Madrid;final;6;Italy;Iva Zanicchi;Due Grosse Lacrime Bianche;5;13;madrid-1969;participants
+1969;Madrid;final;7;United Kingdom;Lulu;Boom Bang-a-bang;18;1;madrid-1969;participants
+1969;Madrid;final;8;The Netherlands;Lenny Kuhr;De Troubadour;18;1;madrid-1969;participants
+1969;Madrid;final;9;Sweden;Tommy Körberg;Judy, Min Vän;8;9;madrid-1969;participants
+1969;Madrid;final;10;Belgium;Louis Neefs;Jennifer Jennings;10;7;madrid-1969;participants
+1969;Madrid;final;11;Switzerland;Paola del Medico;Bonjour, Bonjour;13;5;madrid-1969;participants
+1969;Madrid;final;12;Norway;Kirsti Sparboe;Oj, Oj, Oj, Så Glad, Jeg Skal Bli;1;16;madrid-1969;participants
+1969;Madrid;final;13;Germany;Siw Malmkvist;Primaballerina;8;9;madrid-1969;participants
+1969;Madrid;final;14;France;Frida Boccara;Un Jour, Un Enfant;18;1;madrid-1969;participants
+1969;Madrid;final;15;Portugal;Simone de Oliveira;Desfolhada Portuguesa;4;15;madrid-1969;participants
+1969;Madrid;final;16;Finland;Jarkko and Laura;Kuin Silloin Ennen;6;12;madrid-1969;participants
+1970;Amsterdam;final;1;The Netherlands;Patricia and Hearts of Soul;Waterman;7;7;amsterdam-1970;participants
+1970;Amsterdam;final;2;Switzerland;Henri Dès;Retour;8;4;amsterdam-1970;participants
+1970;Amsterdam;final;3;Italy;Gianni Morandi;Occhi Di Ragazza;5;8;amsterdam-1970;participants
+1970;Amsterdam;final;4;Yugoslavia;Eva Sr<U+009A>en;Pridi, Dala Ti Bom Cvet;4;11;amsterdam-1970;participants
+1970;Amsterdam;final;5;Belgium;Jean Vallée;Viens L'oublier;5;8;amsterdam-1970;participants
+1970;Amsterdam;final;6;France;Guy Bonnet;Marie Blanche;8;4;amsterdam-1970;participants
+1970;Amsterdam;final;7;United Kingdom;Mary Hopkin;Knock, Knock (who's There?);26;2;amsterdam-1970;participants
+1970;Amsterdam;final;8;Luxembourg;David-Alexandre Winter;Je Suis Tombé Du Ciel;;12;amsterdam-1970;participants
+1970;Amsterdam;final;9;Spain;Julio Iglesias;Gwendolyne;8;4;amsterdam-1970;participants
+1970;Amsterdam;final;10;Monaco;Dominique Dussault;Marlène;5;8;amsterdam-1970;participants
+1970;Amsterdam;final;11;Germany;Katja Ebstein;Wunder Gibt Es Immer Wieder;12;3;amsterdam-1970;participants
+1970;Amsterdam;final;12;Ireland;Dana;All Kinds Of Everything;32;1;amsterdam-1970;participants
+1971;Dublin;final;1;Austria;Marianne Mendt;Musik;66;16;dublin-1971;participants
+1971;Dublin;final;2;Malta;Joe Grech;Marija L-maltija;52;18;dublin-1971;participants
+1971;Dublin;final;3;Monaco;Séverine;Un Banc, Un Arbre, Une Rue;128;1;dublin-1971;participants
+1971;Dublin;final;4;Switzerland;Peter, Sue and Marc;Les Illusions De Nos Vingt Ans;78;12;dublin-1971;participants
+1971;Dublin;final;5;Germany;Katja Ebstein;Diese Welt;100;3;dublin-1971;participants
+1971;Dublin;final;6;Spain;Karina;En Un Mundo Nuevo;116;2;dublin-1971;participants
+1971;Dublin;final;7;France;Serge Lama;Un Jardin Sur La Terre;82;10;dublin-1971;participants
+1971;Dublin;final;8;Luxembourg;Monique Melsen;Pomme, Pomme, Pomme;70;13;dublin-1971;participants
+1971;Dublin;final;9;United Kingdom;Clodagh Rodgers;Jack In The Box;98;4;dublin-1971;participants
+1971;Dublin;final;10;Belgium;Lily Castel and Jacques Raymond;Goeie Morgen, Morgen;68;14;dublin-1971;participants
+1971;Dublin;final;11;Italy;Massimo Ranieri;L'amore è Un Attimo;91;5;dublin-1971;participants
+1971;Dublin;final;12;Sweden;Family Four;Vita Vidder;85;6;dublin-1971;participants
+1971;Dublin;final;13;Ireland;Angela Farrell;One Day Love;79;11;dublin-1971;participants
+1971;Dublin;final;14;The Netherlands;Saskia and Serge;De Tijd;85;6;dublin-1971;participants
+1971;Dublin;final;15;Portugal;Tonicha;Menina Do Alto Da Serra;83;9;dublin-1971;participants
+1971;Dublin;final;16;Yugoslavia;Krunoslav Slabinac;Tvoj Djecak Je Tuzan;68;14;dublin-1971;participants
+1971;Dublin;final;17;Finland;Markku Aro and Koivisto Sisters;Tie Uuteen Päivään;84;8;dublin-1971;participants
+1971;Dublin;final;18;Norway;Hanne Krogh;Lykken Er...;65;17;dublin-1971;participants
+1972;Edinburgh;final;1;Germany;Mary Roos;Nur Die Liebe Läßt Uns Leben;107;3;edinburgh-1972;participants
+1972;Edinburgh;final;2;France;Betty Mars;Comé-comédie;81;11;edinburgh-1972;participants
+1972;Edinburgh;final;3;Ireland;Sandie Jones;Ceol On Ghrá;72;15;edinburgh-1972;participants
+1972;Edinburgh;final;4;Spain;Jaime Morey;Amanece;83;10;edinburgh-1972;participants
+1972;Edinburgh;final;5;United Kingdom;The New Seekers;Beg, Steal Or Borrow;114;2;edinburgh-1972;participants
+1972;Edinburgh;final;6;Norway;Grethe Kausland and Benny Borg;Småting;73;14;edinburgh-1972;participants
+1972;Edinburgh;final;7;Portugal;Carlos Mendes;A Festa Da Vida;90;7;edinburgh-1972;participants
+1972;Edinburgh;final;8;Switzerland;Véronique Müller;C'est La Chanson De Mon Amour;88;8;edinburgh-1972;participants
+1972;Edinburgh;final;9;Malta;Helen and Joseph;L-imhabba;48;18;edinburgh-1972;participants
+1972;Edinburgh;final;10;Finland;Päivi Paunu and Kim Floor;Muistathan;78;12;edinburgh-1972;participants
+1972;Edinburgh;final;11;Austria;The Milestones;Falter Im Wind;100;5;edinburgh-1972;participants
+1972;Edinburgh;final;12;Italy;Nicola di Bari;I Giorni Dell' Arcobaleno;92;6;edinburgh-1972;participants
+1972;Edinburgh;final;13;Yugoslavia;Tereza;Muzika I Ti;87;9;edinburgh-1972;participants
+1972;Edinburgh;final;14;Sweden;Family Four;Härliga Sommardag;75;13;edinburgh-1972;participants
+1972;Edinburgh;final;15;Monaco;Anne-Marie Godart and Peter MacLane;Comme On S'aime;65;16;edinburgh-1972;participants
+1972;Edinburgh;final;16;Belgium;Serge and Christine Ghisoland;À La Folie Ou Pas Du Tout;55;17;edinburgh-1972;participants
+1972;Edinburgh;final;17;Luxembourg;Vicky Leandros;Après Toi;128;1;edinburgh-1972;participants
+1972;Edinburgh;final;18;The Netherlands;Sandra and Andres;Als Het Om De Liefde Gaat;106;4;edinburgh-1972;participants
+1973;Luxembourg;final;1;Finland;Marion Rung;Tom Tom Tom;93;6;luxembourg-1973;participants
+1973;Luxembourg;final;2;Belgium;Nicole and Hugo;Baby, Baby;58;17;luxembourg-1973;participants
+1973;Luxembourg;final;3;Portugal;Fernando Tordo;Tourada;80;10;luxembourg-1973;participants
+1973;Luxembourg;final;4;Germany;Gitte;Junger Tag;85;8;luxembourg-1973;participants
+1973;Luxembourg;final;5;Norway;Bendik Singers;It's Just A Game;89;7;luxembourg-1973;participants
+1973;Luxembourg;final;6;Monaco;Marie;Un Train Qui Part;85;8;luxembourg-1973;participants
+1973;Luxembourg;final;7;Spain;Mocedades;Eres Tú;125;2;luxembourg-1973;participants
+1973;Luxembourg;final;8;Switzerland;Patrick Juvet;Je Me Vais Marier, Marie;79;12;luxembourg-1973;participants
+1973;Luxembourg;final;9;Yugoslavia;Zdravko Colic;Gori Vatra;65;15;luxembourg-1973;participants
+1973;Luxembourg;final;10;Italy;Massimo Ranieri;Chi Sarà Con Te;74;13;luxembourg-1973;participants
+1973;Luxembourg;final;11;Luxembourg;Anne-Marie David;Tu Te Reconnaîtras;129;1;luxembourg-1973;participants
+1973;Luxembourg;final;12;Sweden;The Nova and The Dolls;You're Summer;94;5;luxembourg-1973;participants
+1973;Luxembourg;final;13;The Netherlands;Ben Cramer;De Oude Muzikant;69;14;luxembourg-1973;participants
+1973;Luxembourg;final;14;Ireland;Maxi;Do I Dream?;80;10;luxembourg-1973;participants
+1973;Luxembourg;final;15;United Kingdom;Cliff Richard;Power To All Our Friends;123;3;luxembourg-1973;participants
+1973;Luxembourg;final;16;France;Martine Clémenceau;Sans Toi;65;15;luxembourg-1973;participants
+1973;Luxembourg;final;17;Israel;Ilanit;Ey-sham;97;4;luxembourg-1973;participants
+1974;Brighton;final;1;Finland;Carita;Äla Mene Pois (Keep Me Warm);4;13;brighton-1974;participants
+1974;Brighton;final;2;United Kingdom;Olivia Newton-John;Long Live Love;14;4;brighton-1974;participants
+1974;Brighton;final;3;Spain;Peret;Canta Y Se Feliz;10;9;brighton-1974;participants
+1974;Brighton;final;4;Norway;Anne-Karine Ström and the Bendik Singers;The First Day Of Love;3;14;brighton-1974;participants
+1974;Brighton;final;5;Greece;Marinella;Krassi, Thalassa Ke T'agori Mou;7;11;brighton-1974;participants
+1974;Brighton;final;6;Israel;Poogy;Natati La Khaiai;11;7;brighton-1974;participants
+1974;Brighton;final;7;Yugoslavia;Korni;Generacija 42;6;12;brighton-1974;participants
+1974;Brighton;final;8;Sweden;ABBA;Waterloo;24;1;brighton-1974;participants
+1974;Brighton;final;9;Luxembourg;Ireen Sheer;Bye, Bye, I Love You;14;4;brighton-1974;participants
+1974;Brighton;final;10;Monaco;Romuald;Celui Qui Reste Et Celui Qui S'en Va;14;4;brighton-1974;participants
+1974;Brighton;final;11;Belgium;Jacques Hustin;Fleur De Liberté;10;9;brighton-1974;participants
+1974;Brighton;final;12;The Netherlands;Mouth and MacNeal;I See A Star;15;3;brighton-1974;participants
+1974;Brighton;final;13;Ireland;Tina;Cross Your Heart;11;7;brighton-1974;participants
+1974;Brighton;final;14;Germany;Cindy und Bert;Die Sommermelodie;3;14;brighton-1974;participants
+1974;Brighton;final;15;Switzerland;Piera Martell;Mein Ruf Nach Dir;3;14;brighton-1974;participants
+1974;Brighton;final;16;Portugal;Paulo de Carvalho;E Depois Do Adeus;3;14;brighton-1974;participants
+1974;Brighton;final;17;Italy;Gigliola Cinquetti;Si;18;2;brighton-1974;participants
+1975;Stockholm;final;1;The Netherlands;Teach-In;Ding-A-Dong;152;1;stockholm-1975;participants
+1975;Stockholm;final;2;Ireland;The Swarbriggs;That's What Friends Are For;68;9;stockholm-1975;participants
+1975;Stockholm;final;3;France;Nicole Rieu;Et Bonjour à Toi L'artiste;91;4;stockholm-1975;participants
+1975;Stockholm;final;4;Germany;Joy Fleming;Ein Lied Kann Eine Brücke Sein;15;17;stockholm-1975;participants
+1975;Stockholm;final;5;Luxembourg;Géraldine;Toi;84;5;stockholm-1975;participants
+1975;Stockholm;final;6;Norway;Ellen Nikolaysen;You Touched My Life With Summer;11;18;stockholm-1975;participants
+1975;Stockholm;final;7;Switzerland;Simone Drexel;Mikado;77;6;stockholm-1975;participants
+1975;Stockholm;final;8;Yugoslavia;Pepel In Kri;Dan Ljubezni;22;13;stockholm-1975;participants
+1975;Stockholm;final;9;United Kingdom;The Shadows;Let Me Be The One;138;2;stockholm-1975;participants
+1975;Stockholm;final;10;Malta;Renato;Singing This Song;32;12;stockholm-1975;participants
+1975;Stockholm;final;11;Belgium;Ann Christy;Gelukkig Zijn;17;15;stockholm-1975;participants
+1975;Stockholm;final;12;Israel;Shlomo Artzi;At Ve'ani;40;11;stockholm-1975;participants
+1975;Stockholm;final;13;Turkey;Semiha Yanki;Seninle Bir Dakika;3;19;stockholm-1975;participants
+1975;Stockholm;final;14;Monaco;Sophie;Une Chanson C'est Une Lettre;22;13;stockholm-1975;participants
+1975;Stockholm;final;15;Finland;Pihasoittajat;Old Man Fiddle;74;7;stockholm-1975;participants
+1975;Stockholm;final;16;Portugal;Duarte Mendes;Madrugada;16;16;stockholm-1975;participants
+1975;Stockholm;final;17;Spain;Sergio y Estíbaliz;Tú Volverás;53;10;stockholm-1975;participants
+1975;Stockholm;final;18;Sweden;Lars Berghagen and the Dolls;Jennie, Jennie;72;8;stockholm-1975;participants
+1975;Stockholm;final;19;Italy;Wess and Dori Ghezzi;Era;115;3;stockholm-1975;participants
+1976;The-hague;final;1;United Kingdom;Brotherhood of Man;Save Your Kisses For Me;164;1;the-hague-1976;participants
+1976;The-hague;final;2;Switzerland;Peter, Sue and Marc;Djambo, Djambo;91;4;the-hague-1976;participants
+1976;The-hague;final;3;Germany;Les Humphries Singers;Sing, Sang, Song;12;15;the-hague-1976;participants
+1976;The-hague;final;4;Israel;Chocolate, Menta, Mastik;Emor Shalom;77;6;the-hague-1976;participants
+1976;The-hague;final;5;Luxembourg;Jürgen Marcus;Chansons Pour Ceux Qui S'aiment;17;14;the-hague-1976;participants
+1976;The-hague;final;6;Belgium;Pierre Rapsat;Judy Et Cie.;68;8;the-hague-1976;participants
+1976;The-hague;final;7;Ireland;Red Hurley;When;54;10;the-hague-1976;participants
+1976;The-hague;final;8;The Netherlands;Sandra Reemer;The Party's Over Now;56;9;the-hague-1976;participants
+1976;The-hague;final;9;Norway;Anne-Karine Ström;Mata Hari;7;18;the-hague-1976;participants
+1976;The-hague;final;10;Greece;Mariza Koch;Panaghia Mou, Panaghia Mou;20;13;the-hague-1976;participants
+1976;The-hague;final;11;Finland;Fredi and The Friends;Pump-pump;44;11;the-hague-1976;participants
+1976;The-hague;final;12;Spain;Braulio;Sobran Las Palabras;11;16;the-hague-1976;participants
+1976;The-hague;final;13;Italy;Romina and Al Bano;We'll Live It All Again;69;7;the-hague-1976;participants
+1976;The-hague;final;14;Austria;Waterloo and Robinson;My Little World;80;5;the-hague-1976;participants
+1976;The-hague;final;15;Portugal;Carlos do Carmo;Uma Flor De Verde Pinho;24;12;the-hague-1976;participants
+1976;The-hague;final;16;Monaco;Mary Christy;Toi, La Musique Et Moi;93;3;the-hague-1976;participants
+1976;The-hague;final;17;France;Catherine Ferry;Un, Deux, Trois;147;2;the-hague-1976;participants
+1976;The-hague;final;18;Yugoslavia;Ambasadori;Ne Mogu Skriti Svoju Bol;10;17;the-hague-1976;participants
+1977;London;final;1;Ireland;The Swarbriggs Plus Two;It's Nice To Be In Love Again;119;3;london-1977;participants
+1977;London;final;2;Monaco;Michèle Torr;Une Petite Française;96;4;london-1977;participants
+1977;London;final;3;The Netherlands;Heddy Lester;De Mallemolen;35;12;london-1977;participants
+1977;London;final;4;Austria;Schmetterlinge;Boom Boom Boomerang;11;17;london-1977;participants
+1977;London;final;5;Norway;Anita Skorgan;Casanova;18;14;london-1977;participants
+1977;London;final;6;Germany;Silver Convention;Telegram;55;8;london-1977;participants
+1977;London;final;7;Luxembourg;Anne Marie B.;Frère Jacques;17;16;london-1977;participants
+1977;London;final;8;Portugal;Os Amigos;Portugal No Coração;18;14;london-1977;participants
+1977;London;final;9;United Kingdom;Lynsey de Paul and Mike Moran;Rock Bottom;121;2;london-1977;participants
+1977;London;final;10;Greece;Pascalis, Marianna, Robert and  Bessy;Mathema Solfege;92;5;london-1977;participants
+1977;London;final;11;Israel;Ilanit;Ah-haa-vah Hee Shir Lish-naa-yim;49;11;london-1977;participants
+1977;London;final;12;Switzerland;Pepe Lienhard Band;Swiss Lady;71;6;london-1977;participants
+1977;London;final;13;Sweden;Forbes;Beatles;2;18;london-1977;participants
+1977;London;final;14;Spain;Micky;Enseñame A Cantar;52;9;london-1977;participants
+1977;London;final;15;Italy;Mia Martini;Liberà;33;13;london-1977;participants
+1977;London;final;16;Finland;Monica Aspelund;Lapponia;50;10;london-1977;participants
+1977;London;final;17;Belgium;Dream Express;A Million In One, Two, Three;69;7;london-1977;participants
+1977;London;final;18;France;Marie Myriam;L'oiseau Et L'enfant;136;1;london-1977;participants
+1978;Paris;final;1;Ireland;Colm T. Wilkinson;Born To Sing;86;5;paris-1978;participants
+1978;Paris;final;2;Norway;Jahn Teigen;Mil Etter Mil;;20;paris-1978;participants
+1978;Paris;final;3;Italy;Ricchi e Poveri;Questo Amore;53;12;paris-1978;participants
+1978;Paris;final;4;Finland;Seija Simola;Anna Rakkaudelle Tilaisuus;2;18;paris-1978;participants
+1978;Paris;final;5;Portugal;Gemini;Dai-li-dou;5;17;paris-1978;participants
+1978;Paris;final;6;France;Joël Prévost;Il Y Aura Toujours Des Violons;119;3;paris-1978;participants
+1978;Paris;final;7;Spain;José Vélez;Bailemos Un Vals;65;9;paris-1978;participants
+1978;Paris;final;8;United Kingdom;Co-Co;The Bad Old Days;61;11;paris-1978;participants
+1978;Paris;final;9;Switzerland;Carole Vinci;Vivre;65;9;paris-1978;participants
+1978;Paris;final;10;Belgium;Jean Vallée;L'amour ça Fait Chanter La Vie;125;2;paris-1978;participants
+1978;Paris;final;11;The Netherlands;Harmony;'t Is Ok;37;13;paris-1978;participants
+1978;Paris;final;12;Turkey;Nazar;Sevinçe;2;18;paris-1978;participants
+1978;Paris;final;13;Germany;Ireen Sheer;Feuer;84;6;paris-1978;participants
+1978;Paris;final;14;Monaco;Caline and Olivier Toussaint;Les Jardins De Monaco;107;4;paris-1978;participants
+1978;Paris;final;15;Greece;Tania Tsanaklidou;Charlie Chaplin;66;8;paris-1978;participants
+1978;Paris;final;16;Denmark;Mabel;Boom Boom;13;16;paris-1978;participants
+1978;Paris;final;17;Luxembourg;Baccara;Parlez-vous Français?;73;7;paris-1978;participants
+1978;Paris;final;18;Israel;Izhar Cohen and the Alphabeta;Abanibi;157;1;paris-1978;participants
+1978;Paris;final;19;Austria;Springtime;Mrs. Caroline Robinson;14;15;paris-1978;participants
+1978;Paris;final;20;Sweden;Björn Skifs;Det Blir Alltid Värre Framåt Natten;26;14;paris-1978;participants
+1979;Jerusalem;final;1;Portugal;Manuela Bravo;Sobe, Sobe, Balão Sobe;64;9;jerusalem-1979;participants
+1979;Jerusalem;final;2;Italy;Matia Bazar;Raggio Di Luna;27;15;jerusalem-1979;participants
+1979;Jerusalem;final;3;Denmark;Tommy Seebach;Disco Tango;76;6;jerusalem-1979;participants
+1979;Jerusalem;final;4;Ireland;Cathal Dunne;Happy Man;80;5;jerusalem-1979;participants
+1979;Jerusalem;final;5;Finland;Katri-Helena;Katso Sineen Taivaan;38;14;jerusalem-1979;participants
+1979;Jerusalem;final;6;Monaco;Laurent Vaguener;Notre Vie, C'est La Musique;12;16;jerusalem-1979;participants
+1979;Jerusalem;final;7;Greece;Elpida;Socrates;69;8;jerusalem-1979;participants
+1979;Jerusalem;final;8;Switzerland;Peter, Sue and Marc and Pfuri, Gorps and Kniri;Trödler Und Co.;60;10;jerusalem-1979;participants
+1979;Jerusalem;final;9;Germany;Dschinghis Khan;Dschinghis Khan;86;4;jerusalem-1979;participants
+1979;Jerusalem;final;10;Israel;Milk and Honey;Hallelujah;125;1;jerusalem-1979;participants
+1979;Jerusalem;final;11;France;Anne-Marie David;Je Suis L'enfant-soleil;106;3;jerusalem-1979;participants
+1979;Jerusalem;final;12;Belgium;Micha Marah;Hey Nana;5;18;jerusalem-1979;participants
+1979;Jerusalem;final;13;Luxembourg;Jeane Manson;J'ai Déjà Vu ça Dans Tes Yeux;44;13;jerusalem-1979;participants
+1979;Jerusalem;final;14;The Netherlands;Xandra;Colorado;51;12;jerusalem-1979;participants
+1979;Jerusalem;final;15;Sweden;Ted Gärdestad;Satellit;8;17;jerusalem-1979;participants
+1979;Jerusalem;final;16;Norway;Anita Skorgan;Oliver;57;11;jerusalem-1979;participants
+1979;Jerusalem;final;17;United Kingdom;Black Lace;Mary Ann;73;7;jerusalem-1979;participants
+1979;Jerusalem;final;18;Austria;Christina Simon;Heute In Jerusalem;5;18;jerusalem-1979;participants
+1979;Jerusalem;final;19;Spain;Betty Missiego;Su Canción;116;2;jerusalem-1979;participants
+1980;The-hague;final;1;Austria;Blue Danube;Du Bist Musik;64;8;the-hague-1980;participants
+1980;The-hague;final;2;Turkey;Ajda Pekkan;Petr'oil;23;15;the-hague-1980;participants
+1980;The-hague;final;3;Greece;Anna Vishy and the Epikouri;Autostop;30;13;the-hague-1980;participants
+1980;The-hague;final;4;Luxembourg;Sophie and Magaly;Papa Pingouin;56;9;the-hague-1980;participants
+1980;The-hague;final;5;Morocco;Samira Bensaïd;Bitakat Hob;7;18;the-hague-1980;participants
+1980;The-hague;final;6;Italy;Alan Sorrenti;Non So Che Darei;87;6;the-hague-1980;participants
+1980;The-hague;final;7;Denmark;Bamses Venner;Tænker Altid På Dig;25;14;the-hague-1980;participants
+1980;The-hague;final;8;Sweden;Tomas Ledin;Just Nu!;47;10;the-hague-1980;participants
+1980;The-hague;final;9;Switzerland;Paola;Cinéma;104;4;the-hague-1980;participants
+1980;The-hague;final;10;Finland;Vesa-Matti Loiri;Huilumies;6;19;the-hague-1980;participants
+1980;The-hague;final;11;Norway;Sverre Kjellsberg and Mattis Hætta;Sámiid Ædnan;15;16;the-hague-1980;participants
+1980;The-hague;final;12;Germany;Katja Ebstein;Theater;128;2;the-hague-1980;participants
+1980;The-hague;final;13;United Kingdom;Prima Donna;Love Enough For Two;106;3;the-hague-1980;participants
+1980;The-hague;final;14;Portugal;José Cid;Um Grande, Grande Amor;71;7;the-hague-1980;participants
+1980;The-hague;final;15;The Netherlands;Maggie MacNeal;Amsterdam;93;5;the-hague-1980;participants
+1980;The-hague;final;16;France;Profil;Hé, Hé M'sieurs Dames;45;11;the-hague-1980;participants
+1980;The-hague;final;17;Ireland;Johnny Logan;What's Another Year;143;1;the-hague-1980;participants
+1980;The-hague;final;18;Spain;Trigo Limpio;Qué Date Esta Noche;38;12;the-hague-1980;participants
+1980;The-hague;final;19;Belgium;Telex;Euro-vision;14;17;the-hague-1980;participants
+1981;Dublin;final;1;Austria;Marty Brem;Wenn Du Da Bist;20;17;dublin-1981;participants
+1981;Dublin;final;2;Turkey;Modern Folk Trio and Aysegül;Dönme Dolap;9;18;dublin-1981;participants
+1981;Dublin;final;3;Germany;Lena Valaitis;Johnny Blue;132;2;dublin-1981;participants
+1981;Dublin;final;4;Luxembourg;Jean-Claude Pascal;C'est Peut-être Pas L'amérique;41;11;dublin-1981;participants
+1981;Dublin;final;5;Israel;Habibi;Halaylah;56;7;dublin-1981;participants
+1981;Dublin;final;6;Denmark;Debbie Cameron and Tommy Seebach;Krøller Eller Ej;41;11;dublin-1981;participants
+1981;Dublin;final;7;Yugoslavia;Seid-Memic Vajta;Leila;35;15;dublin-1981;participants
+1981;Dublin;final;8;Finland;Riki Sorsa;Reggae O.k.;27;16;dublin-1981;participants
+1981;Dublin;final;9;France;Jean Gabilou;Humanahum;125;3;dublin-1981;participants
+1981;Dublin;final;10;Spain;Bacchelli;Y Solo Tú;38;14;dublin-1981;participants
+1981;Dublin;final;11;The Netherlands;Linda Williams;Het Is Een Wonder;51;9;dublin-1981;participants
+1981;Dublin;final;12;Ireland;Sheeba;Horoscopes;105;5;dublin-1981;participants
+1981;Dublin;final;13;Norway;Finn Kalvik;Aldri I Livet;;20;dublin-1981;participants
+1981;Dublin;final;14;United Kingdom;Bucks Fizz;Making Your Mind Up;136;1;dublin-1981;participants
+1981;Dublin;final;15;Portugal;Carlos Paião;Play-back;9;18;dublin-1981;participants
+1981;Dublin;final;16;Belgium;Emly Starr;Samson;40;13;dublin-1981;participants
+1981;Dublin;final;17;Greece;Yiannis Dimitras;Feggari Kalokerino;55;8;dublin-1981;participants
+1981;Dublin;final;18;Cyprus;Island;Monika;69;6;dublin-1981;participants
+1981;Dublin;final;19;Switzerland;Peter, Sue and  Marc;Io Senza Tei;121;4;dublin-1981;participants
+1981;Dublin;final;20;Sweden;Björn Skifs;Fångad I En Dröm;50;10;dublin-1981;participants
+1982;Harrogate;final;1;Portugal;Doce;Bem-bom;32;13;harrogate-1982;participants
+1982;Harrogate;final;2;Luxembourg;Svetlana;Cour Apres Le Temps;78;6;harrogate-1982;participants
+1982;Harrogate;final;3;Norway;Jahn Teigen and Anita Skorgan;Adieu;40;12;harrogate-1982;participants
+1982;Harrogate;final;4;United Kingdom;Bardo;One Step Further;76;7;harrogate-1982;participants
+1982;Harrogate;final;5;Turkey;Neço;Hani;20;15;harrogate-1982;participants
+1982;Harrogate;final;6;Finland;Kojo;Nuku Pommiin;;18;harrogate-1982;participants
+1982;Harrogate;final;7;Switzerland;Arlette Zola;Amour On T'aime;97;3;harrogate-1982;participants
+1982;Harrogate;final;8;Cyprus;Anna Vishy;Mono I Agapi;85;5;harrogate-1982;participants
+1982;Harrogate;final;9;Sweden;Chips;Dag Efter Dag;67;8;harrogate-1982;participants
+1982;Harrogate;final;10;Austria;Mess;Sonntag;57;9;harrogate-1982;participants
+1982;Harrogate;final;11;Belgium;Stella;Si Tu Aimes Ma Musique;96;4;harrogate-1982;participants
+1982;Harrogate;final;12;Spain;Lucía;Él;52;10;harrogate-1982;participants
+1982;Harrogate;final;13;Denmark;Brixx;Video-video;5;17;harrogate-1982;participants
+1982;Harrogate;final;14;Yugoslavia;Aska;Halo Halo;21;14;harrogate-1982;participants
+1982;Harrogate;final;15;Israel;Avi Toledano;Hora;100;2;harrogate-1982;participants
+1982;Harrogate;final;16;The Netherlands;Bill van Dijk;Jij En Ik;8;16;harrogate-1982;participants
+1982;Harrogate;final;17;Ireland;The Duskeys;Here Today, Gone Tomorrow;49;11;harrogate-1982;participants
+1982;Harrogate;final;18;Germany;Nicole;Ein Bißchen Frieden;161;1;harrogate-1982;participants
+1983;Munich;final;1;France;Guy Bonnet;Vivre;56;8;munich-1983;participants
+1983;Munich;final;2;Norway;Jahn Teigen;Do Re Mi;53;9;munich-1983;participants
+1983;Munich;final;3;United Kingdom;Sweet Dreams;I'm Never Giving Up;79;6;munich-1983;participants
+1983;Munich;final;4;Sweden;Carola Häggkvist;Främling;126;3;munich-1983;participants
+1983;Munich;final;5;Italy;Riccardo Fogli;Per Lucia;41;11;munich-1983;participants
+1983;Munich;final;6;Turkey;Çetin Alp and the Short Wave;Opera;;19;munich-1983;participants
+1983;Munich;final;7;Spain;Remedios Amaya;¿quién Maneja Mi Barca?;;19;munich-1983;participants
+1983;Munich;final;8;Switzerland;Mariella Farré;Io Così Non Ci Sto;28;15;munich-1983;participants
+1983;Munich;final;9;Finland;Ami Aspelund;Fantasiaa;41;11;munich-1983;participants
+1983;Munich;final;10;Greece;Christie Stassinopoulou;Mou Les;32;14;munich-1983;participants
+1983;Munich;final;11;The Netherlands;Bernadette;Sing Me A Song;66;7;munich-1983;participants
+1983;Munich;final;12;Yugoslavia;Danijel;Dzuli;125;4;munich-1983;participants
+1983;Munich;final;13;Cyprus;Stavros and Constantina;I Agapi Akoma Zi;26;16;munich-1983;participants
+1983;Munich;final;14;Germany;Hoffmann und Hoffmann;Rücksicht;94;5;munich-1983;participants
+1983;Munich;final;15;Denmark;Gry Johansen;Kloden Drejer;16;17;munich-1983;participants
+1983;Munich;final;16;Israel;Ofra Haza;Hi;136;2;munich-1983;participants
+1983;Munich;final;17;Portugal;Armando Gama;Esta Balada Que Te Dou;33;13;munich-1983;participants
+1983;Munich;final;18;Austria;Westend;Hurricane;53;9;munich-1983;participants
+1983;Munich;final;19;Belgium;Pas de Deux;Rendez-vous;13;18;munich-1983;participants
+1983;Munich;final;20;Luxembourg;Corinne Hermès;Si La Vie Est Cadeau;142;1;munich-1983;participants
+1984;Luxembourg;final;1;Sweden;Herrey's;Diggi-loo Diggy-ley;145;1;luxembourg-1984;participants
+1984;Luxembourg;final;2;Luxembourg;Sophie Carle;100% D'amour;39;10;luxembourg-1984;participants
+1984;Luxembourg;final;3;France;Annick Thoumazeau;Autant D'amoureux Que D'étoiles;61;8;luxembourg-1984;participants
+1984;Luxembourg;final;4;Spain;Bravo;Lady, Lady;106;3;luxembourg-1984;participants
+1984;Luxembourg;final;5;Norway;Dollie de Luxe;Lenge Leve Livet;29;17;luxembourg-1984;participants
+1984;Luxembourg;final;6;United Kingdom;Belle and the Devotions;Love Games;63;7;luxembourg-1984;participants
+1984;Luxembourg;final;7;Cyprus;Andy Paul;Anna Mari-elena;31;15;luxembourg-1984;participants
+1984;Luxembourg;final;8;Belgium;Jacques Zegers;Avanti La Vie;70;5;luxembourg-1984;participants
+1984;Luxembourg;final;9;Ireland;Linda Martin;Terminal '3';137;2;luxembourg-1984;participants
+1984;Luxembourg;final;10;Denmark;Hot Eyes;Det' Lige Det;101;4;luxembourg-1984;participants
+1984;Luxembourg;final;11;The Netherlands;Maribelle;Ik Hou Van Jou;34;13;luxembourg-1984;participants
+1984;Luxembourg;final;12;Yugoslavia;Vlado and Isolda;Ciao Amore;26;18;luxembourg-1984;participants
+1984;Luxembourg;final;13;Austria;Anita;Einfach Weg;5;19;luxembourg-1984;participants
+1984;Luxembourg;final;14;Germany;Mary Roos;Aufrecht Geh'n;34;13;luxembourg-1984;participants
+1984;Luxembourg;final;15;Turkey;Bes Yil Önce, On Yil Sonra;Halay;37;12;luxembourg-1984;participants
+1984;Luxembourg;final;16;Finland;Kirka;Hengaillaan;46;9;luxembourg-1984;participants
+1984;Luxembourg;final;17;Switzerland;Rainy Day;Welche Farbe Hat Der Sonnenschein;30;16;luxembourg-1984;participants
+1984;Luxembourg;final;18;Italy;Alice and Battiato;I Treni Di Tozeur;70;5;luxembourg-1984;participants
+1984;Luxembourg;final;19;Portugal;Maria Guinot;Silêncio E Tanta Gente;38;11;luxembourg-1984;participants
+1985;Gothenburg;final;1;Ireland;Maria Christian;Wait Until The Weekend Comes;91;6;gothenburg-1985;participants
+1985;Gothenburg;final;2;Finland;Sonja Lumme;Eläköön Elämä;58;9;gothenburg-1985;participants
+1985;Gothenburg;final;3;Cyprus;Lia Vishy;To Katalava Arga;15;16;gothenburg-1985;participants
+1985;Gothenburg;final;4;Denmark;Hot Eyes;Sku' Du Spør Fra No'n;41;11;gothenburg-1985;participants
+1985;Gothenburg;final;5;Spain;Paloma San Basilio;La Fiesta Terminó;36;14;gothenburg-1985;participants
+1985;Gothenburg;final;6;France;Roger Bens;Femme Dans Ses Rêves Aussi;56;10;gothenburg-1985;participants
+1985;Gothenburg;final;7;Turkey;MFÖ;Di Dai Di Dai Dai (a'sik Oldum);36;14;gothenburg-1985;participants
+1985;Gothenburg;final;8;Belgium;Linda Lepomme;Laat Me Nu Gaan;7;19;gothenburg-1985;participants
+1985;Gothenburg;final;9;Portugal;Adelaïde;Penso Em Ti, Eu Sei;9;18;gothenburg-1985;participants
+1985;Gothenburg;final;10;Germany;Wind;Für Alle;105;2;gothenburg-1985;participants
+1985;Gothenburg;final;11;Israel;Izhar Cohen;Olé Olé;93;5;gothenburg-1985;participants
+1985;Gothenburg;final;12;Italy;Al Bano and Romina Power;Magic, Oh Magic;78;7;gothenburg-1985;participants
+1985;Gothenburg;final;13;Norway;Bobbysocks;La Det Swinge;123;1;gothenburg-1985;participants
+1985;Gothenburg;final;14;United Kingdom;Vikki;Love Is...;100;4;gothenburg-1985;participants
+1985;Gothenburg;final;15;Switzerland;Mariella Farré and Pino Gasparini;Piano Piano;39;12;gothenburg-1985;participants
+1985;Gothenburg;final;16;Sweden;Kikki Danielsson;Bra Vibrationer;103;3;gothenburg-1985;participants
+1985;Gothenburg;final;17;Austria;Gary Lux;Kinder Dieser Welt;60;8;gothenburg-1985;participants
+1985;Gothenburg;final;18;Luxembourg;Margo, Franck Olivier, Diane Solomon, Ireen Sheer, Malcolm Roberts and Chris Roberts;Children, Kinder, Enfants;37;13;gothenburg-1985;participants
+1985;Gothenburg;final;19;Greece;Takis Biniaris;Miazoume;15;16;gothenburg-1985;participants
+1986;Bergen;final;1;Luxembourg;Sherisse Laurence;L'amour De Ma Vie;117;3;bergen-1986;participants
+1986;Bergen;final;2;Yugoslavia;Doris Dragovic;Zeljo Moja;49;11;bergen-1986;participants
+1986;Bergen;final;3;France;Cocktail Chic;Européennes;13;17;bergen-1986;participants
+1986;Bergen;final;4;Norway;Ketil Stokkan;Romeo;44;12;bergen-1986;participants
+1986;Bergen;final;5;United Kingdom;Ryder;Runner In The Night;72;7;bergen-1986;participants
+1986;Bergen;final;6;Iceland;Icy;Gleðibankinn;19;16;bergen-1986;participants
+1986;Bergen;final;7;The Netherlands;Frizzle Sizzle;Alles Heeft Ritme;40;13;bergen-1986;participants
+1986;Bergen;final;8;Turkey;Klips ve Onlar;Halley;53;9;bergen-1986;participants
+1986;Bergen;final;9;Spain;Cadillac;Valentino;51;10;bergen-1986;participants
+1986;Bergen;final;10;Switzerland;Daniela Simons;Pas Pour Moi;140;2;bergen-1986;participants
+1986;Bergen;final;11;Israel;Moti Galadi and Sarai Tzuriel;Yavoh Yom;7;19;bergen-1986;participants
+1986;Bergen;final;12;Ireland;Luv Bug;You Can Count On Me;96;4;bergen-1986;participants
+1986;Bergen;final;13;Belgium;Sandra Kim;J'aime La Vie;176;1;bergen-1986;participants
+1986;Bergen;final;14;Germany;Ingrid Peters;Über Die Brücke Geh'n;62;8;bergen-1986;participants
+1986;Bergen;final;15;Cyprus;Elpida;Tora Zo;4;20;bergen-1986;participants
+1986;Bergen;final;16;Austria;Timna Brauer;Die Zeit Ist Einsam;12;18;bergen-1986;participants
+1986;Bergen;final;17;Sweden;Lasse Holm and Monica Törnell;E' De' Det Här Du Kallar Kärlek;78;5;bergen-1986;participants
+1986;Bergen;final;18;Denmark;Lise Haavik and Trax;Du Er Fuld Af Løgn;77;6;bergen-1986;participants
+1986;Bergen;final;19;Finland;Kari Kuivalainen;Päivä Kahden Ihmisen;22;15;bergen-1986;participants
+1986;Bergen;final;20;Portugal;Dora;Não Sejas Mau Para Mim;28;14;bergen-1986;participants
+1987;Brussels;final;1;Norway;Kate Gulbrandsen;Mitt Liv;65;9;brussels-1987;participants
+1987;Brussels;final;2;Israel;Datner and Kushnir;Shir Habatlanim;73;8;brussels-1987;participants
+1987;Brussels;final;3;Austria;Gary Lux;Nur Noch Gefühl;8;20;brussels-1987;participants
+1987;Brussels;final;4;Iceland;Halla Margarét;Hægt Og Hljótt;28;16;brussels-1987;participants
+1987;Brussels;final;5;Belgium;Liliane Saint-Pierre;Soldiers Of Love;56;11;brussels-1987;participants
+1987;Brussels;final;6;Sweden;Lotta Engberg;Boogaloo;50;12;brussels-1987;participants
+1987;Brussels;final;7;Italy;Umberto Tozzi and Raf;Gente Di Mare;103;3;brussels-1987;participants
+1987;Brussels;final;8;Portugal;Nevada;Neste Barco à Vela;15;18;brussels-1987;participants
+1987;Brussels;final;9;Spain;Patricia Kraus;No Estás Solo;10;19;brussels-1987;participants
+1987;Brussels;final;10;Turkey;Seyyal Tanner and Lokomotif;Sarkim Sevgi üstüne;;22;brussels-1987;participants
+1987;Brussels;final;11;Greece;Bang;Stop!;64;10;brussels-1987;participants
+1987;Brussels;final;12;The Netherlands;Marcha;Rechtop In De Wind;83;5;brussels-1987;participants
+1987;Brussels;final;13;Luxembourg;Plastic Bertrand;Amour Amour;4;21;brussels-1987;participants
+1987;Brussels;final;14;United Kingdom;Rikki;Only The Light;47;13;brussels-1987;participants
+1987;Brussels;final;15;France;Christine Minier;Les Mots D'amour N'ont Pas De Dimanche;44;14;brussels-1987;participants
+1987;Brussels;final;16;Germany;Wind;Laß Die Sonne In Dein Herz;141;2;brussels-1987;participants
+1987;Brussels;final;17;Cyprus;Alexia;Aspro Mavro;80;7;brussels-1987;participants
+1987;Brussels;final;18;Finland;Vicky Rosti;Sata Salamaa;32;15;brussels-1987;participants
+1987;Brussels;final;19;Denmark;Anne-Catherine Herdorf and Bandjo;En Lille Melodi;83;5;brussels-1987;participants
+1987;Brussels;final;20;Ireland;Johnny Logan;Hold Me Now;172;1;brussels-1987;participants
+1987;Brussels;final;21;Yugoslavia;Novi Fosili;Ja Sam Za Ples;92;4;brussels-1987;participants
+1987;Brussels;final;22;Switzerland;Carole Rich;Moitié Moitié;26;17;brussels-1987;participants
+1988;Dublin;final;1;Iceland;Beathoven;Sókrates;20;16;dublin-1988;participants
+1988;Dublin;final;2;Sweden;Tommy Körberg;Stad I Ljus;52;12;dublin-1988;participants
+1988;Dublin;final;3;Finland;Boulevard;Nauravat Silmät Muistetaan;3;20;dublin-1988;participants
+1988;Dublin;final;4;United Kingdom;Scott Fitzgerald;Go;136;2;dublin-1988;participants
+1988;Dublin;final;5;Turkey;MFÖ;Sufi (hey Ya Hey);37;15;dublin-1988;participants
+1988;Dublin;final;6;Spain;La Década;La Chica Que Yo Quiero (made In Spain);58;11;dublin-1988;participants
+1988;Dublin;final;7;The Netherlands;Gerard Joling;Shangri-la;70;9;dublin-1988;participants
+1988;Dublin;final;8;Israel;Yardena Arazi;Ben Adam;85;7;dublin-1988;participants
+1988;Dublin;final;9;Switzerland;Céline Dion;Ne Partez Pas Sans Moi;137;1;dublin-1988;participants
+1988;Dublin;final;10;Ireland;Jump the Gun;Take Him Home;79;8;dublin-1988;participants
+1988;Dublin;final;11;Germany;Maxi and Chris Garden;Lied Für Einen Freund;48;14;dublin-1988;participants
+1988;Dublin;final;12;Austria;Wilfried;Lisa Mona Lisa;;21;dublin-1988;participants
+1988;Dublin;final;13;Denmark;Hot Eyes;Ka' Du Se Hva' Jeg Sa';92;3;dublin-1988;participants
+1988;Dublin;final;14;Greece;Aphroditi Fryda;Kloun;10;17;dublin-1988;participants
+1988;Dublin;final;15;Norway;Karoline Krüger;For Vår Jord;88;5;dublin-1988;participants
+1988;Dublin;final;16;Belgium;Reynaert;Laissez Briller Le Soleil;5;18;dublin-1988;participants
+1988;Dublin;final;17;Luxembourg;Lara Fabian;Croire;90;4;dublin-1988;participants
+1988;Dublin;final;18;Italy;Luca Barbarossa;Ti Scrivo;52;12;dublin-1988;participants
+1988;Dublin;final;19;France;Gérard Lenorman;Chanteur De Charme;64;10;dublin-1988;participants
+1988;Dublin;final;20;Portugal;Dora;Voltarei;5;18;dublin-1988;participants
+1988;Dublin;final;21;Yugoslavia;Srebrna Krila;Mangup;87;6;dublin-1988;participants
+1989;Lausanne;final;1;Italy;Anna Oxa and Fausto Leali;Avrei Voluto;56;9;lausanne-1989;participants
+1989;Lausanne;final;2;Israel;Gili ve Galit;Derech Ha'melech;50;12;lausanne-1989;participants
+1989;Lausanne;final;3;Ireland;Kiev Connolly and the Missing Passengers;The Real Me;21;18;lausanne-1989;participants
+1989;Lausanne;final;4;The Netherlands;Justine Pelmelay;Blijf Zoals Je Bent;45;15;lausanne-1989;participants
+1989;Lausanne;final;5;Turkey;Pan;Bana Bana;5;21;lausanne-1989;participants
+1989;Lausanne;final;6;Belgium;Ingeborg;Door De Wind;13;19;lausanne-1989;participants
+1989;Lausanne;final;7;United Kingdom;Live Report;Why Do I Always Get It Wrong;130;2;lausanne-1989;participants
+1989;Lausanne;final;8;Norway;Britt Synnøve Johansen;Venners Nærhet;30;17;lausanne-1989;participants
+1989;Lausanne;final;9;Portugal;Da Vinci;Conquistador;39;16;lausanne-1989;participants
+1989;Lausanne;final;10;Sweden;Tommy Nilsson;En Dag;110;4;lausanne-1989;participants
+1989;Lausanne;final;11;Luxembourg;Park Café;Monsieur;8;20;lausanne-1989;participants
+1989;Lausanne;final;12;Denmark;Birthe Kjær;Vi Maler Byen Rød;111;3;lausanne-1989;participants
+1989;Lausanne;final;13;Austria;Thomas Forstner;Nur Ein Lied;97;5;lausanne-1989;participants
+1989;Lausanne;final;14;Finland;Anneli Saaristo;La Dolce Vita;76;7;lausanne-1989;participants
+1989;Lausanne;final;15;France;Nathalie Pâque;J'ai Volé La Vie;60;8;lausanne-1989;participants
+1989;Lausanne;final;16;Spain;Nina;Nacida Para Amar;88;6;lausanne-1989;participants
+1989;Lausanne;final;17;Cyprus;Fanny Polymeri and Yiannis Savvidakis;Apopse As Vrethoume;51;11;lausanne-1989;participants
+1989;Lausanne;final;18;Switzerland;Furbaz;Viver Senza Tei;47;13;lausanne-1989;participants
+1989;Lausanne;final;19;Greece;Marianna;To Diko Sou Asteri;56;9;lausanne-1989;participants
+1989;Lausanne;final;20;Iceland;Daníel Augúst Haraldsson;Það Sem Enginn Sér;;22;lausanne-1989;participants
+1989;Lausanne;final;21;Germany;Nino de Angelo;Flieger;46;14;lausanne-1989;participants
+1989;Lausanne;final;22;Yugoslavia;Riva;Rock Me;137;1;lausanne-1989;participants
+1990;Zagreb;final;1;Spain;Azúcar Moreno;Bandido;96;5;zagreb-1990;participants
+1990;Zagreb;final;2;Greece;Christos Callow and Wave;Horis Skopo;11;19;zagreb-1990;participants
+1990;Zagreb;final;3;Belgium;Philippe Lafontaine;Macédomienne;46;12;zagreb-1990;participants
+1990;Zagreb;final;4;Turkey;Kayahan;Gözlerinin Hapsindeyim;21;17;zagreb-1990;participants
+1990;Zagreb;final;5;The Netherlands;Maywood;Ik Wil Alles Met Je Delen;25;15;zagreb-1990;participants
+1990;Zagreb;final;6;Luxembourg;Céline Carzo;Quand Je Te Rêve;38;13;zagreb-1990;participants
+1990;Zagreb;final;7;United Kingdom;Emma;Give A Little Love Back To The World;87;6;zagreb-1990;participants
+1990;Zagreb;final;8;Iceland;Stjórnin;Eitt Lag Enn;124;4;zagreb-1990;participants
+1990;Zagreb;final;9;Norway;Ketil Stokkan;Brandenburger Tor;8;21;zagreb-1990;participants
+1990;Zagreb;final;10;Israel;Rita;Shara Barechovot;16;18;zagreb-1990;participants
+1990;Zagreb;final;11;Denmark;Lonnie Devantier;Hallo Hallo;64;8;zagreb-1990;participants
+1990;Zagreb;final;12;Switzerland;Egon Egemann;Musik Klingt In Die Welt Hinaus;51;11;zagreb-1990;participants
+1990;Zagreb;final;13;Germany;Chris Kempers and Daniel Kovac;Frei Zu Leben;60;9;zagreb-1990;participants
+1990;Zagreb;final;14;France;Joelle Ursull;White And Black Blues;132;2;zagreb-1990;participants
+1990;Zagreb;final;15;Yugoslavia;Tajci;Hajde Da Ludujemo;81;7;zagreb-1990;participants
+1990;Zagreb;final;16;Portugal;Nucha;Há Sempre Alguém;9;20;zagreb-1990;participants
+1990;Zagreb;final;17;Ireland;Liam Reilly;Somewhere In Europe;132;2;zagreb-1990;participants
+1990;Zagreb;final;18;Sweden;Edin-Ådahl;Som En Vind;24;16;zagreb-1990;participants
+1990;Zagreb;final;19;Italy;Toto Cutugno;Insieme: 1992;149;1;zagreb-1990;participants
+1990;Zagreb;final;20;Austria;Simone;Keine Mauern Mehr;58;10;zagreb-1990;participants
+1990;Zagreb;final;21;Cyprus;Haris Anastasiou;Milas Poli;36;14;zagreb-1990;participants
+1990;Zagreb;final;22;Finland;Beat;Fri?;8;21;zagreb-1990;participants
+1991;Rome;final;1;Yugoslavia;Baby Doll;Brazil;1;21;rome-1991;participants
+1991;Rome;final;2;Iceland;Stefán and Eyfi;Nina;26;15;rome-1991;participants
+1991;Rome;final;3;Malta;Paul Giordimaina and Georgina;Could It Be;106;6;rome-1991;participants
+1991;Rome;final;4;Greece;Sofia Vossou;I Anixi;36;13;rome-1991;participants
+1991;Rome;final;5;Switzerland;Sandra Simò;Canzone Per Te;118;5;rome-1991;participants
+1991;Rome;final;6;Austria;Thomas Forstner;Venedig Im Regen;;22;rome-1991;participants
+1991;Rome;final;7;Luxembourg;Sarah Bray;Un Baiser Volé;29;14;rome-1991;participants
+1991;Rome;final;8;Sweden;Carola;Fångad Av En Stormvind;146;1;rome-1991;participants
+1991;Rome;final;9;France;Amina;C'est Le Dernier Qui A Parlé Qui A Raison;146;2;rome-1991;participants
+1991;Rome;final;10;Turkey;Izel Çeliköz, Rayhan Soykarçi and Can Ugurluér;Iki Dakika;44;12;rome-1991;participants
+1991;Rome;final;11;Ireland;Kim Jackson;Could It Be That I'm In Love;47;10;rome-1991;participants
+1991;Rome;final;12;Portugal;Dulce;Lusitana Paixão;62;8;rome-1991;participants
+1991;Rome;final;13;Denmark;Anders Frandsen;Lige Der Hvor Hjertet Slår;8;19;rome-1991;participants
+1991;Rome;final;14;Norway;Just 4 Fun;Mrs. Thompson;14;17;rome-1991;participants
+1991;Rome;final;15;Israel;Duo Datz;Kan;139;3;rome-1991;participants
+1991;Rome;final;16;Finland;Kaija;Hullu Yö;6;20;rome-1991;participants
+1991;Rome;final;17;Germany;Atlantis 2000;Dieser Traum Darf Niemals Sterben;10;18;rome-1991;participants
+1991;Rome;final;18;Belgium;Clouseau;Geef Het Op;23;16;rome-1991;participants
+1991;Rome;final;19;Spain;Sergio Dalma;Bailar Pegados;119;4;rome-1991;participants
+1991;Rome;final;20;United Kingdom;Samantha Janus;A Message To Your Heart;47;10;rome-1991;participants
+1991;Rome;final;21;Cyprus;Elena Patroclou;S.o.s.;60;9;rome-1991;participants
+1991;Rome;final;22;Italy;Peppino di Capri;Comme E' Ddoce 'o Mare;89;7;rome-1991;participants
+1992;Malmo;final;1;Spain;Serafin;Todo Esto Es La Música;37;14;malmo-1992;participants
+1992;Malmo;final;2;Belgium;Morgane;Nous On Veut Des Violons;11;20;malmo-1992;participants
+1992;Malmo;final;3;Israel;Dafna;Ze Rak Sport;85;6;malmo-1992;participants
+1992;Malmo;final;4;Turkey;Aylin Vatankos;Yaz Bitti;17;19;malmo-1992;participants
+1992;Malmo;final;5;Greece;Cleopatra;Olou Tou Kosmou I Elpida;94;5;malmo-1992;participants
+1992;Malmo;final;6;France;Kali;Monté La Riviè;73;8;malmo-1992;participants
+1992;Malmo;final;7;Sweden;Christer Björkmann;I Morgon är En Annan Dag;9;22;malmo-1992;participants
+1992;Malmo;final;8;Portugal;Diná;Amor D'água Fresca;26;17;malmo-1992;participants
+1992;Malmo;final;9;Cyprus;Evridiki;Teriazoume;57;11;malmo-1992;participants
+1992;Malmo;final;10;Malta;Mary Spiteri;Little Child;123;3;malmo-1992;participants
+1992;Malmo;final;11;Iceland;Heart 2 Heart;Nei Eða Já;80;7;malmo-1992;participants
+1992;Malmo;final;12;Finland;Pave;Yamma Yamma;4;23;malmo-1992;participants
+1992;Malmo;final;13;Switzerland;Daisy Auvray;Mister Music Man;32;15;malmo-1992;participants
+1992;Malmo;final;14;Luxembourg;Marion Welter and Kontinent;Sou Fräi;10;21;malmo-1992;participants
+1992;Malmo;final;15;Austria;Tony Wegas;Zusammen Geh'n;63;10;malmo-1992;participants
+1992;Malmo;final;16;United Kingdom;Michael Ball;One Step Out Of Time;139;2;malmo-1992;participants
+1992;Malmo;final;17;Ireland;Linda Martin;Why Me;155;1;malmo-1992;participants
+1992;Malmo;final;18;Denmark;Lotte Nilsson and Kenny Lübcke;Ålt Det Som Ingen Ser;47;12;malmo-1992;participants
+1992;Malmo;final;19;Italy;Mia Martini;Rapsodia;111;4;malmo-1992;participants
+1992;Malmo;final;20;Yugoslavia;Extra Nena;Ljubim Te Pesmama;44;13;malmo-1992;participants
+1992;Malmo;final;21;Norway;Merethe Trøan;Visjoner;23;18;malmo-1992;participants
+1992;Malmo;final;22;Germany;Wind;Träume Sind Für Alle Da;27;16;malmo-1992;participants
+1992;Malmo;final;23;The Netherlands;Humphrey Campbell;Wijs Me De Weg;67;9;malmo-1992;participants
+1993;Millstreet;final;1;Italy;Enrico Ruggeri;Sole D'europa;45;12;millstreet-1993;participants
+1993;Millstreet;final;2;Turkey;Burak Aydos, Öztürk Baybora & Serter;Esmer Yarim;10;21;millstreet-1993;participants
+1993;Millstreet;final;3;Germany;Münchener Freiheit;Viel Zu Weit;18;18;millstreet-1993;participants
+1993;Millstreet;final;4;Switzerland;Annie Cotton;Moi, Tout Simplement;148;3;millstreet-1993;participants
+1993;Millstreet;final;5;Denmark;Tommy Seebach Band;Under Stjernerne På Himlen;9;22;millstreet-1993;participants
+1993;Millstreet;final;6;Greece;Kaiti Garbi;Ellada, Hora Tou Fotos;64;9;millstreet-1993;participants
+1993;Millstreet;final;7;Belgium;Barbara;Iemand Als Jij;3;25;millstreet-1993;participants
+1993;Millstreet;final;8;Malta;William Mangion;This Time;69;8;millstreet-1993;participants
+1993;Millstreet;final;9;Iceland;Inga;þá Veistu Svarið;42;13;millstreet-1993;participants
+1993;Millstreet;final;10;Austria;Tony Wegas;Maria Magdalena;32;14;millstreet-1993;participants
+1993;Millstreet;final;11;Portugal;Anabela;A Cidade Até Ser Dia;60;10;millstreet-1993;participants
+1993;Millstreet;final;12;France;Patrick Fiori;Mama Corsica;121;4;millstreet-1993;participants
+1993;Millstreet;final;13;Sweden;Arvingarna;Eloïse;89;7;millstreet-1993;participants
+1993;Millstreet;final;14;Ireland;Niamh Kavanagh;In Your Eyes;187;1;millstreet-1993;participants
+1993;Millstreet;final;15;Luxembourg;Modern Times;Donne-moi Une Chance;11;20;millstreet-1993;participants
+1993;Millstreet;final;16;Slovenia;1X Band;Tih Dezeven Dan;9;22;millstreet-1993;participants
+1993;Millstreet;final;17;Finland;Katri-Helena;Tule Luo;20;17;millstreet-1993;participants
+1993;Millstreet;final;18;Bosnia & Herzegovina;Fazla;Sva Bol Svijeta;27;16;millstreet-1993;participants
+1993;Millstreet;final;19;United Kingdom;Sonia;Better The Devil You Know;164;2;millstreet-1993;participants
+1993;Millstreet;final;20;The Netherlands;Ruth Jacott;Vrede;92;6;millstreet-1993;participants
+1993;Millstreet;final;21;Croatia;Put;Don't Ever Cry;31;15;millstreet-1993;participants
+1993;Millstreet;final;22;Spain;Eva Santamaria;Hombres;58;11;millstreet-1993;participants
+1993;Millstreet;final;23;Cyprus;Kyriakos Zymboulakis and Demos Van Beke;Mi Stamatas;17;19;millstreet-1993;participants
+1993;Millstreet;final;24;Israel;Lakahat Shiru;Shiru;4;24;millstreet-1993;participants
+1993;Millstreet;final;25;Norway;Silje Vige;Alle Mine Tankar;120;5;millstreet-1993;participants
+1994;Dublin;final;1;Sweden;Marie Bergman and Roger Pontare;Stjärnorna;48;13;dublin-1994;participants
+1994;Dublin;final;2;Finland;CatCat;Bye Bye Baby;11;22;dublin-1994;participants
+1994;Dublin;final;3;Ireland;Paul Harrington and Charlie McGettigan;Rock 'n' Roll Kids;226;1;dublin-1994;participants
+1994;Dublin;final;4;Cyprus;Evridiki;Ime Anthropos Ke Ego;51;11;dublin-1994;participants
+1994;Dublin;final;5;Iceland;Sigga;Nætur;49;12;dublin-1994;participants
+1994;Dublin;final;6;United Kingdom;Frances Ruffelle;We Will Be Free (lonely Symphony);63;10;dublin-1994;participants
+1994;Dublin;final;7;Croatia;Tony Cetinski;Nek'ti Bude Ljubav Sva;27;16;dublin-1994;participants
+1994;Dublin;final;8;Portugal;Sara Tavares;Chamar A Música;73;8;dublin-1994;participants
+1994;Dublin;final;9;Switzerland;Duilio;Sto Pregando;15;19;dublin-1994;participants
+1994;Dublin;final;10;Estonia;Silvi Vrait;Nagu Merelaine;2;24;dublin-1994;participants
+1994;Dublin;final;11;Romania;Dan Bittman;Dincolo De Nori;14;21;dublin-1994;participants
+1994;Dublin;final;12;Malta;Moira Stafrace and Christopher Scicluna;More Than Love;97;5;dublin-1994;participants
+1994;Dublin;final;13;The Netherlands;Willeke Alberti;Waar Is De Zon;4;23;dublin-1994;participants
+1994;Dublin;final;14;Germany;MeKaDo;Wir Geben 'ne Party;128;3;dublin-1994;participants
+1994;Dublin;final;15;Slovakia;Martin Durinda and Tublatanka;Nekovecná Piesen;15;19;dublin-1994;participants
+1994;Dublin;final;16;Lithuania;Ovidijus Vyšniauskas;Lopšine Mylimai;;25;dublin-1994;participants
+1994;Dublin;final;17;Norway;Elisabeth Andreasson and Jan Werner Danielsen;Duett;76;6;dublin-1994;participants
+1994;Dublin;final;18;Bosnia & Herzegovina;Alma and Dejan;Ostani Kraj Mene;39;15;dublin-1994;participants
+1994;Dublin;final;19;Greece;Costas Bigalis and  the Sea Lovers;To Trehantiri (diri Diri);44;14;dublin-1994;participants
+1994;Dublin;final;20;Austria;Petra Frey;Für Den Frieden Der Welt;19;17;dublin-1994;participants
+1994;Dublin;final;21;Spain;Alejandro Abad;Ella No Es Ella;17;18;dublin-1994;participants
+1994;Dublin;final;22;Hungary;Friderika Bayer;Kinek Mondjam El Vétkeimet;122;4;dublin-1994;participants
+1994;Dublin;final;23;Russia;Youddiph;Vechni Stranik;70;9;dublin-1994;participants
+1994;Dublin;final;24;Poland;Edyta Górniak;To Nie Ja!;166;2;dublin-1994;participants
+1994;Dublin;final;25;France;Nina Morato;Je Suis Un Vrai Garçon;74;7;dublin-1994;participants
+1995;Dublin;final;1;Poland;Justyna;Sama;15;18;dublin-1995;participants
+1995;Dublin;final;2;Ireland;Eddie Friel;Dreamin';44;14;dublin-1995;participants
+1995;Dublin;final;3;Germany;Stone and Stone;Verliebt In Dich;1;23;dublin-1995;participants
+1995;Dublin;final;4;Bosnia & Herzegovina;Davor Popovic;Dvadeset I Prvi Vijek;14;19;dublin-1995;participants
+1995;Dublin;final;5;Norway;Secret Garden;Nocturne;148;1;dublin-1995;participants
+1995;Dublin;final;6;Russia;Philipp Kirkorov;Kolybelnaya Dlya Vulkana;17;17;dublin-1995;participants
+1995;Dublin;final;7;Iceland;Bó Halldórsson;Núna;31;15;dublin-1995;participants
+1995;Dublin;final;8;Austria;Stella Jones;Die Welt Dreht Sich Verkehrt;67;13;dublin-1995;participants
+1995;Dublin;final;9;Spain;Anabel Conde;Vuelve Conmigo;119;2;dublin-1995;participants
+1995;Dublin;final;10;Turkey;Arzu Ece;Sev!;21;16;dublin-1995;participants
+1995;Dublin;final;11;Croatia;Magazin and Lidija;Nostalgija;91;6;dublin-1995;participants
+1995;Dublin;final;12;France;Nathalie Santamaria;Il Me Donne Rendez-vous;94;4;dublin-1995;participants
+1995;Dublin;final;13;Hungary;Czaba Szigeti;Ùj Nèv Egy Règi Hàz Fàlan;3;22;dublin-1995;participants
+1995;Dublin;final;14;Belgium;Frédéric Etherlinck;La Voix Est Libre;8;20;dublin-1995;participants
+1995;Dublin;final;15;United Kingdom;Love City Groove;Love City Groove;76;10;dublin-1995;participants
+1995;Dublin;final;16;Portugal;Tó Cruz;Baunilha E Chocolate;5;21;dublin-1995;participants
+1995;Dublin;final;17;Cyprus;Alexandros Panayi;Sti Fotia;79;9;dublin-1995;participants
+1995;Dublin;final;18;Sweden;Jan Johansen;Se På Mej;100;3;dublin-1995;participants
+1995;Dublin;final;19;Denmark;Aud Wilken;Fra Mols Til Skagen;92;5;dublin-1995;participants
+1995;Dublin;final;20;Slovenia;Darja Svajger;Prisluhni Mi;84;7;dublin-1995;participants
+1995;Dublin;final;21;Israel;Liora;Amen;81;8;dublin-1995;participants
+1995;Dublin;final;22;Malta;Mike Spiteri;Keep Me In Mind;76;10;dublin-1995;participants
+1995;Dublin;final;23;Greece;Elina Constantopoulou;Pia Prossefchi;68;12;dublin-1995;participants
+1996;Oslo;final;1;Turkey;Sebnem Paker;Besinçi Mevsim;57;12;oslo-1996;participants
+1996;Oslo;final;2;United Kingdom;Gina G;Ooh...Aah...Just A Little Bit;77;8;oslo-1996;participants
+1996;Oslo;final;3;Spain;Antonio Carbonell;¡Ay, Qué Deseo!;17;20;oslo-1996;participants
+1996;Oslo;final;4;Portugal;Lúcia Moniz;O Meu Coração Não Tem Cor;92;6;oslo-1996;participants
+1996;Oslo;final;5;Cyprus;Constantinos;Móno Gia Más;72;9;oslo-1996;participants
+1996;Oslo;final;6;Malta;Miriam Christine;In A Woman's Heart;68;10;oslo-1996;participants
+1996;Oslo;final;7;Croatia;Maja Blagdan;Sveta Ljubav;98;4;oslo-1996;participants
+1996;Oslo;final;8;Austria;George Nußbaumer;Weil's Dr Guat Got;68;10;oslo-1996;participants
+1996;Oslo;final;9;Switzerland;Cathy Leander;Mon Coeur L'aime;22;16;oslo-1996;participants
+1996;Oslo;final;10;Greece;Marianna Efstratiou;Emis Forame To Himona Anixiatika;36;14;oslo-1996;participants
+1996;Oslo;final;11;Estonia;Ivo Linna and Maarja-Liis Ilus;Kaelakee Hääl;94;5;oslo-1996;participants
+1996;Oslo;final;12;Norway;Elisabeth Andreasson;I Evighet;114;2;oslo-1996;participants
+1996;Oslo;final;13;France;Dan Ar Braz et l'Héritage des Celtes;Diwanit Bugale;18;19;oslo-1996;participants
+1996;Oslo;final;14;Slovenia;Regina;Dan najlepših sanj;16;21;oslo-1996;participants
+1996;Oslo;final;15;The Netherlands;Maxine and Franklin Brown;De Eerste Keer;78;7;oslo-1996;participants
+1996;Oslo;final;16;Belgium;Lisa del Bo;Liefde Is Een Kaartspel;22;16;oslo-1996;participants
+1996;Oslo;final;17;Ireland;Eimear Quinn;The Voice;162;1;oslo-1996;participants
+1996;Oslo;final;18;Finland;Jasmine;Niin Kaunis On Taivas;9;23;oslo-1996;participants
+1996;Oslo;final;19;Iceland;Anna Mjöll;Sjúbídú;51;13;oslo-1996;participants
+1996;Oslo;final;20;Poland;Kasia Kowalska;Chce Znac Swój Grzech;31;15;oslo-1996;participants
+1996;Oslo;final;21;Bosnia & Herzegovina;Amila Glamocak;Za Na<U+009A>u Ljubav;13;22;oslo-1996;participants
+1996;Oslo;final;22;Slovakia;Marcel Palonder;Kým Nás Má<U+009A>;19;18;oslo-1996;participants
+1996;Oslo;final;23;Sweden;One More Time;Den Vilda;100;3;oslo-1996;participants
+1997;Dublin;final;1;Cyprus;Chara and Andreas Konstantinou;Mana Mou;98;5;dublin-1997;participants
+1997;Dublin;final;2;Turkey;Sebnem Paker and Group Etnic;Dinle;121;3;dublin-1997;participants
+1997;Dublin;final;3;Norway;Tor Endresen;San Francisco;;24;dublin-1997;participants
+1997;Dublin;final;4;Austria;Bettina Soriat;One Step;12;21;dublin-1997;participants
+1997;Dublin;final;5;Ireland;Marc Roberts;Mysterious Woman;157;2;dublin-1997;participants
+1997;Dublin;final;6;Slovenia;Tanja Ribic;Zbudi Se;60;10;dublin-1997;participants
+1997;Dublin;final;7;Switzerland;Barbara Berta;Dentro Di Me;5;22;dublin-1997;participants
+1997;Dublin;final;8;The Netherlands;Mrs. Einstein;Niemand Heeft Nog Tijd;5;22;dublin-1997;participants
+1997;Dublin;final;9;Italy;Jalisse;Fiumi Di Parole;114;4;dublin-1997;participants
+1997;Dublin;final;10;Spain;Marcos Llunas;Sin Rencor;96;6;dublin-1997;participants
+1997;Dublin;final;11;Germany;Bianca Shomburg;Zeit;22;18;dublin-1997;participants
+1997;Dublin;final;12;Poland;Anna Maria Jopek;Ale Jestem;54;11;dublin-1997;participants
+1997;Dublin;final;13;Estonia;Maarja-Liis Ilus;Keelatud Maa;82;8;dublin-1997;participants
+1997;Dublin;final;14;Bosnia & Herzegovina;Alma Cardzic;Goodbye;22;18;dublin-1997;participants
+1997;Dublin;final;15;Portugal;Célia Lawson;Antes Do Adeus;;24;dublin-1997;participants
+1997;Dublin;final;16;Sweden;Blond;Bara Hon älskar Mig;36;14;dublin-1997;participants
+1997;Dublin;final;17;Greece;Marianna Zorba;Horepse;39;12;dublin-1997;participants
+1997;Dublin;final;18;Malta;Debbie Scerri;Let Me Fly;66;9;dublin-1997;participants
+1997;Dublin;final;19;Hungary;VIP;Miert Kell, Hogy Elmenj?;39;12;dublin-1997;participants
+1997;Dublin;final;20;Russia;Alla Pugachova;Primadonna;33;15;dublin-1997;participants
+1997;Dublin;final;21;Denmark;Kølig Kaj;Stemmen I Mit Liv;25;16;dublin-1997;participants
+1997;Dublin;final;22;France;Fanny;Sentiments Songes;95;7;dublin-1997;participants
+1997;Dublin;final;23;Croatia;ENI;Probudi Me;24;17;dublin-1997;participants
+1997;Dublin;final;24;United Kingdom;Katrina and The Waves;Love Shine A Light;227;1;dublin-1997;participants
+1997;Dublin;final;25;Iceland;Paul Oscar;Minn Hinsti Dans;18;20;dublin-1997;participants
+1998;Birmingham;final;1;Croatia;Danijela;Neka Mi Ne Svane;131;5;birmingham-1998;participants
+1998;Birmingham;final;2;Greece;Dionysia and Thalassa group;Mia Krifi Evaisthissia;12;20;birmingham-1998;participants
+1998;Birmingham;final;3;France;Marie-Line;Où Aller;3;24;birmingham-1998;participants
+1998;Birmingham;final;4;Spain;Mikel Herzog;¿Qué Voy A Hacer Sin Ti?;21;16;birmingham-1998;participants
+1998;Birmingham;final;5;Switzerland;Gunvor;Lass Ihn;;25;birmingham-1998;participants
+1998;Birmingham;final;6;Slovakia;Katarína Hasprová;Modlitba;8;21;birmingham-1998;participants
+1998;Birmingham;final;7;Poland;Sixteen;To Takie Proste;19;17;birmingham-1998;participants
+1998;Birmingham;final;8;Israel;Dana International;Diva;172;1;birmingham-1998;participants
+1998;Birmingham;final;9;Germany;Guildo Horn;Guildo Hat Euch Lieb;86;7;birmingham-1998;participants
+1998;Birmingham;final;10;Malta;Chiara;The One That I Love;165;3;birmingham-1998;participants
+1998;Birmingham;final;11;Hungary;Charlie;A Holnap Már Ném Lesz Szomorú;4;23;birmingham-1998;participants
+1998;Birmingham;final;12;Slovenia;Vili Resnik;Naj Bogovi Sli<U+009A>ijo;17;18;birmingham-1998;participants
+1998;Birmingham;final;13;Ireland;Dawn;Is Always Over Now?;64;9;birmingham-1998;participants
+1998;Birmingham;final;14;Portugal;Alma Lusa;Se Eu Te Pudesse Abraçar;36;12;birmingham-1998;participants
+1998;Birmingham;final;15;Romania;Malina Olinescu;Eu Cred;6;22;birmingham-1998;participants
+1998;Birmingham;final;16;United Kingdom;Imaani;Where Are You?;166;2;birmingham-1998;participants
+1998;Birmingham;final;17;Cyprus;Michael Hajiyanni;Genesis;37;11;birmingham-1998;participants
+1998;Birmingham;final;18;The Netherlands;Edsilia Rombley;Hemel En Aarde;150;4;birmingham-1998;participants
+1998;Birmingham;final;19;Sweden;Jill Johnson;Kärleken är;53;10;birmingham-1998;participants
+1998;Birmingham;final;20;Belgium;Mélanie Cohl;Dis Oui;122;6;birmingham-1998;participants
+1998;Birmingham;final;21;Finland;Edea;Aava;22;15;birmingham-1998;participants
+1998;Birmingham;final;22;Norway;Lars A. Fredriksen;Alltid Sommer;79;8;birmingham-1998;participants
+1998;Birmingham;final;23;Estonia;Koit Toome;Mere Lapsed;36;12;birmingham-1998;participants
+1998;Birmingham;final;24;Turkey;Tüzmen;Unutamazsin;25;14;birmingham-1998;participants
+1998;Birmingham;final;25;North Macedonia;Vlado Janevski;Ne Zori, Zoro;16;19;birmingham-1998;participants
+1999;Jerusalem;final;1;Lithuania;Aiste Smilgeviciute;Strazdas;13;20;jerusalem-1999;participants
+1999;Jerusalem;final;2;Belgium;Vanessa Chinitor;Like The Wind;38;12;jerusalem-1999;participants
+1999;Jerusalem;final;3;Spain;Lydia;No Quiero Escuchar;1;23;jerusalem-1999;participants
+1999;Jerusalem;final;4;Croatia;Doris Dragovic;Marija Magdalena;118;4;jerusalem-1999;participants
+1999;Jerusalem;final;5;United Kingdom;Precious;Say It Again;38;12;jerusalem-1999;participants
+1999;Jerusalem;final;6;Slovenia;Darja Svajger;For A Thousand Years;50;11;jerusalem-1999;participants
+1999;Jerusalem;final;7;Turkey;Tuba Önal & Grup Mystik;Dön Artik;21;16;jerusalem-1999;participants
+1999;Jerusalem;final;8;Norway;Stig André Van Eijk;Living My Life Without You;35;14;jerusalem-1999;participants
+1999;Jerusalem;final;9;Denmark;Trine Jepsen & Michael Teschl;This Time (i Mean It);71;8;jerusalem-1999;participants
+1999;Jerusalem;final;10;France;Nayah;Je Veux Donner Ma Voix;14;19;jerusalem-1999;participants
+1999;Jerusalem;final;11;The Netherlands;Marlayne;One Good Reason;71;8;jerusalem-1999;participants
+1999;Jerusalem;final;12;Poland;Mietek (Mieczyslaw) Szczesniak;Przytul Mnie Mocno;17;18;jerusalem-1999;participants
+1999;Jerusalem;final;13;Iceland;Selma Björnsdóttir;All Out Of Luck;146;2;jerusalem-1999;participants
+1999;Jerusalem;final;14;Cyprus;Marlain Angelidou;Tha'nai Erotas;2;22;jerusalem-1999;participants
+1999;Jerusalem;final;15;Sweden;Charlotte Nilsson;Take Me To Your Heaven;163;1;jerusalem-1999;participants
+1999;Jerusalem;final;16;Portugal;Rui Bandeira;Como Tudo Começou;12;21;jerusalem-1999;participants
+1999;Jerusalem;final;17;Ireland;The Mullan's;When You Need Me;18;17;jerusalem-1999;participants
+1999;Jerusalem;final;18;Austria;Bobbie Singer;Reflection;65;10;jerusalem-1999;participants
+1999;Jerusalem;final;19;Israel;Eden;Yom Huledeth;93;5;jerusalem-1999;participants
+1999;Jerusalem;final;20;Malta;Times 3;Believe 'n Peace;32;15;jerusalem-1999;participants
+1999;Jerusalem;final;21;Germany;Sürpriz;Reise Nach Jerusalem - Kudüs'e Seyahat;140;3;jerusalem-1999;participants
+1999;Jerusalem;final;22;Bosnia & Herzegovina;Dino and Beatrice;Putnici;86;7;jerusalem-1999;participants
+1999;Jerusalem;final;23;Estonia;Evelin Samuel and Camille;Diamond Of Night;90;6;jerusalem-1999;participants
+2000;Stockholm;final;1;Israel;Ping Pong;Sa'me'akh;7;22;stockholm-2000;participants
+2000;Stockholm;final;2;The Netherlands;Linda Wagenmakers;No Goodbyes;40;13;stockholm-2000;participants
+2000;Stockholm;final;3;United Kingdom;Nicki French;Don't Play That Song Again;28;16;stockholm-2000;participants
+2000;Stockholm;final;4;Estonia;Ines;Once In A Lifetime;98;4;stockholm-2000;participants
+2000;Stockholm;final;5;France;Sofia Mestari;On Aura Le Ciel;5;23;stockholm-2000;participants
+2000;Stockholm;final;6;Romania;Taxi;The Moon;25;17;stockholm-2000;participants
+2000;Stockholm;final;7;Malta;Claudette Pace;Desire;73;8;stockholm-2000;participants
+2000;Stockholm;final;8;Norway;Charmed;My Heart Goes Boom;57;11;stockholm-2000;participants
+2000;Stockholm;final;9;Russia;Alsou;Solo;155;2;stockholm-2000;participants
+2000;Stockholm;final;10;Belgium;Nathalie Sorce;Envie De Vivre;2;24;stockholm-2000;participants
+2000;Stockholm;final;11;Cyprus;Voice;Nomiza;8;21;stockholm-2000;participants
+2000;Stockholm;final;12;Iceland;Einer Augúst Víðisson en Telma Augústdóttir;Tell Me!;45;12;stockholm-2000;participants
+2000;Stockholm;final;13;Spain;Serafín Zubiri;Colgado De Un Sueño;18;18;stockholm-2000;participants
+2000;Stockholm;final;14;Denmark;Olsen brothers;Fly On The Wings Of Love;195;1;stockholm-2000;participants
+2000;Stockholm;final;15;Germany;Stefan Raab;Wadde Hadde Dudde Da;96;5;stockholm-2000;participants
+2000;Stockholm;final;16;Switzerland;Jane Bogaert;La Vita Cos'è?;14;20;stockholm-2000;participants
+2000;Stockholm;final;17;Croatia;Goran Karan;Kada Zaspu Andeli;70;9;stockholm-2000;participants
+2000;Stockholm;final;18;Sweden;Roger Pontare;When Spirits Are Calling My Name;88;7;stockholm-2000;participants
+2000;Stockholm;final;19;North Macedonia;XXL;100\% Te Ljubam;29;15;stockholm-2000;participants
+2000;Stockholm;final;20;Finland;Nina Åström;A Little Bit;18;18;stockholm-2000;participants
+2000;Stockholm;final;21;Latvia;BrainStorm;My Star;136;3;stockholm-2000;participants
+2000;Stockholm;final;22;Turkey;Pinar Ayhan & S.O.S. band;Yorgunum Anla;59;10;stockholm-2000;participants
+2000;Stockholm;final;23;Ireland;Eamonn Toal;Millennium Of Love;92;6;stockholm-2000;participants
+2000;Stockholm;final;24;Austria;The rounder girls;All To You;34;14;stockholm-2000;participants
+2001;Copenhagen;final;1;The Netherlands;Michelle;Out On My Own;16;18;copenhagen-2001;participants
+2001;Copenhagen;final;2;Iceland;TwoTricky;Angel;3;22;copenhagen-2001;participants
+2001;Copenhagen;final;3;Bosnia & Herzegovina;Nino;Hano;29;14;copenhagen-2001;participants
+2001;Copenhagen;final;4;Norway;Haldor Lægreid;On My Own;3;22;copenhagen-2001;participants
+2001;Copenhagen;final;5;Israel;Tal Sondak;Ein Davar;25;16;copenhagen-2001;participants
+2001;Copenhagen;final;6;Russia;Mumiy troll;Lady Alpine Blue;37;12;copenhagen-2001;participants
+2001;Copenhagen;final;7;Sweden;Friends;Listen To Your Heartbeat;100;5;copenhagen-2001;participants
+2001;Copenhagen;final;8;Lithuania;Skamp;You Got Style;35;13;copenhagen-2001;participants
+2001;Copenhagen;final;9;Latvia;Arnis Mednis;Too Much;16;18;copenhagen-2001;participants
+2001;Copenhagen;final;10;Croatia;Vanna;Strings Of My Heart;42;10;copenhagen-2001;participants
+2001;Copenhagen;final;11;Portugal;MTM;Só Sei Ser Feliz Assim;18;17;copenhagen-2001;participants
+2001;Copenhagen;final;12;Ireland;Gary O'Shaughnessy;Without Your Love;6;21;copenhagen-2001;participants
+2001;Copenhagen;final;13;Spain;David Civera;Dile Que La Quiero;76;6;copenhagen-2001;participants
+2001;Copenhagen;final;14;France;Natasha Saint-Pier;Je N'ai Que Mon âme;142;4;copenhagen-2001;participants
+2001;Copenhagen;final;15;Turkey;Sedat Yüce;Sevgiliye Son;41;11;copenhagen-2001;participants
+2001;Copenhagen;final;16;United Kingdom;Lindsay D.;No Dream Impossible;28;15;copenhagen-2001;participants
+2001;Copenhagen;final;17;Slovenia;Nu<U+009A>a Derenda;Energy;70;7;copenhagen-2001;participants
+2001;Copenhagen;final;18;Poland;Piasek;2 Long;11;20;copenhagen-2001;participants
+2001;Copenhagen;final;19;Germany;Michelle;Wer Liebe Lebt;66;8;copenhagen-2001;participants
+2001;Copenhagen;final;20;Estonia;Tanel Padar, Dave Benton & 2XL;Everybody;198;1;copenhagen-2001;participants
+2001;Copenhagen;final;21;Malta;Fabrizio Faniello;Another Summer Night;48;9;copenhagen-2001;participants
+2001;Copenhagen;final;22;Greece;Antique;Die For You;147;3;copenhagen-2001;participants
+2001;Copenhagen;final;23;Denmark;Rollo & King;Never Ever Let You Go;177;2;copenhagen-2001;participants
+2002;Tallinn;final;1;Cyprus;One;Gimme;85;6;tallinn-2002;participants
+2002;Tallinn;final;2;United Kingdom;Jessica Garlick;Come Back;111;3;tallinn-2002;participants
+2002;Tallinn;final;3;Austria;Manuel Ortega;Say A Word;26;18;tallinn-2002;participants
+2002;Tallinn;final;4;Greece;Michalis Rakintzis;S.A.G.A.P.O.;27;17;tallinn-2002;participants
+2002;Tallinn;final;5;Spain;Rosa;Europe's Living A Celebration;81;7;tallinn-2002;participants
+2002;Tallinn;final;6;Croatia;Vesna Pisarovic;Everything I Want;44;11;tallinn-2002;participants
+2002;Tallinn;final;7;Russia;Prime minister;Northern Girl;55;10;tallinn-2002;participants
+2002;Tallinn;final;8;Estonia;Sahléne;Runaway;111;3;tallinn-2002;participants
+2002;Tallinn;final;9;North Macedonia;Karolina;Od Nas Zavisi;25;19;tallinn-2002;participants
+2002;Tallinn;final;10;Israel;Sarit Hadad;Light A Candle;37;12;tallinn-2002;participants
+2002;Tallinn;final;11;Switzerland;Francine Jordi;Dans Le Jardin De Mon Âme;15;22;tallinn-2002;participants
+2002;Tallinn;final;12;Sweden;Afro-dite;Never Let It Go;72;8;tallinn-2002;participants
+2002;Tallinn;final;13;Finland;Laura;Addicted To You;24;20;tallinn-2002;participants
+2002;Tallinn;final;14;Denmark;Malene;Tell Me Who You Are;7;24;tallinn-2002;participants
+2002;Tallinn;final;15;Bosnia & Herzegovina;Maja;Na Jastuku Za Dvoje;33;13;tallinn-2002;participants
+2002;Tallinn;final;16;Belgium;Sergio & the Ladies;Sister;33;13;tallinn-2002;participants
+2002;Tallinn;final;17;France;Sandrine François;Il Faut Du Temps;104;5;tallinn-2002;participants
+2002;Tallinn;final;18;Germany;Corinna May;I Can't Live Without Music;17;21;tallinn-2002;participants
+2002;Tallinn;final;19;Turkey;Buket Bengisu & Saphire;Leylaklar Soldu Kalbinde;29;16;tallinn-2002;participants
+2002;Tallinn;final;20;Malta;Ira Losco;7th Wonder;164;2;tallinn-2002;participants
+2002;Tallinn;final;21;Romania;Monica Anghel & Marcel Pavel;Tell Me Why;71;9;tallinn-2002;participants
+2002;Tallinn;final;22;Slovenia;Sestre;Samo Ljubezen;33;13;tallinn-2002;participants
+2002;Tallinn;final;23;Latvia;Marie N;I Wanna;176;1;tallinn-2002;participants
+2002;Tallinn;final;24;Lithuania;Aivaras;Happy You;12;23;tallinn-2002;participants
+2003;Riga;final;1;Iceland;Birgitta;Open Your Heart;81;8;riga-2003;participants
+2003;Riga;final;2;Austria;Alf Poier;Weil Der Mensch Zählt;101;6;riga-2003;participants
+2003;Riga;final;3;Ireland;Mickey Harte;We<U+0092>ve Got The World;53;11;riga-2003;participants
+2003;Riga;final;4;Turkey;Sertab Erener;Everyway That I Can;167;1;riga-2003;participants
+2003;Riga;final;5;Malta;Lynn Chirchop;To Dream Again;4;25;riga-2003;participants
+2003;Riga;final;6;Bosnia & Herzegovina;Mija Martina;Ne Brini;27;16;riga-2003;participants
+2003;Riga;final;7;Portugal;Rita Guerra;Deixa-me Sonhar;13;22;riga-2003;participants
+2003;Riga;final;8;Croatia;Claudia Beni;Vi<U+009A>e Nisam Tvoja;29;15;riga-2003;participants
+2003;Riga;final;9;Cyprus;Stelios Constantas;Feeling Alive;15;20;riga-2003;participants
+2003;Riga;final;10;Germany;Lou;Let<U+0092>s Get Happy;53;11;riga-2003;participants
+2003;Riga;final;11;Russia;t.A.T.u.;Ne Ver<U+0092>, Ne Boisia;164;3;riga-2003;participants
+2003;Riga;final;12;Spain;Beth;Dime;81;8;riga-2003;participants
+2003;Riga;final;13;Israel;Lior Narkis;Words For Love;17;19;riga-2003;participants
+2003;Riga;final;14;The Netherlands;Esther Hart;One More Night;45;13;riga-2003;participants
+2003;Riga;final;15;United Kingdom;Jemini;Cry Baby;;26;riga-2003;participants
+2003;Riga;final;16;Ukraine;Olexandr;Hasta La Vista;30;14;riga-2003;participants
+2003;Riga;final;17;Greece;Mando;Never Let You Go;25;17;riga-2003;participants
+2003;Riga;final;18;Norway;Jostein Hasselgård;I'm Not Afraid To Move On;123;4;riga-2003;participants
+2003;Riga;final;19;France;Louisa Baileche;Monts Et Merveilles;19;18;riga-2003;participants
+2003;Riga;final;20;Poland;Ich Troje;Keine Grenzen - Zadnych Granic;90;7;riga-2003;participants
+2003;Riga;final;21;Latvia;F.L.Y.;Hello From Mars;5;24;riga-2003;participants
+2003;Riga;final;22;Belgium;Urban Trad;Sanomi;165;2;riga-2003;participants
+2003;Riga;final;23;Estonia;Ruffus;Eighties Coming Back;14;21;riga-2003;participants
+2003;Riga;final;24;Romania;Nicola;Don<U+0092>t Break My Heart;73;10;riga-2003;participants
+2003;Riga;final;25;Sweden;Fame;Give Me Your Love;107;5;riga-2003;participants
+2003;Riga;final;26;Slovenia;Karmen;Nanana;7;23;riga-2003;participants
+2004;Istanbul;semi-final;1;Finland;Jari Sillanpää;Takes 2 To Tango;51;14;istanbul-2004;participants
+2004;Istanbul;semi-final;2;Belarus;Aleksandra & Konstantin;My Galileo;10;19;istanbul-2004;participants
+2004;Istanbul;semi-final;3;Switzerland;Piero Esteriore & the MusicStars;Celebrate;;22;istanbul-2004;participants
+2004;Istanbul;semi-final;4;Latvia;Fomins & Kleins;Dziesma Par Laimi;23;17;istanbul-2004;participants
+2004;Istanbul;semi-final;5;Israel;David D'or;Le'ha'amin;57;11;istanbul-2004;participants
+2004;Istanbul;semi-final;6;Andorra;Marta Roure;Jugarem A Estimar-nos;12;18;istanbul-2004;participants
+2004;Istanbul;semi-final;7;Portugal;Sofia;Foi Magia;38;15;istanbul-2004;participants
+2004;Istanbul;semi-final;8;Malta;Julie & Ludwig;On Again... Off Again;74;8;istanbul-2004;participants
+2004;Istanbul;semi-final;9;Monaco;Maryon;Notre Planète;10;19;istanbul-2004;participants
+2004;Istanbul;semi-final;10;Greece;Sakis Rouvas;Shake It;238;3;istanbul-2004;participants
+2004;Istanbul;semi-final;11;Ukraine;Ruslana;Wild Dances;256;2;istanbul-2004;participants
+2004;Istanbul;semi-final;12;Lithuania;Linas ir Simona;What's Happened To Your Love;26;16;istanbul-2004;participants
+2004;Istanbul;semi-final;13;Albania;Anjeza Shahini;The Image Of You;167;4;istanbul-2004;participants
+2004;Istanbul;semi-final;14;Cyprus;Lisa Andreas;Stronger Every Minute;149;5;istanbul-2004;participants
+2004;Istanbul;semi-final;15;North Macedonia;Tose Proeski;Life;71;10;istanbul-2004;participants
+2004;Istanbul;semi-final;16;Slovenia;Platin;Stay Forever;5;21;istanbul-2004;participants
+2004;Istanbul;semi-final;17;Estonia;Neiokõsõ;Tii;57;11;istanbul-2004;participants
+2004;Istanbul;semi-final;18;Croatia;Ivan Mikulic;You Are The Only One;72;9;istanbul-2004;participants
+2004;Istanbul;semi-final;19;Denmark;Tomas Thordarson;Shame On You;56;13;istanbul-2004;participants
+2004;Istanbul;semi-final;20;Serbia & Montenegro;<U+008E>Željko Joksimovic;Lane Moje;263;1;istanbul-2004;participants
+2004;Istanbul;semi-final;21;Bosnia & Herzegovina;Deen;In The Disco;133;7;istanbul-2004;participants
+2004;Istanbul;semi-final;22;The Netherlands;Re-union;Without You;146;6;istanbul-2004;participants
+2004;Istanbul;grand-final;1;Spain;Ramón;Para Llenarme De Ti;87;10;istanbul-2004;participants
+2004;Istanbul;grand-final;2;Austria;Tie Break;Du Bist;9;21;istanbul-2004;participants
+2004;Istanbul;grand-final;3;Norway;Knut Anders Sørum;High;3;24;istanbul-2004;participants
+2004;Istanbul;grand-final;4;France;Jonatan Cerrada;A Chaque Pas;40;15;istanbul-2004;participants
+2004;Istanbul;grand-final;5;Serbia & Montenegro;<U+008E>Željko Joksimovic;Lane Moje;263;2;istanbul-2004;participants
+2004;Istanbul;grand-final;6;Malta;Julie & Ludwig;On Again... Off Again;50;12;istanbul-2004;participants
+2004;Istanbul;grand-final;7;The Netherlands;Re-union;Without You;11;20;istanbul-2004;participants
+2004;Istanbul;grand-final;8;Germany;Max (Maximilian Mutzke);Can't Wait Until Tonight;93;8;istanbul-2004;participants
+2004;Istanbul;grand-final;9;Albania;Anjeza Shahini;The Image Of You;106;7;istanbul-2004;participants
+2004;Istanbul;grand-final;10;Ukraine;Ruslana;Wild Dances;280;1;istanbul-2004;participants
+2004;Istanbul;grand-final;11;Croatia;Ivan Mikulic;You Are The Only One;50;12;istanbul-2004;participants
+2004;Istanbul;grand-final;12;Bosnia & Herzegovina;Deen;In The Disco;91;9;istanbul-2004;participants
+2004;Istanbul;grand-final;13;Belgium;Xandee;1 Life;7;22;istanbul-2004;participants
+2004;Istanbul;grand-final;14;Russia;Julia Savicheva;Believe Me;67;11;istanbul-2004;participants
+2004;Istanbul;grand-final;15;North Macedonia;Tose Proeski;Life;47;14;istanbul-2004;participants
+2004;Istanbul;grand-final;16;Greece;Sakis Rouvas;Shake It;252;3;istanbul-2004;participants
+2004;Istanbul;grand-final;17;Iceland;Jónsi;Heaven;16;19;istanbul-2004;participants
+2004;Istanbul;grand-final;18;Ireland;Chris Doran;If My World Stopped Turning;7;22;istanbul-2004;participants
+2004;Istanbul;grand-final;19;Poland;Blue Cafe;Love Song;27;17;istanbul-2004;participants
+2004;Istanbul;grand-final;20;United Kingdom;James Fox;Hold On To Our Love;29;16;istanbul-2004;participants
+2004;Istanbul;grand-final;21;Cyprus;Lisa Andreas;Stronger Every Minute;170;5;istanbul-2004;participants
+2004;Istanbul;grand-final;22;Turkey;Athena;For Real;195;4;istanbul-2004;participants
+2004;Istanbul;grand-final;23;Romania;Sanda Ladosi;I Admit;18;18;istanbul-2004;participants
+2004;Istanbul;grand-final;24;Sweden;Lena Philipsson;It Hurts;170;5;istanbul-2004;participants
+2005;Kyiv;semi-final;1;Austria;Global.Kryner;Y Así;30;21;kyiv-2005;participants
+2005;Kyiv;semi-final;2;Lithuania;Laura and the Lovers;Little By Little;17;25;kyiv-2005;participants
+2005;Kyiv;semi-final;3;Portugal;2B;Amar;51;17;kyiv-2005;participants
+2005;Kyiv;semi-final;4;Moldova;Zdob si Zdub;Boonika Bate Toba;207;2;kyiv-2005;participants
+2005;Kyiv;semi-final;5;Latvia;Walter & Kazha;The War Is Not Over;85;10;kyiv-2005;participants
+2005;Kyiv;semi-final;6;Monaco;Lise Darly;Tout De Moi;22;24;kyiv-2005;participants
+2005;Kyiv;semi-final;7;Israel;Shiri Maymon;Hasheket Shenish'ar;158;7;kyiv-2005;participants
+2005;Kyiv;semi-final;8;Belarus;Angelica Agurbash;Love Me Tonight;67;13;kyiv-2005;participants
+2005;Kyiv;semi-final;9;The Netherlands;Glennis Grace;My Impossible Dream;53;14;kyiv-2005;participants
+2005;Kyiv;semi-final;10;Iceland;Selma;If I Had Your Love;52;16;kyiv-2005;participants
+2005;Kyiv;semi-final;11;Belgium;Nuno Resende;Le Grand Soir;29;22;kyiv-2005;participants
+2005;Kyiv;semi-final;12;Estonia;Suntribe;Let's Get Loud;31;20;kyiv-2005;participants
+2005;Kyiv;semi-final;13;Norway;Wig Wam;In My Dreams;164;6;kyiv-2005;participants
+2005;Kyiv;semi-final;14;Romania;Luminita Anghel & Sistem;Let Me Try;235;1;kyiv-2005;participants
+2005;Kyiv;semi-final;15;Hungary;NOX;Forogj Világ;167;5;kyiv-2005;participants
+2005;Kyiv;semi-final;16;Finland;Geir Rönning;Why;50;18;kyiv-2005;participants
+2005;Kyiv;semi-final;17;North Macedonia;Martin Vucic;Make My Day;97;9;kyiv-2005;participants
+2005;Kyiv;semi-final;18;Andorra;Marian van de Wal;La Mirada Interior;27;23;kyiv-2005;participants
+2005;Kyiv;semi-final;19;Switzerland;Vanilla Ninja;Cool Vibes;114;8;kyiv-2005;participants
+2005;Kyiv;semi-final;20;Croatia;Boris Novkovic feat. Lado members;Vukovi Umiru Sami;169;4;kyiv-2005;participants
+2005;Kyiv;semi-final;21;Bulgaria;Kaffe;Lorraine;49;19;kyiv-2005;participants
+2005;Kyiv;semi-final;22;Ireland;Donna and Joseph McCaul;Love?;53;14;kyiv-2005;participants
+2005;Kyiv;semi-final;23;Slovenia;Omar Naber;Stop;69;12;kyiv-2005;participants
+2005;Kyiv;semi-final;24;Denmark;Jakob Sveistrup;Talking To You;185;3;kyiv-2005;participants
+2005;Kyiv;semi-final;25;Poland;Ivan & Delfin;Czarna Dziewczyna;81;11;kyiv-2005;participants
+2005;Kyiv;grand-final;1;Hungary;NOX;Forogj Világ;97;12;kyiv-2005;participants
+2005;Kyiv;grand-final;2;United Kingdom;Javine;Touch My Fire;18;22;kyiv-2005;participants
+2005;Kyiv;grand-final;3;Malta;Chiara;Angel;192;2;kyiv-2005;participants
+2005;Kyiv;grand-final;4;Romania;Luminita Anghel & Sistem;Let Me Try;158;3;kyiv-2005;participants
+2005;Kyiv;grand-final;5;Norway;Wig Wam;In My Dreams;125;9;kyiv-2005;participants
+2005;Kyiv;grand-final;6;Turkey;Gülseren;Rimi Rimi Ley;92;13;kyiv-2005;participants
+2005;Kyiv;grand-final;7;Moldova;Zdob si Zdub;Boonika Bate Toba;148;6;kyiv-2005;participants
+2005;Kyiv;grand-final;8;Albania;Ledina Celo;Tomorrow I Go;53;16;kyiv-2005;participants
+2005;Kyiv;grand-final;9;Cyprus;Constantinos Christoforou;Ela Ela;46;18;kyiv-2005;participants
+2005;Kyiv;grand-final;10;Spain;Son de sol;Brujería;28;21;kyiv-2005;participants
+2005;Kyiv;grand-final;11;Israel;Shiri Maymon;Hasheket Shenish'ar;154;4;kyiv-2005;participants
+2005;Kyiv;grand-final;12;Serbia & Montenegro;No Name;Zauvijek Moja;137;7;kyiv-2005;participants
+2005;Kyiv;grand-final;13;Denmark;Jakob Sveistrup;Talking To You;125;9;kyiv-2005;participants
+2005;Kyiv;grand-final;14;Sweden;Martin Stenmarck;Las Vegas;30;19;kyiv-2005;participants
+2005;Kyiv;grand-final;15;North Macedonia;Martin Vucic;Make My Day;52;17;kyiv-2005;participants
+2005;Kyiv;grand-final;16;Ukraine;Greenjolly;Razom Nas Bahato;30;19;kyiv-2005;participants
+2005;Kyiv;grand-final;17;Germany;Gracia;Run & Hide;4;24;kyiv-2005;participants
+2005;Kyiv;grand-final;18;Croatia;Boris Novkovic feat. Lado members;Vukovi Umiru Sami;115;11;kyiv-2005;participants
+2005;Kyiv;grand-final;19;Greece;Helena Paparizou;My Number One;230;1;kyiv-2005;participants
+2005;Kyiv;grand-final;20;Russia;Natalia Podolskaya;Nobody Hurt No One;57;15;kyiv-2005;participants
+2005;Kyiv;grand-final;21;Bosnia & Herzegovina;Feminnem;Call Me;79;14;kyiv-2005;participants
+2005;Kyiv;grand-final;22;Switzerland;Vanilla Ninja;Cool Vibes;128;8;kyiv-2005;participants
+2005;Kyiv;grand-final;23;Latvia;Walter & Kazha;The War Is Not Over;153;5;kyiv-2005;participants
+2005;Kyiv;grand-final;24;France;Ortal;Chacun Pense à Soi;11;23;kyiv-2005;participants
+2006;Athens;semi-final;1;Armenia;André;Without Your Love;150;6;athens-2006;participants
+2006;Athens;semi-final;2;Bulgaria;Mariana Popova;Let Me Cry;36;17;athens-2006;participants
+2006;Athens;semi-final;3;Slovenia;An<U+009E>ej De<U+009E>an;Mr. Nobody;49;16;athens-2006;participants
+2006;Athens;semi-final;4;Andorra;Jennifer;Sense Tu;8;23;athens-2006;participants
+2006;Athens;semi-final;5;Belarus;Polina Smolova;Mum;10;22;athens-2006;participants
+2006;Athens;semi-final;6;Albania;Luiz Ejlli;Zjarr E Ftohtë;58;14;athens-2006;participants
+2006;Athens;semi-final;7;Belgium;Kate Ryan;Je T'adore;69;12;athens-2006;participants
+2006;Athens;semi-final;8;Ireland;Brian Kennedy;Every Song Is A Cry For Love;79;9;athens-2006;participants
+2006;Athens;semi-final;9;Cyprus;Annet Artani;Why Angels Cry;57;15;athens-2006;participants
+2006;Athens;semi-final;10;Monaco;Séverine Ferrer;La Coco-dance;14;21;athens-2006;participants
+2006;Athens;semi-final;11;North Macedonia;Elena Risteska;Ninanajna;76;10;athens-2006;participants
+2006;Athens;semi-final;12;Poland;Ich Troje;Follow My Heart;70;11;athens-2006;participants
+2006;Athens;semi-final;13;Russia;Dima Bilan;Never Let You Go;217;3;athens-2006;participants
+2006;Athens;semi-final;14;Turkey;Sibel Tüzün;Superstar;91;8;athens-2006;participants
+2006;Athens;semi-final;15;Ukraine;Tina Karol;Show Me Your Love;146;7;athens-2006;participants
+2006;Athens;semi-final;16;Finland;Lordi;Hard Rock Hallelujah;292;1;athens-2006;participants
+2006;Athens;semi-final;17;The Netherlands;Treble;Amambanda;22;20;athens-2006;participants
+2006;Athens;semi-final;18;Lithuania;LT United;We Are The Winners;163;5;athens-2006;participants
+2006;Athens;semi-final;19;Portugal;Nonstop;Coisas De Nada;26;19;athens-2006;participants
+2006;Athens;semi-final;20;Sweden;Carola;Invincible;214;4;athens-2006;participants
+2006;Athens;semi-final;21;Estonia;Sandra;Through My Window;28;18;athens-2006;participants
+2006;Athens;semi-final;22;Bosnia & Herzegovina;Hari Mata Hari;Lejla;267;2;athens-2006;participants
+2006;Athens;semi-final;23;Iceland;Silvia Night;Congratulations;62;13;athens-2006;participants
+2006;Athens;semi-final;24;Serbia & Montenegro;Withdrew from the competition, but still voted;;NA;24;athens-2006;participants
+2006;Athens;grand-final;1;Switzerland;Six4One;If We All Give A Little;30;16;athens-2006;participants
+2006;Athens;grand-final;2;Moldova;Arsenium & Natalia Gordienko;Loca;22;20;athens-2006;participants
+2006;Athens;grand-final;3;Israel;Eddie Butler;Ze Hazman;4;23;athens-2006;participants
+2006;Athens;grand-final;4;Latvia;Cosmos;I Hear Your Heart;30;16;athens-2006;participants
+2006;Athens;grand-final;5;Norway;Christine Guldbrandsen;Alvedansen;36;14;athens-2006;participants
+2006;Athens;grand-final;6;Spain;Las Ketchup;Bloody Mary;18;21;athens-2006;participants
+2006;Athens;grand-final;7;Malta;Fabrizio Faniello;I Do;1;24;athens-2006;participants
+2006;Athens;grand-final;8;Germany;Texas Lightning;No, No, Never;36;14;athens-2006;participants
+2006;Athens;grand-final;9;Denmark;Sidsel Ben Semmane;Twist Of Love;26;18;athens-2006;participants
+2006;Athens;grand-final;10;Russia;Dima Bilan;Never Let You Go;248;2;athens-2006;participants
+2006;Athens;grand-final;11;North Macedonia;Elena Risteska;Ninanajna;56;12;athens-2006;participants
+2006;Athens;grand-final;12;Romania;Mihai Traistariu;Tornero;172;4;athens-2006;participants
+2006;Athens;grand-final;13;Bosnia & Herzegovina;Hari Mata Hari;Lejla;229;3;athens-2006;participants
+2006;Athens;grand-final;14;Lithuania;LT United;We Are The Winners;162;6;athens-2006;participants
+2006;Athens;grand-final;15;United Kingdom;Daz Sampson;Teenage Life;25;19;athens-2006;participants
+2006;Athens;grand-final;16;Greece;Anna Vissi;Everything;128;9;athens-2006;participants
+2006;Athens;grand-final;17;Finland;Lordi;Hard Rock Hallelujah;292;1;athens-2006;participants
+2006;Athens;grand-final;18;Ukraine;Tina Karol;Show Me Your Love;145;7;athens-2006;participants
+2006;Athens;grand-final;19;France;Virginie Pouchin;Il était Temps;5;22;athens-2006;participants
+2006;Athens;grand-final;20;Croatia;Severina;Moja <U+009A>Štikla;56;12;athens-2006;participants
+2006;Athens;grand-final;21;Ireland;Brian Kennedy;Every Song Is A Cry For Love;93;10;athens-2006;participants
+2006;Athens;grand-final;22;Sweden;Carola;Invincible;170;5;athens-2006;participants
+2006;Athens;grand-final;23;Turkey;Sibel Tüzün;Superstar;91;11;athens-2006;participants
+2006;Athens;grand-final;24;Armenia;André;Without Your Love;129;8;athens-2006;participants
+2007;Helsinki;semi-final;1;Bulgaria;Elitsa Todorova & Stoyan Yankulov;Water;146;6;helsinki-2007;participants
+2007;Helsinki;semi-final;2;Israel;Teapacks;Push The Button;17;24;helsinki-2007;participants
+2007;Helsinki;semi-final;3;Cyprus;Evridiki;Comme Ci, Comme ça;65;15;helsinki-2007;participants
+2007;Helsinki;semi-final;4;Belarus;Dmitry Koldun;Work Your Magic;176;4;helsinki-2007;participants
+2007;Helsinki;semi-final;5;Iceland;Eiríkur Hauksson;Valentine Lost;77;13;helsinki-2007;participants
+2007;Helsinki;semi-final;6;Georgia;Sopho;Visionary Dream;123;8;helsinki-2007;participants
+2007;Helsinki;semi-final;7;Montenegro;Stevan Faddy;Ajde Kroci;33;22;helsinki-2007;participants
+2007;Helsinki;semi-final;8;Switzerland;DJ BoBo;Vampires Are Alive;40;20;helsinki-2007;participants
+2007;Helsinki;semi-final;9;Moldova;Natalia Barbu;Fight;91;10;helsinki-2007;participants
+2007;Helsinki;semi-final;10;The Netherlands;Edsilia Rombley;On Top Of The World;38;21;helsinki-2007;participants
+2007;Helsinki;semi-final;11;Albania;Aida & Frederik Ndoci;Hear My Plea;49;17;helsinki-2007;participants
+2007;Helsinki;semi-final;12;Denmark;DQ;Drama Queen;45;19;helsinki-2007;participants
+2007;Helsinki;semi-final;13;Croatia;Dragonfly feat. Dado Topic;Vjerujem U Ljubav;54;16;helsinki-2007;participants
+2007;Helsinki;semi-final;14;Poland;The Jet Set;Time To Party;75;14;helsinki-2007;participants
+2007;Helsinki;semi-final;15;Serbia;Marija Šerifovic;Molitva;298;1;helsinki-2007;participants
+2007;Helsinki;semi-final;16;Czech Republic;Kabát;Malá Dáma;1;28;helsinki-2007;participants
+2007;Helsinki;semi-final;17;Portugal;Sabrina;Dança Comigo (vem Ser Feliz);88;11;helsinki-2007;participants
+2007;Helsinki;semi-final;18;North Macedonia;Karolina;Mojot Svet;97;9;helsinki-2007;participants
+2007;Helsinki;semi-final;19;Norway;Guri Schanke;Ven A Bailar Conmigo;48;18;helsinki-2007;participants
+2007;Helsinki;semi-final;20;Malta;Olivia Lewis;Vertigo;15;25;helsinki-2007;participants
+2007;Helsinki;semi-final;21;Andorra;Anonymous;Salvem El Món;80;12;helsinki-2007;participants
+2007;Helsinki;semi-final;22;Hungary;Magdi Rúzsa;Unsubstantial Blues;224;2;helsinki-2007;participants
+2007;Helsinki;semi-final;23;Estonia;Gerli Padar;Partners In Crime;33;22;helsinki-2007;participants
+2007;Helsinki;semi-final;24;Belgium;The KMG's;Love Power;14;26;helsinki-2007;participants
+2007;Helsinki;semi-final;25;Slovenia;Alenka Gotar;Cvet Z Juga;140;7;helsinki-2007;participants
+2007;Helsinki;semi-final;26;Turkey;Kenan Dogulu;Shake It Up Shekerim;197;3;helsinki-2007;participants
+2007;Helsinki;semi-final;27;Austria;Eric Papilaya;Get A Life - Get Alive;4;27;helsinki-2007;participants
+2007;Helsinki;semi-final;28;Latvia;Bonaparti.lv;Questa Notte;168;5;helsinki-2007;participants
+2007;Helsinki;grand-final;1;Bosnia & Herzegovina;Marija Sestic;Rijeka Bez Imena;106;11;helsinki-2007;participants
+2007;Helsinki;grand-final;2;Spain;NASH;I Love You Mi Vida;43;20;helsinki-2007;participants
+2007;Helsinki;grand-final;3;Belarus;Dmitry Koldun;Work Your Magic;145;6;helsinki-2007;participants
+2007;Helsinki;grand-final;4;Ireland;Dervish;They Can't Stop The Spring;5;24;helsinki-2007;participants
+2007;Helsinki;grand-final;5;Finland;Hanna Pakarinen;Leave Me Alone;53;17;helsinki-2007;participants
+2007;Helsinki;grand-final;6;North Macedonia;Karolina;Mojot Svet;73;14;helsinki-2007;participants
+2007;Helsinki;grand-final;7;Slovenia;Alenka Gotar;Cvet Z Juga;66;15;helsinki-2007;participants
+2007;Helsinki;grand-final;8;Hungary;Magdi Rúzsa;Unsubstantial Blues;128;9;helsinki-2007;participants
+2007;Helsinki;grand-final;9;Lithuania;4Fun;Love Or Leave;28;21;helsinki-2007;participants
+2007;Helsinki;grand-final;10;Greece;Sarbel;Yassou Maria;139;7;helsinki-2007;participants
+2007;Helsinki;grand-final;11;Georgia;Sopho;Visionary Dream;97;12;helsinki-2007;participants
+2007;Helsinki;grand-final;12;Sweden;The Ark;The Worrying Kind;51;18;helsinki-2007;participants
+2007;Helsinki;grand-final;13;France;Les Fatals Picards;L'amour à La Française;19;22;helsinki-2007;participants
+2007;Helsinki;grand-final;14;Latvia;Bonaparti.lv;Questa Notte;54;16;helsinki-2007;participants
+2007;Helsinki;grand-final;15;Russia;Serebro;Song # 1;207;3;helsinki-2007;participants
+2007;Helsinki;grand-final;16;Germany;Roger Cicero;Frauen Regieren Die Welt;49;19;helsinki-2007;participants
+2007;Helsinki;grand-final;17;Serbia;Marija Šerifovic;Molitva;268;1;helsinki-2007;participants
+2007;Helsinki;grand-final;18;Ukraine;Verka Serduchka;Dancing Lasha Tumbai;235;2;helsinki-2007;participants
+2007;Helsinki;grand-final;19;United Kingdom;Scooch;Flying The Flag (for You);19;22;helsinki-2007;participants
+2007;Helsinki;grand-final;20;Romania;Todomondo;Liubi, Liubi, I Love You;84;13;helsinki-2007;participants
+2007;Helsinki;grand-final;21;Bulgaria;Elitsa Todorova & Stoyan Yankulov;Water;157;5;helsinki-2007;participants
+2007;Helsinki;grand-final;22;Turkey;Kenan Dogulu;Shake It Up Shekerim;163;4;helsinki-2007;participants
+2007;Helsinki;grand-final;23;Armenia;Hayko;Anytime You Need;138;8;helsinki-2007;participants
+2007;Helsinki;grand-final;24;Moldova;Natalia Barbu;Fight;109;10;helsinki-2007;participants
+2008;Belgrade;first-semi-final;1;Montenegro;Stefan Filipovic;Zauvijek Volim Te;23;14;belgrade-2008;participants
+2008;Belgrade;first-semi-final;2;Israel;Boaz;The Fire In Your Eyes;104;5;belgrade-2008;participants
+2008;Belgrade;first-semi-final;3;Estonia;Kreisiraadio;Leto Svet;8;18;belgrade-2008;participants
+2008;Belgrade;first-semi-final;4;Moldova;Geta Burlacu;A Century Of Love;36;12;belgrade-2008;participants
+2008;Belgrade;first-semi-final;5;San Marino;Miodio;Complice;5;19;belgrade-2008;participants
+2008;Belgrade;first-semi-final;6;Belgium;Ishtar;O Julissi;16;17;belgrade-2008;participants
+2008;Belgrade;first-semi-final;7;Azerbaijan;Elnur & Samir;Day After Day;96;6;belgrade-2008;participants
+2008;Belgrade;first-semi-final;8;Slovenia;Rebeka Dremelj;Vrag Naj Vzame;36;11;belgrade-2008;participants
+2008;Belgrade;first-semi-final;9;Norway;Maria;Hold On Be Strong;106;4;belgrade-2008;participants
+2008;Belgrade;first-semi-final;10;Poland;Isis Gee;For Life;42;10;belgrade-2008;participants
+2008;Belgrade;first-semi-final;11;Ireland;Dustin the Turkey;Irelande Douze Pointe;22;15;belgrade-2008;participants
+2008;Belgrade;first-semi-final;12;Andorra;Gisela;Casanova;22;16;belgrade-2008;participants
+2008;Belgrade;first-semi-final;13;Bosnia & Herzegovina;Laka;Pokušaj;72;9;belgrade-2008;participants
+2008;Belgrade;first-semi-final;14;Armenia;Sirusho;Qele, Qele;139;2;belgrade-2008;participants
+2008;Belgrade;first-semi-final;15;The Netherlands;Hind;Your Heart Belongs To Me;27;13;belgrade-2008;participants
+2008;Belgrade;first-semi-final;16;Finland;Teräsbetoni;Missä Miehet Ratsastaa;79;8;belgrade-2008;participants
+2008;Belgrade;first-semi-final;17;Romania;Nico & Vlad;Pe-o Margine De Lume;94;7;belgrade-2008;participants
+2008;Belgrade;first-semi-final;18;Russia;Dima Bilan;Believe;135;3;belgrade-2008;participants
+2008;Belgrade;first-semi-final;19;Greece;Kalomira;Secret Combination;156;1;belgrade-2008;participants
+2008;Belgrade;second-semi-final;1;Iceland;Euroband;This Is My Life;68;8;belgrade-2008;participants
+2008;Belgrade;second-semi-final;2;Sweden;Charlotte Perrelli;Hero;54;10;belgrade-2008;participants
+2008;Belgrade;second-semi-final;3;Turkey;Mor ve Ötesi;Deli;85;7;belgrade-2008;participants
+2008;Belgrade;second-semi-final;4;Ukraine;Ani Lorak;Shady Lady;152;1;belgrade-2008;participants
+2008;Belgrade;second-semi-final;5;Lithuania;Jeronimas Milius;Nomads In The Night;30;16;belgrade-2008;participants
+2008;Belgrade;second-semi-final;6;Albania;Olta Boka;Zemrën E Lamë Peng;67;9;belgrade-2008;participants
+2008;Belgrade;second-semi-final;7;Switzerland;Paolo Meneguzzi;Era Stupendo;47;13;belgrade-2008;participants
+2008;Belgrade;second-semi-final;8;Czech Republic;Tereza Kerndlová;Have Some Fun;9;18;belgrade-2008;participants
+2008;Belgrade;second-semi-final;9;Belarus;Ruslan Alehno;Hasta La Vista;27;17;belgrade-2008;participants
+2008;Belgrade;second-semi-final;10;Latvia;Pirates Of The Sea;Wolves Of The Sea;86;6;belgrade-2008;participants
+2008;Belgrade;second-semi-final;11;Croatia;Kraljevi Ulice & 75 Cents;Romanca;112;4;belgrade-2008;participants
+2008;Belgrade;second-semi-final;12;Bulgaria;Deep Zone & Balthazar;DJ, Take Me Away;56;12;belgrade-2008;participants
+2008;Belgrade;second-semi-final;13;Denmark;Simon Mathew;All Night Long;112;3;belgrade-2008;participants
+2008;Belgrade;second-semi-final;14;Georgia;Diana Gurtskaya;Peace Will Come;107;5;belgrade-2008;participants
+2008;Belgrade;second-semi-final;15;Hungary;Csézy;Candlelight;6;19;belgrade-2008;participants
+2008;Belgrade;second-semi-final;16;Malta;Morena;Vodka;38;14;belgrade-2008;participants
+2008;Belgrade;second-semi-final;17;Cyprus;Evdokia Kadi;Femme Fatale;36;15;belgrade-2008;participants
+2008;Belgrade;second-semi-final;18;North Macedonia;Tamara, Vrcak & Adrijan;Let Me Love You;64;11;belgrade-2008;participants
+2008;Belgrade;second-semi-final;19;Portugal;Vânia Fernandes;Senhora Do Mar (Negras Águas);120;2;belgrade-2008;participants
+2008;Belgrade;grand-final;1;Romania;Nico & Vlad;Pe-o Margine De Lume;45;20;belgrade-2008;participants
+2008;Belgrade;grand-final;2;United Kingdom;Andy Abraham;Even If;14;25;belgrade-2008;participants
+2008;Belgrade;grand-final;3;Albania;Olta Boka;Zemrën E Lamë Peng;55;17;belgrade-2008;participants
+2008;Belgrade;grand-final;4;Germany;No Angels;Disappear;14;23;belgrade-2008;participants
+2008;Belgrade;grand-final;5;Armenia;Sirusho;Qele, Qele;199;4;belgrade-2008;participants
+2008;Belgrade;grand-final;6;Bosnia & Herzegovina;Laka;Pokušaj;110;10;belgrade-2008;participants
+2008;Belgrade;grand-final;7;Israel;Boaz;The Fire In Your Eyes;124;9;belgrade-2008;participants
+2008;Belgrade;grand-final;8;Finland;Teräsbetoni;Missä Miehet Ratsastaa;35;22;belgrade-2008;participants
+2008;Belgrade;grand-final;9;Croatia;Kraljevi Ulice & 75 Cents;Romanca;44;21;belgrade-2008;participants
+2008;Belgrade;grand-final;10;Poland;Isis Gee;For Life;14;24;belgrade-2008;participants
+2008;Belgrade;grand-final;11;Iceland;Euroband;This Is My Life;64;14;belgrade-2008;participants
+2008;Belgrade;grand-final;12;Turkey;Mor ve Ötesi;Deli;138;7;belgrade-2008;participants
+2008;Belgrade;grand-final;13;Portugal;Vânia Fernandes;Senhora Do Mar (Negras Águas);69;13;belgrade-2008;participants
+2008;Belgrade;grand-final;14;Latvia;Pirates Of The Sea;Wolves Of The Sea;83;12;belgrade-2008;participants
+2008;Belgrade;grand-final;15;Sweden;Charlotte Perrelli;Hero;47;18;belgrade-2008;participants
+2008;Belgrade;grand-final;16;Denmark;Simon Mathew;All Night Long;60;15;belgrade-2008;participants
+2008;Belgrade;grand-final;17;Georgia;Diana Gurtskaya;Peace Will Come;83;11;belgrade-2008;participants
+2008;Belgrade;grand-final;18;Ukraine;Ani Lorak;Shady Lady;230;2;belgrade-2008;participants
+2008;Belgrade;grand-final;19;France;Sébastien Tellier;Divine;47;19;belgrade-2008;participants
+2008;Belgrade;grand-final;20;Azerbaijan;Elnur & Samir;Day After Day;132;8;belgrade-2008;participants
+2008;Belgrade;grand-final;21;Greece;Kalomira;Secret Combination;218;3;belgrade-2008;participants
+2008;Belgrade;grand-final;22;Spain;Rodolfo Chikilicuatre;Baila El Chiki Chiki;55;16;belgrade-2008;participants
+2008;Belgrade;grand-final;23;Serbia;Jelena Tomaševic feat. Bora Dugic;Oro;160;6;belgrade-2008;participants
+2008;Belgrade;grand-final;24;Russia;Dima Bilan;Believe;272;1;belgrade-2008;participants
+2008;Belgrade;grand-final;25;Norway;Maria;Hold On Be Strong;182;5;belgrade-2008;participants
+2009;Moscow;first-semi-final;1;Montenegro;Andrea Demirovic;Just Get Out of My Life;44;11;moscow-2009;participants
+2009;Moscow;first-semi-final;2;Czech Republic;Gipsy.cz;Aven Romale;NA;18;moscow-2009;participants
+2009;Moscow;first-semi-final;3;Belgium;Copycat;Copycat;1;17;moscow-2009;participants
+2009;Moscow;first-semi-final;4;Belarus;Petr Elfimov;Eyes That Never Lie;25;13;moscow-2009;participants
+2009;Moscow;first-semi-final;5;Sweden;Malena Ernman;La Voix;105;4;moscow-2009;participants
+2009;Moscow;first-semi-final;6;Armenia;Inga & Anush;Jan Jan;99;5;moscow-2009;participants
+2009;Moscow;first-semi-final;7;Andorra;Susanne Georgi;La Teva Decisió (Get A Life);8;15;moscow-2009;participants
+2009;Moscow;first-semi-final;8;Switzerland;Lovebugs;The Highest Heights;15;14;moscow-2009;participants
+2009;Moscow;first-semi-final;9;Turkey;Hadise;Düm Tek Tek;172;2;moscow-2009;participants
+2009;Moscow;first-semi-final;10;Israel;Noa & Mira Awad;There Must Be Another Way;75;7;moscow-2009;participants
+2009;Moscow;first-semi-final;11;Bulgaria;Krassimir Avramov;Illusion;7;16;moscow-2009;participants
+2009;Moscow;first-semi-final;12;Iceland;Yohanna;Is It True?;174;1;moscow-2009;participants
+2009;Moscow;first-semi-final;13;North Macedonia;Next Time;Neshto Shto Ke Ostane;45;10;moscow-2009;participants
+2009;Moscow;first-semi-final;14;Romania;Elena;The Balkan Girls;67;9;moscow-2009;participants
+2009;Moscow;first-semi-final;15;Finland;Waldo's People;Lose Control;42;12;moscow-2009;participants
+2009;Moscow;first-semi-final;16;Portugal;Flor-de-lis;Todas As Ruas Do Amor;70;8;moscow-2009;participants
+2009;Moscow;first-semi-final;17;Malta;Chiara;What If We;86;6;moscow-2009;participants
+2009;Moscow;first-semi-final;18;Bosnia & Herzegovina;Regina;Bistra Voda;125;3;moscow-2009;participants
+2009;Moscow;second-semi-final;1;Croatia;Igor Cukrov feat. Andrea;Lijepa Tena;33;13;moscow-2009;participants
+2009;Moscow;second-semi-final;2;Ireland;Sinéad Mulvey & Black Daisy;Et Cetera;52;11;moscow-2009;participants
+2009;Moscow;second-semi-final;3;Latvia;Intars Busulis;Probka;7;19;moscow-2009;participants
+2009;Moscow;second-semi-final;4;Serbia;Marko Kon & Milaan;Cipela;60;10;moscow-2009;participants
+2009;Moscow;second-semi-final;5;Poland;Lidia Kopania;I Don't Wanna Leave;43;12;moscow-2009;participants
+2009;Moscow;second-semi-final;6;Norway;Alexander Rybak;Fairytale;201;1;moscow-2009;participants
+2009;Moscow;second-semi-final;7;Cyprus;Christina Metaxa;Firefly;32;14;moscow-2009;participants
+2009;Moscow;second-semi-final;8;Slovakia;Kamil Mikulcík & Nela Pocisková;Let Tmou;8;18;moscow-2009;participants
+2009;Moscow;second-semi-final;9;Denmark;Brinck;Believe Again;69;8;moscow-2009;participants
+2009;Moscow;second-semi-final;10;Slovenia;Quartissimo feat. Martina;Love Symphony;14;16;moscow-2009;participants
+2009;Moscow;second-semi-final;11;Hungary;Zoli Ádok;Dance With Me;16;15;moscow-2009;participants
+2009;Moscow;second-semi-final;12;Azerbaijan;AySel & Arash;Always;180;2;moscow-2009;participants
+2009;Moscow;second-semi-final;13;Greece;Sakis Rouvas;This Is Our Night;110;4;moscow-2009;participants
+2009;Moscow;second-semi-final;14;Lithuania;Sasha Son;Love;66;9;moscow-2009;participants
+2009;Moscow;second-semi-final;15;Moldova;Nelly Ciobanu;Hora Din Moldova;106;5;moscow-2009;participants
+2009;Moscow;second-semi-final;16;Albania;Kejsi Tola;Carry Me In Your Dreams;73;7;moscow-2009;participants
+2009;Moscow;second-semi-final;17;Ukraine;Svetlana Loboda;Be my Valentine! (Anti-crisis Girl);80;6;moscow-2009;participants
+2009;Moscow;second-semi-final;18;Estonia;Urban Symphony;Rändajad;115;3;moscow-2009;participants
+2009;Moscow;second-semi-final;19;The Netherlands;The Toppers;Shine;11;17;moscow-2009;participants
+2009;Moscow;grand-final;1;Lithuania;Sasha Son;Love;23;23;moscow-2009;participants
+2009;Moscow;grand-final;2;Israel;Noa & Mira Awad;There Must Be Another Way;53;16;moscow-2009;participants
+2009;Moscow;grand-final;3;France;Patricia Kaas;Et S'il Fallait Le Faire;107;8;moscow-2009;participants
+2009;Moscow;grand-final;4;Sweden;Malena Ernman;La Voix;33;21;moscow-2009;participants
+2009;Moscow;grand-final;5;Croatia;Igor Cukrov feat. Andrea;Lijepa Tena;45;18;moscow-2009;participants
+2009;Moscow;grand-final;6;Portugal;Flor-de-lis;Todas As Ruas Do Amor;57;15;moscow-2009;participants
+2009;Moscow;grand-final;7;Iceland;Yohanna;Is It True?;218;2;moscow-2009;participants
+2009;Moscow;grand-final;8;Greece;Sakis Rouvas;This Is Our Night;120;7;moscow-2009;participants
+2009;Moscow;grand-final;9;Armenia;Inga & Anush;Jan Jan;92;10;moscow-2009;participants
+2009;Moscow;grand-final;10;Russia;Anastasia Prikhodko;Mamo;91;11;moscow-2009;participants
+2009;Moscow;grand-final;11;Azerbaijan;AySel & Arash;Always;207;3;moscow-2009;participants
+2009;Moscow;grand-final;12;Bosnia & Herzegovina;Regina;Bistra Voda;106;9;moscow-2009;participants
+2009;Moscow;grand-final;13;Moldova;Nelly Ciobanu;Hora Din Moldova;69;14;moscow-2009;participants
+2009;Moscow;grand-final;14;Malta;Chiara;What If We;31;22;moscow-2009;participants
+2009;Moscow;grand-final;15;Estonia;Urban Symphony;Rändajad;129;6;moscow-2009;participants
+2009;Moscow;grand-final;16;Denmark;Brinck;Believe Again;74;13;moscow-2009;participants
+2009;Moscow;grand-final;17;Germany;Alex Swings Oscar Sings!;Miss Kiss Kiss Bang;35;20;moscow-2009;participants
+2009;Moscow;grand-final;18;Turkey;Hadise;Düm Tek Tek;177;4;moscow-2009;participants
+2009;Moscow;grand-final;19;Albania;Kejsi Tola;Carry Me In Your Dreams;48;17;moscow-2009;participants
+2009;Moscow;grand-final;20;Norway;Alexander Rybak;Fairytale;387;1;moscow-2009;participants
+2009;Moscow;grand-final;21;Ukraine;Svetlana Loboda;Be my Valentine! (Anti-crisis Girl);76;12;moscow-2009;participants
+2009;Moscow;grand-final;22;Romania;Elena;The Balkan Girls;40;19;moscow-2009;participants
+2009;Moscow;grand-final;23;United Kingdom;Jade Ewen;It's My Time;173;5;moscow-2009;participants
+2009;Moscow;grand-final;24;Finland;Waldo's People;Lose Control;22;25;moscow-2009;participants
+2009;Moscow;grand-final;25;Spain;Soraya;La Noche Es Para Mí (The Night Is For Me);23;24;moscow-2009;participants
+2010;Oslo;first-semi-final;1;Moldova;Sunstroke Project & Olia Tira;Run Away;52;10;oslo-2010;participants
+2010;Oslo;first-semi-final;2;Russia;Peter Nalitch & Friends;Lost And Forgotten;74;7;oslo-2010;participants
+2010;Oslo;first-semi-final;3;Estonia;Malcolm Lincoln;Siren;39;14;oslo-2010;participants
+2010;Oslo;first-semi-final;4;Slovakia;Kristina Pelakova;Horehronie;24;16;oslo-2010;participants
+2010;Oslo;first-semi-final;5;Finland;Kuunkuiskaajat;Työlki Ellää;49;11;oslo-2010;participants
+2010;Oslo;first-semi-final;6;Latvia;Aisha;What For?;11;17;oslo-2010;participants
+2010;Oslo;first-semi-final;7;Serbia;Milan Stankovic;Ovo Je Balkan;79;5;oslo-2010;participants
+2010;Oslo;first-semi-final;8;Bosnia & Herzegovina;Vukašin Brajic;Thunder And Lightning;59;8;oslo-2010;participants
+2010;Oslo;first-semi-final;9;Poland;Marcin Mrozinski;Legenda;44;13;oslo-2010;participants
+2010;Oslo;first-semi-final;10;Belgium;Tom Dice;Me And My Guitar;167;1;oslo-2010;participants
+2010;Oslo;first-semi-final;11;Malta;Thea Garrett;My Dream;45;12;oslo-2010;participants
+2010;Oslo;first-semi-final;12;Albania;Juliana Pasha;It's All About You;76;6;oslo-2010;participants
+2010;Oslo;first-semi-final;13;Greece;Giorgos Alkaios & Friends;OPA;133;2;oslo-2010;participants
+2010;Oslo;first-semi-final;14;Portugal;Filipa Azevedo;Há Dias Assim;89;4;oslo-2010;participants
+2010;Oslo;first-semi-final;15;North Macedonia;Gjoko Taneski;Jas Ja Imam Silata;37;15;oslo-2010;participants
+2010;Oslo;first-semi-final;16;Belarus;3+2;Butterflies;59;9;oslo-2010;participants
+2010;Oslo;first-semi-final;17;Iceland;Hera Björk;Je Ne Sais Quoi;123;3;oslo-2010;participants
+2010;Oslo;second-semi-final;1;Lithuania;InCulto;Eastern European Funk;44;12;oslo-2010;participants
+2010;Oslo;second-semi-final;2;Armenia;Eva Rivas;Apricot Stone;83;6;oslo-2010;participants
+2010;Oslo;second-semi-final;3;Israel;Harel Skaat;Milim;71;8;oslo-2010;participants
+2010;Oslo;second-semi-final;4;Denmark;Chanée & N'evergreen;In A Moment Like This;101;5;oslo-2010;participants
+2010;Oslo;second-semi-final;5;Switzerland;Michael von der Heide;Il Pleut de L'Or;2;17;oslo-2010;participants
+2010;Oslo;second-semi-final;6;Sweden;Anna Bergendahl;This Is My Life;62;11;oslo-2010;participants
+2010;Oslo;second-semi-final;7;Azerbaijan;Safura;Drip Drop;113;2;oslo-2010;participants
+2010;Oslo;second-semi-final;8;Ukraine;Alyosha;Sweet People;77;7;oslo-2010;participants
+2010;Oslo;second-semi-final;9;The Netherlands;Sieneke;Ik Ben Verliefd (Sha-la-lie);29;14;oslo-2010;participants
+2010;Oslo;second-semi-final;10;Romania;Paula Seling & Ovi;Playing With Fire;104;4;oslo-2010;participants
+2010;Oslo;second-semi-final;11;Slovenia;Ansambel Žlindra & Kalamari;Narodnozabavni Rock;6;16;oslo-2010;participants
+2010;Oslo;second-semi-final;12;Ireland;Niamh Kavanagh;It's For You;67;9;oslo-2010;participants
+2010;Oslo;second-semi-final;13;Bulgaria;Miro;Angel Si Ti;19;15;oslo-2010;participants
+2010;Oslo;second-semi-final;14;Cyprus;Jon Lilygreen & The Islanders;Life Looks Better In Spring;67;10;oslo-2010;participants
+2010;Oslo;second-semi-final;15;Croatia;Feminnem;Lako Je Sve;33;13;oslo-2010;participants
+2010;Oslo;second-semi-final;16;Georgia;Sofia Nizharadze ;Shine;106;3;oslo-2010;participants
+2010;Oslo;second-semi-final;17;Turkey;maNga;We Could Be The Same;118;1;oslo-2010;participants
+2010;Oslo;grand-final;1;Azerbaijan;Safura;Drip Drop;145;5;oslo-2010;participants
+2010;Oslo;grand-final;2;Spain;Daniel Diges;Algo Pequeñito (Something Tiny);68;15;oslo-2010;participants
+2010;Oslo;grand-final;3;Norway;Didrik Solli-Tangen;My Heart Is Yours;35;20;oslo-2010;participants
+2010;Oslo;grand-final;4;Moldova;Sunstroke Project & Olia Tira;Run Away;27;22;oslo-2010;participants
+2010;Oslo;grand-final;5;Cyprus;Jon Lilygreen & The Islanders;Life Looks Better In Spring;27;21;oslo-2010;participants
+2010;Oslo;grand-final;6;Bosnia & Herzegovina;Vukašin Brajic;Thunder And Lightning;51;17;oslo-2010;participants
+2010;Oslo;grand-final;7;Belgium;Tom Dice;Me And My Guitar;143;6;oslo-2010;participants
+2010;Oslo;grand-final;8;Serbia;Milan Stankovic;Ovo Je Balkan;72;13;oslo-2010;participants
+2010;Oslo;grand-final;9;Belarus;3+2;Butterflies;18;24;oslo-2010;participants
+2010;Oslo;grand-final;10;Ireland;Niamh Kavanagh;It's For You;25;23;oslo-2010;participants
+2010;Oslo;grand-final;11;Greece;Giorgos Alkaios & Friends;OPA;140;8;oslo-2010;participants
+2010;Oslo;grand-final;12;United Kingdom;Josh;That Sounds Good To Me;10;25;oslo-2010;participants
+2010;Oslo;grand-final;13;Georgia;Sofia Nizharadze;Shine;136;9;oslo-2010;participants
+2010;Oslo;grand-final;14;Turkey;maNga;We Could Be The Same;170;2;oslo-2010;participants
+2010;Oslo;grand-final;15;Albania;Juliana Pasha;It's All About You;62;16;oslo-2010;participants
+2010;Oslo;grand-final;16;Iceland;Hera Björk;Je Ne Sais Quoi;41;19;oslo-2010;participants
+2010;Oslo;grand-final;17;Ukraine;Alyosha;Sweet People;108;10;oslo-2010;participants
+2010;Oslo;grand-final;18;France;Jessy Matador;Allez Olla Olé;82;12;oslo-2010;participants
+2010;Oslo;grand-final;19;Romania;Paula Seling & Ovi;Playing With Fire;162;3;oslo-2010;participants
+2010;Oslo;grand-final;20;Russia;Peter Nalitch & Friends;Lost And Forgotten;90;11;oslo-2010;participants
+2010;Oslo;grand-final;21;Armenia;Eva Rivas;Apricot Stone;141;7;oslo-2010;participants
+2010;Oslo;grand-final;22;Germany;Lena;Satellite;246;1;oslo-2010;participants
+2010;Oslo;grand-final;23;Portugal;Filipa Azevedo;Há Dias Assim;43;18;oslo-2010;participants
+2010;Oslo;grand-final;24;Israel;Harel Skaat;Milim;71;14;oslo-2010;participants
+2010;Oslo;grand-final;25;Denmark;Chanée & N'evergreen;In A Moment Like This;149;4;oslo-2010;participants
+2011;Dusseldorf;first-semi-final;1;Poland;Magdalena Tul;Jestem;18;19;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;2;Norway;Stella Mwangi;Haba Haba;30;17;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;3;Albania;Aurela Gaçe;Feel The Passion;47;14;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;4;Armenia;Emmy;Boom Boom;54;12;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;5;Turkey;Yüksek Sadakat;Live It Up;47;13;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;6;Serbia;Nina;Caroban;67;8;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;7;Russia;Alexej Vorobjov;Get You;64;9;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;8;Switzerland;Anna Rossinelli;In Love For A While;55;10;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;9;Georgia;Eldrine;One More Day;74;6;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;10;Finland;Paradise Oskar;Da Da Dam;103;3;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;11;Malta;Glen Vella;One Life;54;11;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;12;San Marino;Senit;Stand By;34;16;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;13;Croatia;Daria;Celebrate;41;15;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;14;Iceland;Sjonni's Friends;Coming Home;100;4;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;15;Hungary;Kati Wolf;What About My Dreams?;72;7;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;16;Portugal;Homens Da Luta;Luta É Alegria;22;18;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;17;Lithuania;Evelina Sašenko;C'est Ma Vie;81;5;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;18;Azerbaijan;Ell/Nikki;Running Scared;122;2;dusseldorf-2011;participants
+2011;Dusseldorf;first-semi-final;19;Greece;Loucas Yiorkas feat. Stereo Mike;Watch My Dance;133;1;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;1;Bosnia & Herzegovina;Dino Merlin;Love In Rewind;109;5;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;2;Austria;Nadine Beiler;The Secret Is Love;69;7;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;3;The Netherlands;3JS;Never Alone;13;19;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;4;Belgium;Witloof Bay;With Love Baby;53;11;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;5;Slovakia;TWiiNS;I'm Still Alive;48;13;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;6;Ukraine;Mika Newton;Angel;81;6;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;7;Moldova;Zdob <U+0219>i Zdub;So Lucky;54;10;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;8;Sweden;Eric Saade;Popular;155;1;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;9;Cyprus;Christos Mylordos;San Aggelos S’Agapisa;16;18;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;10;Bulgaria;Poli Genova;Na Inat;48;12;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;11;North Macedonia;Vlatko Ilievski;Rusinka;36;16;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;12;Israel;Dana International;Ding Dong;38;15;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;13;Slovenia;Maja Keuc;No One;112;3;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;14;Romania;Hotel FM;Change;111;4;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;15;Estonia;Getter Jaani;Rockefeller Street;60;9;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;16;Belarus;Anastasiya Vinnikova;I Love Belarus;45;14;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;17;Latvia;Musiqq;Angel In Disguise;25;17;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;18;Denmark;A Friend In London;New Tomorrow;135;2;dusseldorf-2011;participants
+2011;Dusseldorf;second-semi-final;19;Ireland;Jedward;Lipstick;68;8;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;1;Finland;Paradise Oskar;Da Da Dam;57;21;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;2;Bosnia & Herzegovina;Dino Merlin;Love In Rewind;125;6;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;3;Denmark;A Friend In London;New Tomorrow;134;5;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;4;Lithuania;Evelina Sašenko;C'est Ma Vie;63;19;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;5;Hungary;Kati Wolf;What About My Dreams?;53;22;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;6;Ireland;Jedward;Lipstick;119;8;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;7;Sweden;Eric Saade;Popular;185;3;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;8;Estonia;Getter Jaani;Rockefeller Street;44;24;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;9;Greece;Loucas Yiorkas feat. Stereo Mike;Watch My Dance;120;7;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;10;Russia;Alexej Vorobjov;Get You;77;16;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;11;France;Amaury Vassili;Sognu;82;15;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;12;Italy;Raphael Gualazzi;Madness Of Love;189;2;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;13;Switzerland;Anna Rossinelli;In Love For A While;19;25;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;14;United Kingdom;Blue;I Can;100;11;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;15;Moldova;Zdob <U+0219>i Zdub;So Lucky;97;12;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;16;Germany;Lena;Taken By A Stranger;107;10;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;17;Romania;Hotel FM;Change;77;17;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;18;Austria;Nadine Beiler;The Secret Is Love;64;18;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;19;Azerbaijan;Ell/Nikki;Running Scared;221;1;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;20;Slovenia;Maja Keuc;No One;96;13;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;21;Iceland;Sjonni's Friends;Coming Home;61;20;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;22;Spain;Lucía Pérez;Que Me Quiten Lo Bailao  -  They Can't Take The Fun Away From Me;50;23;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;23;Ukraine;Mika Newton;Angel;159;4;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;24;Serbia;Nina;Caroban;85;14;dusseldorf-2011;participants
+2011;Dusseldorf;grand-final;25;Georgia;Eldrine;One More Day;110;9;dusseldorf-2011;participants
+2012;Baku;first-semi-final;1;Montenegro;Rambo Amadeus;Euro Neuro;20;15;baku-2012;participants
+2012;Baku;first-semi-final;2;Iceland;Greta Salóme & Jónsi;Never Forget;75;8;baku-2012;participants
+2012;Baku;first-semi-final;3;Greece;Eleftheria Eleftheriou;Aphrodisiac;116;4;baku-2012;participants
+2012;Baku;first-semi-final;4;Latvia;Anmary;Beautiful Song;17;16;baku-2012;participants
+2012;Baku;first-semi-final;5;Albania;Rona Nishliu;Suus;146;2;baku-2012;participants
+2012;Baku;first-semi-final;6;Romania;Mandinga;Zaleilah;120;3;baku-2012;participants
+2012;Baku;first-semi-final;7;Switzerland;Sinplus;Unbreakable;45;11;baku-2012;participants
+2012;Baku;first-semi-final;8;Belgium;Iris;Would You?;16;17;baku-2012;participants
+2012;Baku;first-semi-final;9;Finland;Pernilla;När Jag Blundar;41;12;baku-2012;participants
+2012;Baku;first-semi-final;10;Israel;Izabo;Time;33;13;baku-2012;participants
+2012;Baku;first-semi-final;11;San Marino;Valentina Monetta;The Social Network Song (Oh Oh – Uh - Oh Oh);31;14;baku-2012;participants
+2012;Baku;first-semi-final;12;Cyprus;Ivi Adamou;La La Love;91;7;baku-2012;participants
+2012;Baku;first-semi-final;13;Denmark;Soluna Samay;Should've Known Better;63;9;baku-2012;participants
+2012;Baku;first-semi-final;14;Russia;Buranovskiye Babushki;Party For Everybody;152;1;baku-2012;participants
+2012;Baku;first-semi-final;15;Hungary;Compact Disco;Sound Of Our Hearts;52;10;baku-2012;participants
+2012;Baku;first-semi-final;16;Austria;Trackshittaz;Woki Mit Deim Popo;8;18;baku-2012;participants
+2012;Baku;first-semi-final;17;Moldova;Pasha Parfeny;Lautar;100;5;baku-2012;participants
+2012;Baku;first-semi-final;18;Ireland;Jedward;Waterline;92;6;baku-2012;participants
+2012;Baku;second-semi-final;1;Serbia;Željko Joksimovic;Nije Ljubav Stvar;159;2;baku-2012;participants
+2012;Baku;second-semi-final;2;North Macedonia;Kaliopi;Crno I Belo;53;9;baku-2012;participants
+2012;Baku;second-semi-final;3;The Netherlands;Joan Franka;You And Me;35;15;baku-2012;participants
+2012;Baku;second-semi-final;4;Malta;Kurt Calleja;This Is The Night;70;7;baku-2012;participants
+2012;Baku;second-semi-final;5;Belarus;Litesound;We Are The Heroes;35;16;baku-2012;participants
+2012;Baku;second-semi-final;6;Portugal;Filipa Sousa;Vida Minha;39;13;baku-2012;participants
+2012;Baku;second-semi-final;7;Ukraine;Gaitana;Be My Guest;64;8;baku-2012;participants
+2012;Baku;second-semi-final;8;Bulgaria;Sofi Marinova;Love Unlimited;45;11;baku-2012;participants
+2012;Baku;second-semi-final;9;Slovenia;Eva Boto;Verjamem;31;17;baku-2012;participants
+2012;Baku;second-semi-final;10;Croatia;Nina Badric;Nebo;42;12;baku-2012;participants
+2012;Baku;second-semi-final;11;Sweden;Loreen;Euphoria;181;1;baku-2012;participants
+2012;Baku;second-semi-final;12;Georgia;Anri Jokhadze;I'm A Joker;36;14;baku-2012;participants
+2012;Baku;second-semi-final;13;Turkey;Can Bonomo;Love Me Back;80;5;baku-2012;participants
+2012;Baku;second-semi-final;14;Estonia;Ott Lepland;Kuula;100;4;baku-2012;participants
+2012;Baku;second-semi-final;15;Slovakia;Max Jason Mai;Don't Close Your Eyes;22;18;baku-2012;participants
+2012;Baku;second-semi-final;16;Norway;Tooji;Stay;45;10;baku-2012;participants
+2012;Baku;second-semi-final;17;Bosnia & Herzegovina;Maya Sar;Korake Ti Znam;77;6;baku-2012;participants
+2012;Baku;second-semi-final;18;Lithuania;Donny Montell;Love Is Blind;104;3;baku-2012;participants
+2012;Baku;grand-final;1;United Kingdom;Engelbert Humperdinck;Love Will Set You Free;12;25;baku-2012;participants
+2012;Baku;grand-final;2;Hungary;Compact Disco;Sound Of Our Hearts;19;24;baku-2012;participants
+2012;Baku;grand-final;3;Albania;Rona Nishliu;Suus;146;5;baku-2012;participants
+2012;Baku;grand-final;4;Lithuania;Donny Montell;Love Is Blind;70;14;baku-2012;participants
+2012;Baku;grand-final;5;Bosnia & Herzegovina;Maya Sar;Korake Ti Znam;55;18;baku-2012;participants
+2012;Baku;grand-final;6;Russia;Buranovskiye Babushki;Party For Everybody;259;2;baku-2012;participants
+2012;Baku;grand-final;7;Iceland;Greta Salóme & Jónsi;Never Forget;46;20;baku-2012;participants
+2012;Baku;grand-final;8;Cyprus;Ivi Adamou;La La Love;65;16;baku-2012;participants
+2012;Baku;grand-final;9;France;Anggun;Echo (You And I);21;22;baku-2012;participants
+2012;Baku;grand-final;10;Italy;Nina Zilli;L'Amore È Femmina  (Out Of Love);101;9;baku-2012;participants
+2012;Baku;grand-final;11;Estonia;Ott Lepland;Kuula;120;6;baku-2012;participants
+2012;Baku;grand-final;12;Norway;Tooji;Stay;7;26;baku-2012;participants
+2012;Baku;grand-final;13;Azerbaijan;Sabina Babayeva;When The Music Dies;150;4;baku-2012;participants
+2012;Baku;grand-final;14;Romania;Mandinga;Zaleilah;71;12;baku-2012;participants
+2012;Baku;grand-final;15;Denmark;Soluna Samay;Should've Known Better;21;23;baku-2012;participants
+2012;Baku;grand-final;16;Greece;Eleftheria Eleftheriou;Aphrodisiac;64;17;baku-2012;participants
+2012;Baku;grand-final;17;Sweden;Loreen;Euphoria;372;1;baku-2012;participants
+2012;Baku;grand-final;18;Turkey;Can Bonomo;Love Me Back;112;7;baku-2012;participants
+2012;Baku;grand-final;19;Spain;Pastora Soler;Quédate Conmigo (Stay With Me);97;10;baku-2012;participants
+2012;Baku;grand-final;20;Germany;Roman Lob;Standing Still;110;8;baku-2012;participants
+2012;Baku;grand-final;21;Malta;Kurt Calleja;This Is The Night;41;21;baku-2012;participants
+2012;Baku;grand-final;22;North Macedonia;Kaliopi;Crno I Belo;71;13;baku-2012;participants
+2012;Baku;grand-final;23;Ireland;Jedward;Waterline;46;19;baku-2012;participants
+2012;Baku;grand-final;24;Serbia;Željko Joksimovic;Nije Ljubav Stvar;214;3;baku-2012;participants
+2012;Baku;grand-final;25;Ukraine;Gaitana;Be My Guest;65;15;baku-2012;participants
+2012;Baku;grand-final;26;Moldova;Pasha Parfeny;Lautar;81;11;baku-2012;participants
+2013;Malmo;first-semi-final;1;Austria;Natália Kelly;Shine;27;14;malmo-2013;participants
+2013;Malmo;first-semi-final;2;Estonia;Birgit;Et Uus Saaks Alguse;52;10;malmo-2013;participants
+2013;Malmo;first-semi-final;3;Slovenia;Hannah;Straight Into Love;8;16;malmo-2013;participants
+2013;Malmo;first-semi-final;4;Croatia;Klapa s mora;Mižerja;38;13;malmo-2013;participants
+2013;Malmo;first-semi-final;5;Denmark;Emmelie de Forest;Only Teardrops;167;1;malmo-2013;participants
+2013;Malmo;first-semi-final;6;Russia;Dina Garipova;What If;156;2;malmo-2013;participants
+2013;Malmo;first-semi-final;7;Ukraine;Zlata Ognevich;Gravity;140;3;malmo-2013;participants
+2013;Malmo;first-semi-final;8;The Netherlands;Anouk;Birds;75;6;malmo-2013;participants
+2013;Malmo;first-semi-final;9;Montenegro;Who See;Igranka;41;12;malmo-2013;participants
+2013;Malmo;first-semi-final;10;Lithuania;Andrius Pojavis;Something;53;9;malmo-2013;participants
+2013;Malmo;first-semi-final;11;Belarus;Alyona Lanskaya;Solayoh;64;7;malmo-2013;participants
+2013;Malmo;first-semi-final;12;Moldova;Aliona Moon;O Mie;95;4;malmo-2013;participants
+2013;Malmo;first-semi-final;13;Ireland;Ryan Dolan;Only Love Survives;54;8;malmo-2013;participants
+2013;Malmo;first-semi-final;14;Cyprus;Despina Olympiou;An Me Thimasai;11;15;malmo-2013;participants
+2013;Malmo;first-semi-final;15;Belgium;Roberto Bellarosa;Love Kills;75;5;malmo-2013;participants
+2013;Malmo;first-semi-final;16;Serbia;Moje 3;Ljubav Je Svuda;46;11;malmo-2013;participants
+2013;Malmo;second-semi-final;1;Latvia;PeR;Here We Go;13;17;malmo-2013;participants
+2013;Malmo;second-semi-final;2;San Marino;Valentina Monetta;Crisalide (Vola);47;11;malmo-2013;participants
+2013;Malmo;second-semi-final;3;North Macedonia;Esma & Lozano;Pred Da Se Razdeni;28;16;malmo-2013;participants
+2013;Malmo;second-semi-final;4;Azerbaijan;Farid Mammadov;Hold Me;139;1;malmo-2013;participants
+2013;Malmo;second-semi-final;5;Finland;Krista Siegfrids;Marry Me;64;9;malmo-2013;participants
+2013;Malmo;second-semi-final;6;Malta;Gianluca;Tomorrow;118;4;malmo-2013;participants
+2013;Malmo;second-semi-final;7;Bulgaria;Elitsa Todorova, Stoyan Yankulov;Samo Shampioni (Only Champions);45;12;malmo-2013;participants
+2013;Malmo;second-semi-final;8;Iceland;Eythor Ingi;Ég Á Líf;72;6;malmo-2013;participants
+2013;Malmo;second-semi-final;9;Greece;Koza Mostra feat. Agathon Iakovidis;Alcohol Is Free;121;2;malmo-2013;participants
+2013;Malmo;second-semi-final;10;Israel;Moran Mazor;Rak Bishvilo;40;14;malmo-2013;participants
+2013;Malmo;second-semi-final;11;Armenia;Dorians;Lonely Planet;69;7;malmo-2013;participants
+2013;Malmo;second-semi-final;12;Hungary;ByeAlex;Kedvesem (Zoohacker Remix);66;8;malmo-2013;participants
+2013;Malmo;second-semi-final;13;Norway;Margaret Berger;I Feed You My Love;120;3;malmo-2013;participants
+2013;Malmo;second-semi-final;14;Albania;Adrian Lulgjuraj & Bledar Sejko;Identitet;31;15;malmo-2013;participants
+2013;Malmo;second-semi-final;15;Georgia;Nodi Tatishvili & Sophie Gelovani;Waterfall;63;10;malmo-2013;participants
+2013;Malmo;second-semi-final;16;Switzerland;Takasa;You And Me;41;13;malmo-2013;participants
+2013;Malmo;second-semi-final;17;Romania;Cezar;It's My Life;83;5;malmo-2013;participants
+2013;Malmo;grand-final;1;France;Amandine Bourgeois;L'enfer Et Moi;14;23;malmo-2013;participants
+2013;Malmo;grand-final;2;Lithuania;Andrius Pojavis;Something;17;22;malmo-2013;participants
+2013;Malmo;grand-final;3;Moldova;Aliona Moon;O Mie;71;11;malmo-2013;participants
+2013;Malmo;grand-final;4;Finland;Krista Siegfrids;Marry Me;13;24;malmo-2013;participants
+2013;Malmo;grand-final;5;Spain;ESDM;Contigo Hasta El Final (With You Until The End);8;25;malmo-2013;participants
+2013;Malmo;grand-final;6;Belgium;Roberto Bellarosa;Love Kills;71;12;malmo-2013;participants
+2013;Malmo;grand-final;7;Estonia;Birgit;Et Uus Saaks Alguse;19;20;malmo-2013;participants
+2013;Malmo;grand-final;8;Belarus;Alyona Lanskaya;Solayoh;48;16;malmo-2013;participants
+2013;Malmo;grand-final;9;Malta;Gianluca;Tomorrow;120;8;malmo-2013;participants
+2013;Malmo;grand-final;10;Russia;Dina Garipova;What If;174;5;malmo-2013;participants
+2013;Malmo;grand-final;11;Germany;Cascada;Glorious;18;21;malmo-2013;participants
+2013;Malmo;grand-final;12;Armenia;Dorians;Lonely Planet;41;18;malmo-2013;participants
+2013;Malmo;grand-final;13;The Netherlands;Anouk;Birds;114;9;malmo-2013;participants
+2013;Malmo;grand-final;14;Romania;Cezar;It's My Life;65;13;malmo-2013;participants
+2013;Malmo;grand-final;15;United Kingdom;Bonnie Tyler;Believe In Me;23;19;malmo-2013;participants
+2013;Malmo;grand-final;16;Sweden;Robin Stjernberg;You;62;14;malmo-2013;participants
+2013;Malmo;grand-final;17;Hungary;ByeAlex;Kedvesem (Zoohacker Remix);84;10;malmo-2013;participants
+2013;Malmo;grand-final;18;Denmark;Emmelie de Forest;Only Teardrops;281;1;malmo-2013;participants
+2013;Malmo;grand-final;19;Iceland;Eythor Ingi;Ég Á Líf;47;17;malmo-2013;participants
+2013;Malmo;grand-final;20;Azerbaijan;Farid Mammadov;Hold Me;234;2;malmo-2013;participants
+2013;Malmo;grand-final;21;Greece;Koza Mostra feat. Agathon Iakovidis;Alcohol Is Free;152;6;malmo-2013;participants
+2013;Malmo;grand-final;22;Ukraine;Zlata Ognevich;Gravity;214;3;malmo-2013;participants
+2013;Malmo;grand-final;23;Italy;Marco Mengoni;L'Essenziale;126;7;malmo-2013;participants
+2013;Malmo;grand-final;24;Norway;Margaret Berger;I Feed You My Love;191;4;malmo-2013;participants
+2013;Malmo;grand-final;25;Georgia;Nodi Tatishvili & Sophie Gelovani;Waterfall;50;15;malmo-2013;participants
+2013;Malmo;grand-final;26;Ireland;Ryan Dolan;Only Love Survives;5;26;malmo-2013;participants
+2014;Copenhagen;first-semi-final;1;Armenia;Aram MP3;Not Alone;121;4;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;2;Latvia;Aarzemnieki;Cake To Bake;33;13;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;3;Estonia;Tanja;Amazing;36;12;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;4;Sweden;Sanna Nielsen;Undo;131;2;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;5;Iceland;Pollapönk;No Prejudice;61;8;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;6;Albania;Hersi;One Night's Anger;22;15;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;7;Russia;Tolmachevy Sisters;Shine;63;6;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;8;Azerbaijan;Dilara Kazimova;Start A Fire;57;9;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;9;Ukraine;Mariya Yaremchuk;Tick - Tock;118;5;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;10;Belgium;Axel Hirsoux;Mother;28;14;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;11;Moldova;Cristina Scarlat;Wild Soul;13;16;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;12;San Marino;Valentina Monetta;Maybe (Forse);40;10;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;13;Portugal;Suzy;Quero Ser Tua;39;11;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;14;The Netherlands;The Common Linnets;Calm After The Storm;150;1;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;15;Montenegro;Sergej Cetkovic;Moj Svijet;63;7;copenhagen-2014;participants
+2014;Copenhagen;first-semi-final;16;Hungary;András Kállay-Saunders;Running;127;3;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;1;Malta;Firelight;Coming Home;63;9;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;2;Israel;Mei Finegold;Same Heart;19;14;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;3;Norway;Carl Espen;Silent Storm;77;6;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;4;Georgia;The Shin and Mariko;Three Minutes to Earth;15;15;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;5;Poland;Donatan & Cleo;My Slowianie - We Are Slavic;70;8;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;6;Austria;Conchita Wurst;Rise Like a Phoenix;169;1;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;7;Lithuania;Vilija Mataciunaite;Attention;36;11;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;8;Finland;Softengine;Something Better;97;3;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;9;Ireland;Can-Linn (featuring Kasey Smith);Heartbeat;35;12;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;10;Belarus;Teo;Cheesecake;87;5;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;11;North Macedonia;Tijana;To the Sky;33;13;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;12;Switzerland;Sebalter;Hunter Of Stars;92;4;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;13;Greece;Freaky Fortune feat. RiskyKidd;Rise Up;74;7;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;14;Slovenia;Tinkara Kovac;Round and round;52;10;copenhagen-2014;participants
+2014;Copenhagen;second-semi-final;15;Romania;Paula Seling & OVI;Miracle;125;2;copenhagen-2014;participants
+2014;Copenhagen;grand-final;1;Ukraine;Mariya Yaremchuk;Tick - Tock;113;6;copenhagen-2014;participants
+2014;Copenhagen;grand-final;2;Belarus;Teo;Cheesecake;43;16;copenhagen-2014;participants
+2014;Copenhagen;grand-final;3;Azerbaijan;Dilara Kazimova;Start A Fire;33;22;copenhagen-2014;participants
+2014;Copenhagen;grand-final;4;Iceland;Pollapönk;No Prejudice;58;15;copenhagen-2014;participants
+2014;Copenhagen;grand-final;5;Norway;Carl Espen;Silent Storm;88;8;copenhagen-2014;participants
+2014;Copenhagen;grand-final;6;Romania;Paula Seling & OVI;Miracle;72;12;copenhagen-2014;participants
+2014;Copenhagen;grand-final;7;Armenia;Aram MP3;Not Alone;174;4;copenhagen-2014;participants
+2014;Copenhagen;grand-final;8;Montenegro;Sergej Cetkovic;Moj Svijet;37;19;copenhagen-2014;participants
+2014;Copenhagen;grand-final;9;Poland;Donatan & Cleo;My Slowianie - We Are Slavic;62;14;copenhagen-2014;participants
+2014;Copenhagen;grand-final;10;Greece;Freaky Fortune feat. RiskyKidd;Rise Up;35;20;copenhagen-2014;participants
+2014;Copenhagen;grand-final;11;Austria;Conchita Wurst;Rise Like a Phoenix;290;1;copenhagen-2014;participants
+2014;Copenhagen;grand-final;12;Germany;Elaiza;Is it right;39;18;copenhagen-2014;participants
+2014;Copenhagen;grand-final;13;Sweden;Sanna Nielsen;Undo;218;3;copenhagen-2014;participants
+2014;Copenhagen;grand-final;14;France;TWIN TWIN;Moustache;2;26;copenhagen-2014;participants
+2014;Copenhagen;grand-final;15;Russia;Tolmachevy Sisters;Shine;89;7;copenhagen-2014;participants
+2014;Copenhagen;grand-final;16;Italy;Emma;La Mia Città;33;21;copenhagen-2014;participants
+2014;Copenhagen;grand-final;17;Slovenia;Tinkara Kovac;Round and round;9;25;copenhagen-2014;participants
+2014;Copenhagen;grand-final;18;Finland;Softengine;Something Better;72;11;copenhagen-2014;participants
+2014;Copenhagen;grand-final;19;Spain;Ruth Lorenzo;Dancing in the rain;74;10;copenhagen-2014;participants
+2014;Copenhagen;grand-final;20;Switzerland;Sebalter;Hunter Of Stars;64;13;copenhagen-2014;participants
+2014;Copenhagen;grand-final;21;Hungary;András Kállay-Saunders;Running;143;5;copenhagen-2014;participants
+2014;Copenhagen;grand-final;22;Malta;Firelight;Coming Home;32;23;copenhagen-2014;participants
+2014;Copenhagen;grand-final;23;Denmark;Basim;Cliche Love Song;74;9;copenhagen-2014;participants
+2014;Copenhagen;grand-final;24;The Netherlands;The Common Linnets;Calm After The Storm;238;2;copenhagen-2014;participants
+2014;Copenhagen;grand-final;25;San Marino;Valentina Monetta;Maybe (Forse);14;24;copenhagen-2014;participants
+2014;Copenhagen;grand-final;26;United Kingdom;Molly;Children of the Universe;40;17;copenhagen-2014;participants
+2015;Vienna;first-semi-final;1;Moldova;Eduard Romanyuta;I Want Your Love;41;11;vienna-2015;participants
+2015;Vienna;first-semi-final;2;Armenia;Genealogy;Face The Shadow;77;7;vienna-2015;participants
+2015;Vienna;first-semi-final;3;Belgium;Loïc Nottet;Rhythm Inside;149;2;vienna-2015;participants
+2015;Vienna;first-semi-final;4;The Netherlands;Trijntje Oosterhuis;Walk Along;33;14;vienna-2015;participants
+2015;Vienna;first-semi-final;5;Finland;Pertti Kurikan Nimipäivät;Aina Mun Pitää;13;16;vienna-2015;participants
+2015;Vienna;first-semi-final;6;Greece;Maria Elena Kyriakou;One Last Breath;81;6;vienna-2015;participants
+2015;Vienna;first-semi-final;7;Estonia;Elina Born & Stig Rästa;Goodbye To Yesterday;105;3;vienna-2015;participants
+2015;Vienna;first-semi-final;8;North Macedonia;Daniel Kajmakoski;Autumn Leaves;28;15;vienna-2015;participants
+2015;Vienna;first-semi-final;9;Serbia;Bojana Stamenov;Beauty Never Lies;63;9;vienna-2015;participants
+2015;Vienna;first-semi-final;10;Hungary;Boggie;Wars For Nothing;67;8;vienna-2015;participants
+2015;Vienna;first-semi-final;11;Belarus;Uzari&Maimuna;Time;39;12;vienna-2015;participants
+2015;Vienna;first-semi-final;12;Russia;Polina Gagarina;A Million Voices;182;1;vienna-2015;participants
+2015;Vienna;first-semi-final;13;Denmark;Anti Social Media;The Way You Are;33;13;vienna-2015;participants
+2015;Vienna;first-semi-final;14;Albania;Elhaida Dani;I'm Alive;62;10;vienna-2015;participants
+2015;Vienna;first-semi-final;15;Romania;Voltaj;De La Capat/ All Over Again;89;5;vienna-2015;participants
+2015;Vienna;first-semi-final;16;Georgia;Nina Sublatti;Warrior;98;4;vienna-2015;participants
+2015;Vienna;second-semi-final;1;Lithuania;Monika Linkyte and Vaidas Baumila;This Time;67;7;vienna-2015;participants
+2015;Vienna;second-semi-final;2;Ireland;Molly Sterling;Playing With Numbers;35;12;vienna-2015;participants
+2015;Vienna;second-semi-final;3;San Marino;Anita Simoncini & Michele Perniola;Chain of Lights;11;16;vienna-2015;participants
+2015;Vienna;second-semi-final;4;Montenegro;Knez;Adio;57;9;vienna-2015;participants
+2015;Vienna;second-semi-final;5;Malta;Amber;Warrior;43;11;vienna-2015;participants
+2015;Vienna;second-semi-final;6;Norway;Mørland & Debrah Scarlett;A Monster Like Me;123;4;vienna-2015;participants
+2015;Vienna;second-semi-final;7;Portugal;Leonor Andrade;Há Um Mar Que Nos Separa;19;14;vienna-2015;participants
+2015;Vienna;second-semi-final;8;Czech Republic;Marta Jandová and Václav Noid Bárta;Hope Never Dies;33;13;vienna-2015;participants
+2015;Vienna;second-semi-final;9;Israel;Nadav Guedj;Golden Boy;151;3;vienna-2015;participants
+2015;Vienna;second-semi-final;10;Latvia;Aminata;Love Injected;155;2;vienna-2015;participants
+2015;Vienna;second-semi-final;11;Azerbaijan;Elnur Huseynov;Hour Of The Wolf;53;10;vienna-2015;participants
+2015;Vienna;second-semi-final;12;Iceland;Maria Olafs;Unbroken;14;15;vienna-2015;participants
+2015;Vienna;second-semi-final;13;Sweden;Måns Zelmerlöw;Heroes;217;1;vienna-2015;participants
+2015;Vienna;second-semi-final;14;Switzerland;Mélanie René;Time To Shine;4;17;vienna-2015;participants
+2015;Vienna;second-semi-final;15;Cyprus;John Karayiannis;One Thing I Should Have Done;87;6;vienna-2015;participants
+2015;Vienna;second-semi-final;16;Slovenia;Maraaya;Here For You;92;5;vienna-2015;participants
+2015;Vienna;second-semi-final;17;Poland;Monika Kuszynska;In The Name Of Love;57;8;vienna-2015;participants
+2015;Vienna;grand-final;1;Slovenia;Maraaya;Here For You;39;14;vienna-2015;participants
+2015;Vienna;grand-final;2;France;Lisa Angell;N'oubliez Pas;4;25;vienna-2015;participants
+2015;Vienna;grand-final;3;Israel;Nadav Guedj;Golden Boy;97;9;vienna-2015;participants
+2015;Vienna;grand-final;4;Estonia;Elina Born & Stig Rästa;Goodbye To Yesterday;106;7;vienna-2015;participants
+2015;Vienna;grand-final;5;United Kingdom;Electro Velvet;Still In Love With You;5;24;vienna-2015;participants
+2015;Vienna;grand-final;6;Armenia;Genealogy;Face The Shadow;34;16;vienna-2015;participants
+2015;Vienna;grand-final;7;Lithuania;Monika Linkyte and Vaidas Baumila;This Time;30;18;vienna-2015;participants
+2015;Vienna;grand-final;8;Serbia;Bojana Stamenov;Beauty Never Lies;53;10;vienna-2015;participants
+2015;Vienna;grand-final;9;Norway;Mørland & Debrah Scarlett;A Monster Like Me;102;8;vienna-2015;participants
+2015;Vienna;grand-final;10;Sweden;Måns Zelmerlöw;Heroes;365;1;vienna-2015;participants
+2015;Vienna;grand-final;11;Cyprus;John Karayiannis;One Thing I Should Have Done;11;22;vienna-2015;participants
+2015;Vienna;grand-final;12;Australia;Guy Sebastian;Tonight Again;196;5;vienna-2015;participants
+2015;Vienna;grand-final;13;Belgium;Loïc Nottet;Rhythm Inside;217;4;vienna-2015;participants
+2015;Vienna;grand-final;14;Austria;The Makemakes;I Am Yours;NA;26;vienna-2015;participants
+2015;Vienna;grand-final;15;Greece;Maria Elena Kyriakou;One Last Breath;23;19;vienna-2015;participants
+2015;Vienna;grand-final;16;Montenegro;Knez;Adio;44;13;vienna-2015;participants
+2015;Vienna;grand-final;17;Germany;Ann Sophie;Black Smoke;NA;27;vienna-2015;participants
+2015;Vienna;grand-final;18;Poland;Monika Kuszynska;In The Name Of Love;10;23;vienna-2015;participants
+2015;Vienna;grand-final;19;Latvia;Aminata;Love Injected;186;6;vienna-2015;participants
+2015;Vienna;grand-final;20;Romania;Voltaj;De La Capat/ All Over Again;35;15;vienna-2015;participants
+2015;Vienna;grand-final;21;Spain;Edurne;Amanecer;15;21;vienna-2015;participants
+2015;Vienna;grand-final;22;Hungary;Boggie;Wars For Nothing;19;20;vienna-2015;participants
+2015;Vienna;grand-final;23;Georgia;Nina Sublatti;Warrior;51;11;vienna-2015;participants
+2015;Vienna;grand-final;24;Azerbaijan;Elnur Huseynov;Hour Of The Wolf;49;12;vienna-2015;participants
+2015;Vienna;grand-final;25;Russia;Polina Gagarina;A Million Voices;303;2;vienna-2015;participants
+2015;Vienna;grand-final;26;Albania;Elhaida Dani;I'm Alive;34;17;vienna-2015;participants
+2015;Vienna;grand-final;27;Italy;Il Volo;Grande Amore;292;3;vienna-2015;participants
+2016;Stockholm;first-semi-final;1;Finland;Sandhja;Sing It Away;51;15;stockholm-2016;participants
+2016;Stockholm;first-semi-final;2;Greece;Argo;Utopian Land;44;16;stockholm-2016;participants
+2016;Stockholm;first-semi-final;3;Moldova;Lidia Isac;Falling Stars;33;17;stockholm-2016;participants
+2016;Stockholm;first-semi-final;4;Hungary;Freddie;Pioneer;197;4;stockholm-2016;participants
+2016;Stockholm;first-semi-final;5;Croatia;Nina Kraljic;Lighthouse;133;10;stockholm-2016;participants
+2016;Stockholm;first-semi-final;6;The Netherlands;Douwe Bob;Slow Down;197;5;stockholm-2016;participants
+2016;Stockholm;first-semi-final;7;Armenia;Iveta Mukuchyan;LoveWave;243;2;stockholm-2016;participants
+2016;Stockholm;first-semi-final;8;San Marino;Serhat;I Didn't Know;68;12;stockholm-2016;participants
+2016;Stockholm;first-semi-final;9;Russia;Sergey Lazarev;You Are The Only One;342;1;stockholm-2016;participants
+2016;Stockholm;first-semi-final;10;Czech Republic;Gabriela Guncíková;I Stand;161;9;stockholm-2016;participants
+2016;Stockholm;first-semi-final;11;Cyprus;Minus One;Alter Ego;164;8;stockholm-2016;participants
+2016;Stockholm;first-semi-final;12;Austria;ZOË;Loin d'ici;170;7;stockholm-2016;participants
+2016;Stockholm;first-semi-final;13;Estonia;Jüri Pootsmann;Play;24;18;stockholm-2016;participants
+2016;Stockholm;first-semi-final;14;Azerbaijan;Samra;Miracle;185;6;stockholm-2016;participants
+2016;Stockholm;first-semi-final;15;Montenegro;Highway;The Real Thing;60;13;stockholm-2016;participants
+2016;Stockholm;first-semi-final;16;Iceland;Greta Salóme;Hear Them Calling;51;14;stockholm-2016;participants
+2016;Stockholm;first-semi-final;17;Bosnia & Herzegovina;Dalal & Deen feat. Ana Rucner and Jala;Ljubav Je;104;11;stockholm-2016;participants
+2016;Stockholm;first-semi-final;18;Malta;Ira Losco;Walk On Water;209;3;stockholm-2016;participants
+2016;Stockholm;second-semi-final;1;Latvia;Justs;Heartbeat;132;8;stockholm-2016;participants
+2016;Stockholm;second-semi-final;2;Poland;Michal Szpak;Color Of Your Life;151;6;stockholm-2016;participants
+2016;Stockholm;second-semi-final;3;Switzerland;Rykka;The Last Of Our Kind;28;18;stockholm-2016;participants
+2016;Stockholm;second-semi-final;4;Israel;Hovi Star;Made Of Stars;147;7;stockholm-2016;participants
+2016;Stockholm;second-semi-final;5;Belarus;IVAN;Help You Fly;84;12;stockholm-2016;participants
+2016;Stockholm;second-semi-final;6;Serbia;Sanja Vucic ZAA;Goodbye (Shelter);105;10;stockholm-2016;participants
+2016;Stockholm;second-semi-final;7;Ireland;Nicky Byrne;Sunlight;46;15;stockholm-2016;participants
+2016;Stockholm;second-semi-final;8;North Macedonia;Kaliopi;Dona;88;11;stockholm-2016;participants
+2016;Stockholm;second-semi-final;9;Lithuania;Donny Montell;I've Been Waiting for This Night;222;4;stockholm-2016;participants
+2016;Stockholm;second-semi-final;10;Australia;Dami Im;Sound Of Silence;330;1;stockholm-2016;participants
+2016;Stockholm;second-semi-final;11;Slovenia;ManuElla;Blue And Red;57;14;stockholm-2016;participants
+2016;Stockholm;second-semi-final;12;Bulgaria;Poli Genova;If Love Was A Crime;220;5;stockholm-2016;participants
+2016;Stockholm;second-semi-final;13;Denmark;Lighthouse X;Soldiers Of Love;34;17;stockholm-2016;participants
+2016;Stockholm;second-semi-final;14;Ukraine;Jamala;1944;287;2;stockholm-2016;participants
+2016;Stockholm;second-semi-final;15;Norway;Agnete;Icebreaker;63;13;stockholm-2016;participants
+2016;Stockholm;second-semi-final;16;Georgia;Nika Kocharov and Young Georgian Lolitaz;Midnight Gold;123;9;stockholm-2016;participants
+2016;Stockholm;second-semi-final;17;Albania;Eneda Tarifa;Fairytale;45;16;stockholm-2016;participants
+2016;Stockholm;second-semi-final;18;Belgium;Laura Tesoro;What's The Pressure;274;3;stockholm-2016;participants
+2016;Stockholm;grand-final;1;Belgium;Laura Tesoro;What's The Pressure;181;10;stockholm-2016;participants
+2016;Stockholm;grand-final;2;Czech Republic;Gabriela Guncíková;I Stand;41;25;stockholm-2016;participants
+2016;Stockholm;grand-final;3;The Netherlands;Douwe Bob;Slow Down;153;11;stockholm-2016;participants
+2016;Stockholm;grand-final;4;Azerbaijan;Samra;Miracle;117;17;stockholm-2016;participants
+2016;Stockholm;grand-final;5;Hungary;Freddie;Pioneer;108;19;stockholm-2016;participants
+2016;Stockholm;grand-final;6;Italy;Francesca Michielin;No Degree Of Separation;124;16;stockholm-2016;participants
+2016;Stockholm;grand-final;7;Israel;Hovi Star;Made Of Stars;135;14;stockholm-2016;participants
+2016;Stockholm;grand-final;8;Bulgaria;Poli Genova;If Love Was A Crime;307;4;stockholm-2016;participants
+2016;Stockholm;grand-final;9;Sweden;Frans;If I Were Sorry;261;5;stockholm-2016;participants
+2016;Stockholm;grand-final;10;Germany;Jamie-Lee;Ghost;11;26;stockholm-2016;participants
+2016;Stockholm;grand-final;11;France;Amir;J'ai cherché;257;6;stockholm-2016;participants
+2016;Stockholm;grand-final;12;Poland;Michal Szpak;Color Of Your Life;229;8;stockholm-2016;participants
+2016;Stockholm;grand-final;13;Australia;Dami Im;Sound Of Silence;511;2;stockholm-2016;participants
+2016;Stockholm;grand-final;14;Cyprus;Minus One;Alter Ego;96;21;stockholm-2016;participants
+2016;Stockholm;grand-final;15;Serbia;Sanja Vucic ZAA;Goodbye (Shelter);115;18;stockholm-2016;participants
+2016;Stockholm;grand-final;16;Lithuania;Donny Montell;I've Been Waiting for This Night;200;9;stockholm-2016;participants
+2016;Stockholm;grand-final;17;Croatia;Nina Kraljic;Lighthouse;73;23;stockholm-2016;participants
+2016;Stockholm;grand-final;18;Russia;Sergey Lazarev;You Are The Only One;491;3;stockholm-2016;participants
+2016;Stockholm;grand-final;19;Spain;Barei;Say Yay!;77;22;stockholm-2016;participants
+2016;Stockholm;grand-final;20;Latvia;Justs;Heartbeat;132;15;stockholm-2016;participants
+2016;Stockholm;grand-final;21;Ukraine;Jamala;1944;534;1;stockholm-2016;participants
+2016;Stockholm;grand-final;22;Malta;Ira Losco;Walk On Water;153;12;stockholm-2016;participants
+2016;Stockholm;grand-final;23;Georgia;Nika Kocharov and Young Georgian Lolitaz;Midnight Gold;104;20;stockholm-2016;participants
+2016;Stockholm;grand-final;24;Austria;ZOË;Loin d'ici;151;13;stockholm-2016;participants
+2016;Stockholm;grand-final;25;United Kingdom;Joe and Jake;You're Not Alone;62;24;stockholm-2016;participants
+2016;Stockholm;grand-final;26;Armenia;Iveta Mukuchyan;LoveWave;249;7;stockholm-2016;participants
+2017;Kyiv;first-semi-final;1;Sweden;Robin Bengtsson;I Can't Go On;227;3;kyiv-2017;participants
+2017;Kyiv;first-semi-final;2;Georgia;Tamara Gachechiladze;Keep The Faith;99;11;kyiv-2017;participants
+2017;Kyiv;first-semi-final;3;Australia;Isaiah;Don't Come Easy;160;6;kyiv-2017;participants
+2017;Kyiv;first-semi-final;4;Albania;Lindita;World;76;14;kyiv-2017;participants
+2017;Kyiv;first-semi-final;5;Belgium;Blanche;City Lights;165;4;kyiv-2017;participants
+2017;Kyiv;first-semi-final;6;Montenegro;Slavko Kalezic;Space;56;16;kyiv-2017;participants
+2017;Kyiv;first-semi-final;7;Finland;Norma John;Blackbird;92;12;kyiv-2017;participants
+2017;Kyiv;first-semi-final;8;Azerbaijan;Dihaj;Skeletons;150;8;kyiv-2017;participants
+2017;Kyiv;first-semi-final;9;Portugal;Salvador Sobral;Amar Pelos Dois;370;1;kyiv-2017;participants
+2017;Kyiv;first-semi-final;10;Greece;Demy;This is Love;115;10;kyiv-2017;participants
+2017;Kyiv;first-semi-final;11;Poland;Kasia Mos;Flashlight;119;9;kyiv-2017;participants
+2017;Kyiv;first-semi-final;12;Moldova;Sunstroke Project;Hey Mamma;291;2;kyiv-2017;participants
+2017;Kyiv;first-semi-final;13;Iceland;Svala;Paper;60;15;kyiv-2017;participants
+2017;Kyiv;first-semi-final;14;Czech Republic;Martina Bárta;My Turn;83;13;kyiv-2017;participants
+2017;Kyiv;first-semi-final;15;Cyprus;Hovig;Gravity;164;5;kyiv-2017;participants
+2017;Kyiv;first-semi-final;16;Armenia;Artsvik;Fly With Me;152;7;kyiv-2017;participants
+2017;Kyiv;first-semi-final;17;Slovenia;Omar Naber;On My Way;36;17;kyiv-2017;participants
+2017;Kyiv;first-semi-final;18;Latvia;Triana Park;Line;21;18;kyiv-2017;participants
+2017;Kyiv;second-semi-final;1;Serbia;Tijana Bogicevic;In Too Deep;98;11;kyiv-2017;participants
+2017;Kyiv;second-semi-final;2;Austria;Nathan Trent;Running On Air;147;7;kyiv-2017;participants
+2017;Kyiv;second-semi-final;3;North Macedonia;Jana Burceska;Dance Alone;69;15;kyiv-2017;participants
+2017;Kyiv;second-semi-final;4;Malta;Claudia Faniello;Breathlessly;55;16;kyiv-2017;participants
+2017;Kyiv;second-semi-final;5;Romania;Ilinca ft. Alex Florea;Yodel It!;174;6;kyiv-2017;participants
+2017;Kyiv;second-semi-final;6;The Netherlands;OG3NE;Lights and Shadows;200;4;kyiv-2017;participants
+2017;Kyiv;second-semi-final;7;Hungary;Joci Pápai;Origo;231;2;kyiv-2017;participants
+2017;Kyiv;second-semi-final;8;Denmark;Anja;Where I Am;101;10;kyiv-2017;participants
+2017;Kyiv;second-semi-final;9;Ireland;Brendan Murray;Dying to Try;86;13;kyiv-2017;participants
+2017;Kyiv;second-semi-final;10;San Marino;Valentina Monetta and Jimmie Wilson;Spirit of the Night;1;18;kyiv-2017;participants
+2017;Kyiv;second-semi-final;11;Croatia;Jacques Houdek;My Friend;141;8;kyiv-2017;participants
+2017;Kyiv;second-semi-final;12;Norway;JOWST;Grab The Moment;189;5;kyiv-2017;participants
+2017;Kyiv;second-semi-final;13;Switzerland;Timebelle;Apollo;97;12;kyiv-2017;participants
+2017;Kyiv;second-semi-final;14;Belarus;Naviband;Story of My Life;110;9;kyiv-2017;participants
+2017;Kyiv;second-semi-final;15;Bulgaria;Kristian Kostov;Beautiful Mess;403;1;kyiv-2017;participants
+2017;Kyiv;second-semi-final;16;Lithuania;Fusedmarc;Rain Of Revolution;42;17;kyiv-2017;participants
+2017;Kyiv;second-semi-final;17;Estonia;Koit Toome & Laura;Verona;85;14;kyiv-2017;participants
+2017;Kyiv;second-semi-final;18;Israel;IMRI;I Feel Alive;207;3;kyiv-2017;participants
+2017;Kyiv;grand-final;1;Israel;IMRI;I Feel Alive;39;23;kyiv-2017;participants
+2017;Kyiv;grand-final;2;Poland;Kasia Mos;Flashlight;64;22;kyiv-2017;participants
+2017;Kyiv;grand-final;3;Belarus;Naviband;Story of My Life;83;17;kyiv-2017;participants
+2017;Kyiv;grand-final;4;Austria;Nathan Trent;Running On Air;93;16;kyiv-2017;participants
+2017;Kyiv;grand-final;5;Armenia;Artsvik;Fly With Me;79;18;kyiv-2017;participants
+2017;Kyiv;grand-final;6;The Netherlands;OG3NE;Lights and Shadows;150;11;kyiv-2017;participants
+2017;Kyiv;grand-final;7;Moldova;Sunstroke Project;Hey Mamma;374;3;kyiv-2017;participants
+2017;Kyiv;grand-final;8;Hungary;Joci Pápai;Origo;200;8;kyiv-2017;participants
+2017;Kyiv;grand-final;9;Italy;Francesco Gabbani;Occidentali's Karma;334;6;kyiv-2017;participants
+2017;Kyiv;grand-final;10;Denmark;Anja;Where I Am;77;20;kyiv-2017;participants
+2017;Kyiv;grand-final;11;Portugal;Salvador Sobral;Amar Pelos Dois;758;1;kyiv-2017;participants
+2017;Kyiv;grand-final;12;Azerbaijan;Dihaj;Skeletons;120;14;kyiv-2017;participants
+2017;Kyiv;grand-final;13;Croatia;Jacques Houdek;My Friend;128;13;kyiv-2017;participants
+2017;Kyiv;grand-final;14;Australia;Isaiah;Don't Come Easy;173;9;kyiv-2017;participants
+2017;Kyiv;grand-final;15;Greece;Demy;This is Love;77;19;kyiv-2017;participants
+2017;Kyiv;grand-final;16;Spain;Manel Navarro;Do It For Your Lover;5;26;kyiv-2017;participants
+2017;Kyiv;grand-final;17;Norway;JOWST;Grab The Moment;158;10;kyiv-2017;participants
+2017;Kyiv;grand-final;18;United Kingdom;Lucie Jones;Never Give Up On You;111;15;kyiv-2017;participants
+2017;Kyiv;grand-final;19;Cyprus;Hovig;Gravity;68;21;kyiv-2017;participants
+2017;Kyiv;grand-final;20;Romania;Ilinca ft. Alex Florea;Yodel It!;282;7;kyiv-2017;participants
+2017;Kyiv;grand-final;21;Germany;Levina;Perfect Life;6;25;kyiv-2017;participants
+2017;Kyiv;grand-final;22;Ukraine;O.Torvald;Time;36;24;kyiv-2017;participants
+2017;Kyiv;grand-final;23;Belgium;Blanche;City Lights;363;4;kyiv-2017;participants
+2017;Kyiv;grand-final;24;Sweden;Robin Bengtsson;I Can't Go On;344;5;kyiv-2017;participants
+2017;Kyiv;grand-final;25;Bulgaria;Kristian Kostov;Beautiful Mess;615;2;kyiv-2017;participants
+2017;Kyiv;grand-final;26;France;Alma;Requiem;135;12;kyiv-2017;participants
+2018;Lisbon;first-semi-final;1;Azerbaijan;Aisel;X My Heart;94;11;lisbon-2018;participants
+2018;Lisbon;first-semi-final;2;Iceland;Ari Ólafsson;Our Choice;15;19;lisbon-2018;participants
+2018;Lisbon;first-semi-final;3;Albania;Eugent Bushpepa;Mall;162;8;lisbon-2018;participants
+2018;Lisbon;first-semi-final;4;Belgium;Sennek;A Matter Of Time;91;12;lisbon-2018;participants
+2018;Lisbon;first-semi-final;5;Czech Republic;Mikolas Josef;Lie To Me;232;3;lisbon-2018;participants
+2018;Lisbon;first-semi-final;6;Lithuania;Ieva Zasimauskaite;When We're Old;119;9;lisbon-2018;participants
+2018;Lisbon;first-semi-final;7;Israel;Netta;TOY;283;1;lisbon-2018;participants
+2018;Lisbon;first-semi-final;8;Belarus;ALEKSEEV;FOREVER;65;16;lisbon-2018;participants
+2018;Lisbon;first-semi-final;9;Estonia;Elina Nechayeva;La Forza;201;5;lisbon-2018;participants
+2018;Lisbon;first-semi-final;10;Bulgaria;EQUINOX;Bones;177;7;lisbon-2018;participants
+2018;Lisbon;first-semi-final;11;North Macedonia;Eye Cue;Lost And Found;24;18;lisbon-2018;participants
+2018;Lisbon;first-semi-final;12;Croatia;Franka;Crazy;63;17;lisbon-2018;participants
+2018;Lisbon;first-semi-final;13;Austria;Cesár Sampson;Nobody But You;231;4;lisbon-2018;participants
+2018;Lisbon;first-semi-final;14;Greece;Yianna Terzi;Oniro Mou;81;14;lisbon-2018;participants
+2018;Lisbon;first-semi-final;15;Finland;Saara Aalto;Monsters;108;10;lisbon-2018;participants
+2018;Lisbon;first-semi-final;16;Armenia;Sevak Khanagyan;Qami;79;15;lisbon-2018;participants
+2018;Lisbon;first-semi-final;17;Switzerland;ZiBBZ;Stones;86;13;lisbon-2018;participants
+2018;Lisbon;first-semi-final;18;Ireland;Ryan O'Shaughnessy;Together;179;6;lisbon-2018;participants
+2018;Lisbon;first-semi-final;19;Cyprus;Eleni Foureira;Fuego;262;2;lisbon-2018;participants
+2018;Lisbon;second-semi-final;1;Norway;Alexander Rybak;That's How You Write A Song;266;1;lisbon-2018;participants
+2018;Lisbon;second-semi-final;2;Romania;The Humans;Goodbye;107;11;lisbon-2018;participants
+2018;Lisbon;second-semi-final;3;Serbia;Sanja Ilic & Balkanika;Nova Deca;117;9;lisbon-2018;participants
+2018;Lisbon;second-semi-final;4;San Marino;Jessika featuring Jenifer Brening;Who We Are;28;17;lisbon-2018;participants
+2018;Lisbon;second-semi-final;5;Denmark;Rasmussen;Higher Ground;204;5;lisbon-2018;participants
+2018;Lisbon;second-semi-final;6;Russia;Julia Samoylova;I Won't Break;65;15;lisbon-2018;participants
+2018;Lisbon;second-semi-final;7;Moldova;DoReDoS;My Lucky Day;235;3;lisbon-2018;participants
+2018;Lisbon;second-semi-final;8;The Netherlands;Waylon;Outlaw In 'Em;174;7;lisbon-2018;participants
+2018;Lisbon;second-semi-final;9;Australia;Jessica Mauboy;We Got Love;212;4;lisbon-2018;participants
+2018;Lisbon;second-semi-final;10;Georgia;Ethno-Jazz Band Iriao;For You;24;18;lisbon-2018;participants
+2018;Lisbon;second-semi-final;11;Poland;Gromee feat. Lukas Meijer;Light Me Up;81;14;lisbon-2018;participants
+2018;Lisbon;second-semi-final;12;Malta;Christabelle;Taboo;101;13;lisbon-2018;participants
+2018;Lisbon;second-semi-final;13;Hungary;AWS;Viszlát Nyár;111;10;lisbon-2018;participants
+2018;Lisbon;second-semi-final;14;Latvia;Laura Rizzotto;Funny Girl;106;12;lisbon-2018;participants
+2018;Lisbon;second-semi-final;15;Sweden;Benjamin Ingrosso;Dance You Off;254;2;lisbon-2018;participants
+2018;Lisbon;second-semi-final;16;Montenegro;Vanja Radovanovic;Inje;40;16;lisbon-2018;participants
+2018;Lisbon;second-semi-final;17;Slovenia;Lea Sirk;Hvala, ne!;132;8;lisbon-2018;participants
+2018;Lisbon;second-semi-final;18;Ukraine;MELOVIN;Under The Ladder;179;6;lisbon-2018;participants
+2018;Lisbon;grand-final;1;Ukraine;MELOVIN;Under The Ladder;130;17;lisbon-2018;participants
+2018;Lisbon;grand-final;2;Spain;Amaia y Alfred;Tu Canción;61;23;lisbon-2018;participants
+2018;Lisbon;grand-final;3;Slovenia;Lea Sirk;Hvala, ne!;64;22;lisbon-2018;participants
+2018;Lisbon;grand-final;4;Lithuania;Ieva Zasimauskaite;When We're Old;181;12;lisbon-2018;participants
+2018;Lisbon;grand-final;5;Austria;Cesár Sampson;Nobody But You;342;3;lisbon-2018;participants
+2018;Lisbon;grand-final;6;Estonia;Elina Nechayeva;La Forza;245;8;lisbon-2018;participants
+2018;Lisbon;grand-final;7;Norway;Alexander Rybak;That's How You Write A Song;144;15;lisbon-2018;participants
+2018;Lisbon;grand-final;8;Portugal;Cláudia Pascoal;O Jardim;39;26;lisbon-2018;participants
+2018;Lisbon;grand-final;9;United Kingdom;SuRie;Storm;48;24;lisbon-2018;participants
+2018;Lisbon;grand-final;10;Serbia;Sanja Ilic & Balkanika;Nova Deca;113;19;lisbon-2018;participants
+2018;Lisbon;grand-final;11;Germany;Michael Schulte;You Let Me Walk Alone;340;4;lisbon-2018;participants
+2018;Lisbon;grand-final;12;Albania;Eugent Bushpepa;Mall;184;11;lisbon-2018;participants
+2018;Lisbon;grand-final;13;France;Madame Monsieur;Mercy;173;13;lisbon-2018;participants
+2018;Lisbon;grand-final;14;Czech Republic;Mikolas Josef;Lie To Me;281;6;lisbon-2018;participants
+2018;Lisbon;grand-final;15;Denmark;Rasmussen;Higher Ground;226;9;lisbon-2018;participants
+2018;Lisbon;grand-final;16;Australia;Jessica Mauboy;We Got Love;99;20;lisbon-2018;participants
+2018;Lisbon;grand-final;17;Finland;Saara Aalto;Monsters;46;25;lisbon-2018;participants
+2018;Lisbon;grand-final;18;Bulgaria;EQUINOX;Bones;166;14;lisbon-2018;participants
+2018;Lisbon;grand-final;19;Moldova;DoReDoS;My Lucky Day;209;10;lisbon-2018;participants
+2018;Lisbon;grand-final;20;Sweden;Benjamin Ingrosso;Dance You Off;274;7;lisbon-2018;participants
+2018;Lisbon;grand-final;21;Hungary;AWS;Viszlát Nyár;93;21;lisbon-2018;participants
+2018;Lisbon;grand-final;22;Israel;Netta;TOY;529;1;lisbon-2018;participants
+2018;Lisbon;grand-final;23;The Netherlands;Waylon;Outlaw In 'Em;121;18;lisbon-2018;participants
+2018;Lisbon;grand-final;24;Ireland;Ryan O'Shaughnessy;Together;136;16;lisbon-2018;participants
+2018;Lisbon;grand-final;25;Cyprus;Eleni Foureira;Fuego;436;2;lisbon-2018;participants
+2018;Lisbon;grand-final;26;Italy;Ermal Meta e Fabrizio Moro;Non Mi Avete Fatto Niente;308;5;lisbon-2018;participants
+2019;Tel Aviv;first-semi-final;1;Cyprus;Tamta;Replay;149;9;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;2;Montenegro;D mol;Heaven;46;16;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;3;Finland;Darude feat. Sebastian rejman;Look Away;23;17;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;4;Poland;Tulia;Fire of Love;120;11;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;5;Slovenia;Zala Kralj & Gasper Santl;Sebi;167;6;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;6;Czech Republic;Lake Malawi;Friend of a Friend;242;2;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;7;Hungary;Joci Papai;Az ébn apám;97;12;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;8;Belarus;ZENA;Like It;122;10;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;9;Serbia;Nevena Bozovic;Kruna;156;7;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;10;Belgium;Eliot;Wake Up;70;13;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;11;Georgia;Oto Nemsadze;Keep it going;62;14;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;12;Australia;Kate Miller-Heidke;Zero Gravity;261;1;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;13;Iceland;Hatari;Hatrið mun sigra;221;3;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;14;Estonia;Victor Crone;Storm;198;4;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;15;Portugal;Conan Osiris;Telemóveis;51;15;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;16;Greece;Katherine Duska;Better Love;185;5;tel-aviv-2019;participants
+2019;Tel Aviv;first-semi-final;17;San Marino;Sherhat;Say Na Na Na;150;8;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;1;Armenia;Srbuk;Walking Out;49;16;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;2;Ireland;Sarah McTernan;22;16;18;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;3;Moldova;Anna Odobescu;Stay;85;12;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;4;Switzerland;Luca Hanni;She Got Me;232;4;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;5;Latvia;Carousel;That Night;50;15;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;6;Romania;Ester Peony;On a Sunday;71;13;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;7;Denmark;Leonora;Love Is Forever;94;10;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;8;Sweden;Jon Lundvik;Too Late For Love;238;3;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;9;Austria;PÆNDA;Limits;21;17;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;10;Croatia;Roko;The Dream;64;14;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;11;Malta;Michela;Chameleon;157;8;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;12;Lithuania;Jurij Veklenko;Run With The Lions;93;11;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;13;Russia;Sergey Lazarev;Scream;217;6;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;14;Albania;Jonida Maliqi;Ktheju tokes;96;9;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;15;Norway;KEiiNO;Spirit in the Sky;210;7;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;16;The Netherlands;Duncan Laurence;Archade;280;1;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;17;North Macedonia;Tamara Todevska;Proud;239;2;tel-aviv-2019;participants
+2019;Tel Aviv;second-semi-final;18;Azerbaijan;Chingiz;Truth;224;5;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;1;Malta;Michela;Chameleon;107;14;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;2;Albania;Jonida Maliqi;Ktheju tokes;90;17;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;3;Czech Republic;Lake Malawi;Friend of a Friend;157;11;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;4;Germany;S!sters;Sister;24;25;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;5;Russia;Sergey Lzarev;Scream;370;3;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;6;Denmark;Leonora;Love is Forever;120;12;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;7;San Marino;Serhat;Say Na Na Na;77;19;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;8;North Macedonia;Tamara Todevska;Proud;305;7;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;9;Sweden;Jon Lundvik;Too Late For Love;334;5;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;10;Slovenia;Zala Kralj & Gasper Santl;Sebi;105;15;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;11;Cyprus;Tamta;Replay;109;13;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;12;The Netherlands;Duncan Lurence;Arcade;498;1;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;13;Greece;Dkatherine Duska;Better Love;74;21;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;14;Israel;Kobi Marimi;Home;35;23;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;15;Norway;KEiiNO;Spirit in the Sky;331;6;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;16;United Kingdom;Michael Rice;Bigger than Us;11;26;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;17;Iceland;Hatari;Hatrið mun sigra;232;10;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;18;Estonia;Victor Crone;Storm;76;20;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;19;Belarus;ZENA;Like It;31;24;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;20;Azerbaijan;Chingiz;Truth;302;8;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;21;France;Bilal Hassani;Roi;105;16;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;22;Italy;Mahmood;Soldi;472;2;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;23;Serbia;Nevena Bozovic;Kruna;89;18;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;24;Switzerland;Luca Hanni;She Got Me;364;4;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;25;Australia;Kate Miller-Heidke;Zero Gravity;284;9;tel-aviv-2019;participants
+2019;Tel Aviv;grand-final;26;Spain;Miki;La Venda;54;22;tel-aviv-2019;participants
+1962;Luxembourg;final;1;Finland;Marion Rung;Tipi-tii;4;7;luxembourg-1962;participants
+1962;Luxembourg;final;2;Belgium;Fud Leclerc;Ton Nom;0;13;luxembourg-1962;participants
+1962;Luxembourg;final;3;Spain;Victor Balaguer;Llamme;0;13;luxembourg-1962;participants
+1962;Luxembourg;final;4;Austria;Elonore Schwarz;Nur In Der Wiener Luft;0;13;luxembourg-1962;participants
+1962;Luxembourg;final;5;Denmark;Ellen Winther;Vuggevise;2;10;luxembourg-1962;participants
+1962;Luxembourg;final;6;Sweden;Inger Berggren;Sol Och Var;4;7;luxembourg-1962;participants
+1962;Luxembourg;final;7;Germany;Conny Froboess;Zvei Kleine Italiener;9;6;luxembourg-1962;participants
+1962;Luxembourg;final;8;The Netherlands;De Spellbrekers;Katinka;0;13;luxembourg-1962;participants
+1962;Luxembourg;final;9;France;Isabelle Aubret;Un Premier Amour;26;1;luxembourg-1962;participants
+1962;Luxembourg;final;10;Norway;Inger Jacobsen;Kom Sol, Kom Regn;2;10;luxembourg-1962;participants
+1962;Luxembourg;final;11;Switzerland;Jean Phyilippe;Le Retour;2;10;luxembourg-1962;participants
+1962;Luxembourg;final;12;Yugoslavia;Lola Novakovic;Ne Pali Svetlo U Sumrak;10;4;luxembourg-1962;participants
+1962;Luxembourg;final;13;United Kingdom;Ronnie Carrol;Ring-a-ding Girl;10;4;luxembourg-1962;participants
+1962;Luxembourg;final;14;Luxembourg;Camillo Felgen;Petit Bonhomme;11;3;luxembourg-1962;participants
+1962;Luxembourg;final;15;Italy;Claudio Villa;Addio, Addio;3;9;luxembourg-1962;participants
+1962;Luxembourg;final;16;Monaco;Francois Deguelt;Dis Rien;13;2;luxembourg-1962;participants
+1963;London;final;1;United Kingdom;Ronnie Carroll;Say Wonderful Things;28;4;london-1963;participants
+1963;London;final;2;The Netherlands;Annie Palmen;Een Speeldoos;0;13;london-1963;participants
+1963;London;final;3;Germany;Heidi Bruhl;Marcel;5;9;london-1963;participants
+1963;London;final;4;Austria;Camela Corren;Vielleicht Geschiect Ein Winder;16;7;london-1963;participants
+1963;London;final;5;Norway;Anita Thallaug;Solhverv;0;13;london-1963;participants
+1963;London;final;6;Italy;Emilio Pericoli;Uno Per Tutte;37;3;london-1963;participants
+1963;London;final;7;Finland;Laila Halme;Muistojeni Laulu;0;13;london-1963;participants
+1963;London;final;8;Denmark;Grethe and Gorgen Ingmann;Danevise;42;1;london-1963;participants
+1963;London;final;9;Yugoslavia;Vice Vukov;Brodovi;3;11;london-1963;participants
+1963;London;final;10;Switzerland;Ester Ofarim;T'en Va Pas;40;2;london-1963;participants
+1963;London;final;11;France;Alain Barriere;Elle était Si Jolie;25;5;london-1963;participants
+1963;London;final;12;Spain;Jose Guardiola;Algo Prodigioso;2;12;london-1963;participants
+1963;London;final;13;Sweden;Monica Zetterlund;En Gang I stockholm;0;13;london-1963;participants
+1963;London;final;14;Belgium;Jaques Raymond;Waarom;4;10;london-1963;participants
+1963;London;final;15;Monaco;Francoise Hardy;L'amour S'en Va;25;5;london-1963;participants
+1963;London;final;16;Luxembourg;Nana Mouskouri;En Force De Prier;13;8;london-1963;participants
+1964;Copenhagen;final;1;Luxembourg;Hugues Aufray;Jij Bent Mijn Leven;14;4;copenhagen-1964;participants
+1964;Copenhagen;final;2;The Netherlands;Anneke Gr'nloh;Des Que Le Printemps Revient;2;10;copenhagen-1964;participants
+1964;Copenhagen;final;3;Norway;Arne Benediksen;Spiral;6;8;copenhagen-1964;participants
+1964;Copenhagen;final;4;Denmark;Björn Tidmand;Sangen Om Dig;4;9;copenhagen-1964;participants
+1964;Copenhagen;final;5;Finland;Lasse Martenson;Laiskotellen;9;7;copenhagen-1964;participants
+1964;Copenhagen;final;6;Austria;Udo Jurgens;Warum Nur, Warum?;11;6;copenhagen-1964;participants
+1964;Copenhagen;final;7;France;Rachel;Le Chant De Mallory;14;4;copenhagen-1964;participants
+1964;Copenhagen;final;8;United Kingdom;Matt Monro;I love the Little Things;17;2;copenhagen-1964;participants
+1964;Copenhagen;final;9;Germany;Nora Nova;Man Gewöhnt Sich So Schnell An Das Schöne;0;13;copenhagen-1964;participants
+1964;Copenhagen;final;10;Monaco;Romuald;Oú Sont-elles Passées?;15;3;copenhagen-1964;participants
+1964;Copenhagen;final;11;Portugal;António Calvário;Oracao;0;13;copenhagen-1964;participants
+1964;Copenhagen;final;12;Italy;Gigliola Cinquetti;Non Ho L'Éta;49;1;copenhagen-1964;participants
+1964;Copenhagen;final;13;Yugoslavia;Sabahudin Kurt;Zivot Je Sklopio Krug;0;13;copenhagen-1964;participants
+1964;Copenhagen;final;14;Switzerland;Anita Traversi;I Miene Pensieri;0;13;copenhagen-1964;participants
+1964;Copenhagen;final;15;Belgium;Robert Cogoi;Prés de Ma Riviére;2;10;copenhagen-1964;participants
+1964;Copenhagen;final;16;Spain;Tim, Nelly and Tony;Caracola;1;12;copenhagen-1964;participants
